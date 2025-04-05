@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+<fileDesc>
+  <titleStmt>
+		<title>Edition by Tripathi and Negi</title>
+		<title type="alt">In Hevajratantra with Muktāvalī Pañjikā of Mahāpaṇḍitācārya Ratnākaraśānti</title>
+		<editor>Ram Shankar Tripathi and Thakur Sain Negi</editor>
+  </titleStmt>
+  <publicationStmt>
+		<date calendar="Gregorian">2001</date>
+		<publisher>Central Institute of Higher Tibetan Studies</publisher>
+		<pubPlace>Sarnath</pubPlace>
+  </publicationStmt>
+  <sourceDesc>
+
+		<msDesc>
+			 <msIdentifier>
+				  <idno type="siglum">Ed<sup>T</sup></idno>
+			 </msIdentifier>
+			 <physDesc>
+				  <objectDesc form="book">
+						<supportDesc material="paper">
+							 <extent>  
+								  <measure quantity="188" unit="pages">345</measure>
+							 </extent>
+						</supportDesc>
+
+					  <layoutDesc>
+					  </layoutDesc>
+				  </objectDesc>
+				  
+				  <bindingDesc>
+				  </bindingDesc>
+			 </physDesc>
+			 <history>
+				  <origin>
+				  </origin>
+			 </history>
+		</msDesc>
+  </sourceDesc>
+</fileDesc>
+<encodingDesc>    
+	<p>IAST transliteration.</p>
+</encodingDesc>
+
+<revisionDesc>
+<change when="2022-10">First version.</change>
+</revisionDesc>
+</teiHeader>
+
+
+<text xml:lang="sa-Latn">
+  <body>
+
+<!--End of kalpa 1-->
+
+<div n="2" type="kalpa">
+<!--End of paṭala 2.1-->
+
+<!--End of paṭala 2.2-->
+
+<!--End of paṭala 2.3-->
+
+<!--End of paṭala 2.4-->
+
+<!--End of paṭala 2.5-->
+
+<!--End of paṭala 2.6-->
+
+<!--End of paṭala 2.7-->
+
+<!--End of paṭala 2.8-->
+
+<!--End of paṭala 2.9-->
+
+
+<!--End of paṭala 2.10-->
+
+
+<!--End of paṭala 2.11-->
+
+
+<!--End of paṭala 2.12-->
+
+</div> <!--End of kalpa 2-->
+        </body>
+    </text>
+</TEI>

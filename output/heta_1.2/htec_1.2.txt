@@ -1,0 +1,232 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+    <fileDesc>
+        <titleStmt>
+            <title>Provisional edition</title>
+            <title type="alt">The Hevajratantra, with special reference to Kamalanātha Ratnāvalī, edited by Ryan Conlon</title>
+            <editor>Ryan Conlon</editor>
+        </titleStmt>
+        <publicationStmt>
+            <date calendar="Gregorian">2022</date>
+            <publisher/>
+            <pubPlace>Universität</pubPlace>
+        </publicationStmt>
+        <sourceDesc>
+
+            <msDesc xml:lang="en">
+                <msIdentifier>
+                    <idno type="siglum">Ed<sup>C</sup></idno>
+                </msIdentifier>
+
+                <msContents>
+                    <summary>This is a provisionary critical edition of the text, currently still under active revision, based on five manuscript witnesses and two printed sources.</summary>
+
+                    <msItem n="1" defective="false">
+
+                        <textLang mainLang="sa-Latn">Sanskrit in IAST transliteration.</textLang>
+
+                    </msItem>
+                </msContents>
+
+                <physDesc>
+                    <objectDesc form="xml">
+                        <supportDesc material="digital">
+                            <extent> 
+                            </extent>
+                        </supportDesc>
+                    </objectDesc>
+                </physDesc>
+
+                <history>
+                    <origin>
+                        <origDate calendar="Gregorian" when="2020">2020 CE</origDate>
+                        <origPlace>Germany</origPlace>
+                    </origin>
+                </history>
+
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+
+    <revisionDesc>
+        <change when="2022-10-12">
+            <persName>Ryan Conlon</persName>
+        </change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text xml:lang="sa-Latn">
+   <body>
+
+<div n="1" type="kalpa">
+<!--End of paṭala 1.1-->
+
+<div n="2" type="paṭala">
+<p xml:id="HT1.2.1">
+	mantrapaṭalaṃ vyākhyāsyāmaḥ |
+	
+	sārvabhautikabalimantraḥ—oṁ akāro mukhaṃ sarvadharmāṇām ādyanutpannatvāt | oṁ āḥ hūṁ phaṭ svāhā || 1 ||
+</p>
+
+<p xml:id="HT1.2.2">
+	tathāgatānāṃ bījam—buṁ āṃ jrīṃ khaṃ hūṃ || 2 ||
+</p>
+
+<p xml:id="HT1.2.3">
+	oṁ deva picuvajra hūṁ hūṁ hūṁ phaṭ svāhā—hevajrasya hṛdayam || 3 ||
+</p>
+
+<p xml:id="HT1.2.4">
+	sarve mantrapadā oṃkārādisvāhāntahūṁphaṭkāravidarbhitāḥ || 4 ||
+</p>
+
+<p xml:id="HT1.2.5">
+	oṁ a ka ca ṭa ta pa ya śa svāhā—purakṣobhamantraḥ || 5 ||
+</p>
+
+<p xml:id="HT1.2.6">
+	yoginīnāṃ bījaṃ—a ā i ī u ū ṛ ṝ ḷ ḹ e ai o au aṃ || 6 ||
+</p>
+
+<p xml:id="HT1.2.7">
+	dvibhujasya—oṁ trailokyākṣepa hūṁ hūṁ hūṁ phaṭ svāhā || 7 ||
+</p>
+
+<p xml:id="HT1.2.8">
+	caturbhujasya—oṁ jvalajvala bhyo hūṁ hūṁ hūṁ phaṭ svāhā || 8 ||
+</p>
+
+<p xml:id="HT1.2.9">
+	ṣaḍbhujasya—oṃ kiṭikiṭivajra hūṁ hūṁ hūṁ phaṭ svāhā || 9 ||
+</p>
+
+<p xml:id="HT1.2.10">
+	adhiṣṭhānamantraḥ—oṁ āḥ hūṁ || 10 ||
+</p>
+
+<p xml:id="HT1.2.11">
+	bhūmiśodhanamantraḥ—oṁ rakṣa rakṣa hūṁ hūṁ hūṁ phaṭ svāhā || 11 ||
+</p>
+
+<p xml:id="HT1.2.12">
+	oṁ hūṁ svāhā—stambanam || 12 ||
+</p>
+
+<p xml:id="HT1.2.13">
+	oṁ aṁ svāhā—vaśyam || 13 ||
+</p>
+
+<p xml:id="HT1.2.14">
+	oṁ khaṁ svāhā—uccāṭanam || 14 ||
+</p>
+
+<p xml:id="HT1.2.15">
+	oṁ jrīṁ svāhā—dveṣam || 15 ||
+</p>
+
+<p xml:id="HT1.2.16">
+	oṁ buṁ svāhā—abhicārukam || 16 ||
+</p>
+
+<p xml:id="HT1.2.17">
+	oṁ hūṁ svāhā—ākarṣaṇam || 17 ||
+</p>
+
+<p xml:id="HT1.2.18">
+	oṁ ghuḥ svāhā—māraṇam || 18 ||
+</p>
+
+<p xml:id="HT1.2.19">
+	kurukullāyāḥ—oṁ kurukulle hrīḥ svāhā || 19 ||
+</p>
+
+<p xml:id="HT1.2.20">
+	āḥphuḥkāreṇānantapratikṛtiṃ kṛtvā pañcāmṛtena snāpayet | kṛṣṇapuṣpeṇābhyarcayet | nāgadamanakarasena lepayet | hastimadena śiro lepayet | śarāvadvayena saṃpuṭīkṛtya sthāpayet | kṛṣṇagokṣīreṇa pūrayet | kṛṣṇakumārīkartitasūtreṇa veṣṭayet | vāyavyāṃ diśi puṣkariṇīṃ kṛtvā tam anantaṃ sthāpayet | tasyās taṭe maṇḍalaṃ vartayet | kṛṣṇarajaḥ śmaśānāṅgāreṇa sitarajo narāsthicūrṇena pītarajo haritālakena raktarajaḥ śmaśāneṣṭakena haritarajo narāsthicūrṇacauryapatrābhyāṃ nīlarajo narāsthicūrṇaśmaśānāṅgārābhyām | rajobhir ebhir maṇḍalaṃ vartayitvā śmaśānasūtreṇa saṃsūtrya trayahastaṃ tanmadhye 'nantākrāntaṃ hevajraṃ likhet | aṣṭāsyaṃ catuścaraṇaṃ bhujaṣoḍaśabhūṣitaṃ caturviṃśatinetrāḍhyam | paścād ācārya ādhmātmakrūracetasā mantraṃ japed vijane deśe | oṁ ghuru ghuru ghuḍu ghuḍu ghaḍa ghaḍa masa masa ghaṭa ghaṭa ghoṭaya ghoṭaya anantakṣobhakarāya nāgādhipataye he he ru ru ka saptapātālagatān nāgān ākarṣaya varṣaya garjaya tarjaya phuḥ phuḥ phuḥ phuḥ phuḥ phuḥ phuḥ phuḥ hūṁ hūṁ hūṁ phaṭ svāhā | yadi na varṣanti tadaitan mantraṃ viparītaṃ japet | varṣanti | yadi na varṣanti tadā mūrdhā sphuṭati arjakasyeva mañjarī | iti varṣāpaṇavidhiḥ || 20 ||
+</p>
+
+<p xml:id="HT1.2.21">
+	meghānāṃ sphāṭanaṃ vakṣye | śmaśānakarpaṭa upaviśya mantraṃ japan sphāṭayet | oṁ āryaśmaśānapriyāya hūṁ hūṁ hūṁ phaṭ svāhā | meghasphāṭanavidhiḥ || 21 ||
+</p>
+
+<p xml:id="HT1.2.22">
+	parasainyavināśāya khaṭikāsādhanaṃ vakṣye | khaṭikāṃ piṣṭvā pañcāmṛtena kuṭhāracchinnayā sārdhaṃ vaṭikāṃ kārayet | mantraṃ oṃ vajrakartari hevajrāya hūṁ hūṁ hūṁ phaṭ siddhyarthaṃ koṭiṃ japet | pūrvasevā lakṣaṃ japet | tāṃ sādhya kamaṇḍalugrīvāṃ veṣṭayet | veṣṭayitvā bhañjayet | sarve śatravaḥ śirohīnā bhavanti | vajrakartarividhiḥ || 22 ||
+</p>
+
+<p xml:id="HT1.2.23">
+	devān sphāṭayitukāmena tilakaṃ sādhanīyam | brahmabījaṃ puṣyasādhitaṃ kuṭhārachinnāmiśritaṃ sūryagrāse akṣobhyena pīṣayet | piṣṭvā paraśuṃ saṃskaret | taṃ pādenākramya mantraṃ japet—oṁ vajrakuṭhāra pāṭaya pāṭaya hūṁ hūṁ hūṁ phaṭ svāhā | koṭiṃ japya tilakaṃ vandayet | yam avalagati sa sphuṭati | devatāsphāṭanavidhiḥ || 23 ||
+</p>
+
+<p xml:id="HT1.2.24">
+	tāpajvaraṃ kartukāmenārkadale viṣarājikācitrakarasena śatror nāma likhet | tuṣāgnau nikṣipet | mantram ayutaṃ japet | oṁ hevajra jvara jvara śatrūn bhrūṁ hūṁ hūṁ hūṁ phaṭ svāhā | ayutajāpena sidhyati || 24 ||
+</p>
+
+<p xml:id="HT1.2.25">
+	madyam udgiritukāmena sādhyasya nābhau maṃkāraṃ bhāvayet | maṃkāraniṣpannaṃ madyodaraṃ vibhāvayet | vāntiṃ kurvan dṛṣyate | madyam udgirati || 25 ||
+</p>
+
+<p xml:id="HT1.2.26">
+	pramadāṃ vaśīkartukāmenāśokāṣṭamyām aśokatalaṃ gatvā raktavastraṃ paridhāya madanaphalaṃ bhakṣayet | kāmācikārasena tilakaṃ vandya mantraṃ japet | oṁ amukī me hrīḥ vaśībhavatu svāhā | ayutenāgacchati || 26 ||
+</p>
+
+<p xml:id="HT1.2.27">
+	candrasūryau vaśīkartukāmena śālipiṣṭakamayaṃ candrārkaṃ kṛtvā vajrodake nikṣipet | mantraṃ japet—oṁ candrārka mā cala mā cala tiṣṭha tiṣṭha hevajrāya hūṁ hūṁ hūṁ phaṭ svāhā | saptakoṭiṃ japet | tiṣṭhataś candrasūryau | rātriṃdivāviśeṣakaṃ bhavati | iti candrasūryayor vidhāraṇavidhiḥ || 27 ||
+</p>
+
+<p xml:id="HT1.2.28">
+	oṃ nagrā nagrā | ity anena mantreṇa vikālavelāyāṃ kumāryā arthasādhanārthaṃ cakṣuṣy aṣṭottaraśatenābhimantrya puṣpādinā pañcopacāreṇa saṃpūjya nimantrayet | caturdaśyām aṣṭamyāṃ vā prabhātakāle kalaśādikaṃ saṃsthāpya tailam alaktakarasaṃ cānenaiva mantreṇāṣṭottaraśatavāram abhimantrayet | paścād abhimantritālaktakarasena mantriṇo vṛddhāṅgusṭhaṃ mrakṣayitvā tailenāpi snāpya kumāryāṃ darśayet—vada kena mama dravyam apahṛtam iti | tatra sā kathayati—amukeneti | vajrajyotiṣaḥ || 28 ||
+</p>
+
+<p xml:id="HT1.2.29">
+	veḍuyā veḍuyā ity ukte hastī palāyate || 29 ||
+</p>
+
+<p xml:id="HT1.2.30">
+	mammā mammā ity ukte vyāgraḥ palāyate || 30 ||
+</p>
+
+<p xml:id="HT1.2.31">
+	teliyā teliyā ity ukte gaṇḍā palāyate || 31 ||
+</p>
+
+<p xml:id="HT1.2.32">
+	ili mili phuḥ phuḥ ity ukte sarpaḥ palāyate || 32 ||
+</p>
+
+<p xml:id="HT1.2.33">
+	dhanapālavaineyahastena hastaṃ darśayet | svā palāyate || 33 ||
+</p>
+
+<lg xml:id="HT1.2.34">
+	<l>vajrā gaurī ca vārī ca vajraḍākinī nairātmikā |</l>
+	<l>bhūcarī khecarī yogāt stambhanādīn kared vratī || 34 ||</l>
+</lg>
+
+<p xml:id="HT1.2.col">
+	mantrapaṭalo dvitīyaḥ |
+</p>
+</div> <!--End of paṭala 1.2-->
+
+<!--End of paṭala 1.3-->
+
+<!--End of paṭala 1.4-->
+
+<!--End of paṭala 1.5-->
+
+<!--End of paṭala 1.6-->
+
+<!--End of paṭala 1.8-->
+
+<!--End of paṭala 1.9-->
+
+<!--End of paṭala 1.10-->
+
+<!--End of paṭala 1.11-->
+</div> <!--End of kalpa 1-->
+
+<!--End of kalpa 2-->
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+	<titleStmt>
+		<title>Cambridge University Library, MS Add.1697.2</title>
+		</titleStmt>
+		<sourceDesc>
+			<msDesc>
+				<msIdentifier>
+					<repository>
+						<orgName>Cambridge University Library</orgName>
+					</repository>
+					<idno type="siglum">C</idno>
+					<idno>MS Add.1697.2</idno>
+				</msIdentifier>
+				<msContents class="#STM">
+					<summary>A palm-leaf manuscript in Bengali, kept at the Cambridge University Library.</summary>
+				<msItem defective="false"><title xml:lang="sa">Hevajratantra</title><textLang mainLang="sa-Newa">Sanskrit in Bengali.</textLang><rubric xml:lang="sa"/><incipit xml:lang="sa"/><explicit xml:lang="sa"/><finalRubric xml:lang="sa"/><colophon xml:lang="sa"/></msItem></msContents>
+				<physDesc>
+					<objectDesc form="pothi">
+						<supportDesc material="paper">
+							<extent>
+								<measure unit="folio" quantity="132"/>
+								<dimensions type="leaf" unit="mm">
+									<width quantity="280"/>
+									<height quantity="50"/>
+								</dimensions>
+							</extent>
+						<foliation type="original"/></supportDesc>
+						<layoutDesc>
+							
+						<layout writtenLines="5">6-8 lines per page. String single string hole that breaks two to three lines.</layout></layoutDesc>
+					</objectDesc>
+					<handDesc><handNote scope="sole" script="bengali" medium="ink"/></handDesc>
+					<additions/>
+                  <bindingDesc>
+                     <binding><p>String</p></binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <acquisition>Donated by Wright, Daniel</acquisition>
+               </history>
+               <additional>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>    
+			<p>IAST transliteration.</p>
+		</encodingDesc>
+      
+   <revisionDesc>       
+		<change when="2022-10">First version.</change>
+	</revisionDesc>
+</teiHeader>
+    <text xml:lang="sa-Latn">
+        <body>
+
+<!--End of kalpa 1-->
+
+<div n="2" type="kalpa">
+<div n="1" type="paṭala">
+<p xml:id="HT2.1.1">
+	<lg>
+		<l>deśayantu yathānyāyaṃ pratiṣṭhālakṣaṇaṃ <cb/>śubhaṃ |</l>
+		<l>bhagavān vajrasārātmā sarvvabuddhaikasaṃgrahaḥ |</l>
+	</lg>
+</p>
+
+<p xml:id="HT2.1.2">
+	<lg>
+		<l>homaṃ kṛtvā tu yathāproktaṃ varttayitvā tu maṇḍalaṃ |</l>
+		<l>prado<lb n="5"/>ṣe saṃskaret pratimāṃ kṛtvādhivāsanādikaṃ |</l>
+	</lg>
+</p>
+
+<lg xml:id="HT2.1.3">
+	<l>gaganasthān sarvvabuddhān vai pratimāhṛdaye praveśayet |</l>
+	<l>sveṣṭadevatasamāyogī prekṣo mantrapāragaḥ |</l>
+</lg>
+
+<lg xml:id="HT2.1.4">
+	<l>oṁ vajrapuṣpe āḥ hūṁ svā<lb n="6"/>hā |</l>
+	<l>oṁ vajradhūpe āḥ hūṁ svāhā |</l>
+	<l>oṁ vajradīpe āḥ hūṁ svāhā |</l>
+	<l>oṁ vajragandhe āḥ hūṁ svāhā |</l>
+	<l>oṁ <metamark rend="x" function="addition mark"/><add position="lower margin"><metamark rend="x" function="addition mark"/>vajra<metamark rend="x" function="addition mark"/><metamark rend="6" function="line number"/></add>naivedye āḥ hūṁ svāhā |</l>
+</lg>
+
+<lg xml:id="HT2.1.5">
+	<l>nānāhūṁkāraniṣpannāḥ puṣpādyāṃs tu ḍhaukayet |</l>
+	<l>arghapādyādikaṃ <lb n="7"/>prāgvat pūrvvatantravidhikramaiḥ |</l>
+</lg>
+
+<lg xml:id="HT2.1.6">
+	<l>śāntike varttulaṃ kuṇḍaṃ | caturaśran tu pauṣṭike |</l>
+	<l>trikoṇa<del rend="cancelled">e</del>ṃ <add rend="over writing">māra</add>ṇaṃ proktaṃ śeṣān tatraiva sādhayet</l>
+</lg>
+
+<lg xml:id="HT2.1.7">
+	<l><pb n="16r"/>ekahastārddhahastam vā adhordve śāntikaṃ bhavet |</l>
+	<l>dvihastaṃ ekahastañ ca adhordve pauṣṭikaṃ <add rend="over writing">ma</add>taṃ |</l>
+</lg>
+
+<lg xml:id="HT2.1.8">
+	<l>viṅśatyaṅgulam arddham vā adhordve <metamark rend="x" function="addition mark"/><add position="above line/upper margin">ca</add> māraṇaṃ |</l>
+	<l>śuklavarṇṇaṃ bhavet śāntau | pītaṃ pauṣṭike tathā |</l>
+</lg>
+
+<lg xml:id="HT2.1.9">
+	<l>māraṇe kṛṣṇa<lb n="2"/>varṇṇañ ca vaśyā raktaṃ prakīrttitaṃ |</l>
+	<l>yathā vaśye tathākṛṣṭi dveṣyādyā<add rend="over writing"><unclear reason="uncertain akṣara">sta</unclear></add> yathā māraṇe |</l>
+</lg>
+
+<lg xml:id="HT2.1.10">
+	<l>tila<add>ṃ</add><del>kaṃ</del> śāntau dadhi puṣṭau māraṇe kaṇṭakaṃ tathā |</l>
+	<l>dveṣādau kaṇṭakaiḥ proktaṃ | vaśyākṛ<lb n="3"/>ṣṭau ca utpalau |</l>
+</lg>
+
+<p xml:id="HT2.1.11">
+	<lg>
+		<l>oṁ agne mahātejaḥ sarvvakāmārthaprasādhakaḥ |</l>
+		<l>kāruṇyakṛt<add>y</add>asatvārtham asmin sannihito bhava |</l>
+	</lg>
+	agnyāvāhanaṃ |
+</p>
+
+<lg xml:id="HT2.1.12">
+	<l><add rend="over writing">tvaṃ</add> devi sākṣibhūtāsi hevajrakrodhapūjite |</l>
+	<l><lb n="4"/>nānāratnadharī dhātrī | amuko haṃ maṇḍalaṃ likhet |</l>
+</lg>
+
+<lg xml:id="HT2.1.13">
+	<lg>
+		<l>svārthañ caiva parārtha<cb/>ñ ca sādhitaṃ gaccha havyabhuk |</l>
+		<l>āgamiṣyasi yathākāle sarvvasiddhiṃ kurusva me |</l>
+	</lg>
+	agnisantoṣaṇaṃ mantraṃ |
+</lg>
+
+<lg xml:id="HT2.1.14">
+	<l><lb n="5"/>oṁ jaḥ hūṁ vaṁ hoḥ khaṃ raṃ a<del quantity="1" unit="akṣara"/>rghamantraṃ |</l>
+	<l><add position="lower margin"><metamark rend="x" function="addition marking"/>oṁ nā rī hūṁ khaḥ pādyamantraṃ<metamark rend="x" function="addition marking"/><metamark rend="5" function="line number"/></add></l>
+	<l>oṁ dhvaṃ dhvaṃ naivedyamantraḥ ||<cb/></l>
+</lg>
+
+<p xml:id="HT2.1.col">
+	<metamark rend="x" function="addition marking"/><add position="lower margin"><metamark rend="x" function="addition marking"/>homavidhi<metamark rend="4" function="line number"/></add> prathamapaṭalaḥ || <metamark rend="circle" function="chapter ending"/> ||
+</p>
+</div> <!--End of paṭala 2.1-->
+
+<!--End of paṭala 2.2-->
+
+<!--End of paṭala 2.3-->
+
+
+<!--End of paṭala 2.4-->
+
+<!--End of paṭala 2.5-->
+
+<!--End of paṭala 2.6-->
+
+<!--End of paṭala 2.7-->
+
+<!--End of paṭala 2.8-->
+
+<!--End of paṭala 2.9-->
+
+
+<!--End of paṭala 2.10-->
+
+
+<!--End of paṭala 2.11-->
+
+
+<!--End of paṭala 2.12-->
+
+
+</div> <!--End of kalpa 2-->
+        </body>
+    </text>
+</TEI>

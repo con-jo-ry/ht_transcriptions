@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+				<title>NAK 7/11 (NGMPP A 993/7)</title>
+         </titleStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>National Archives Kathmandu</orgName>
+                  </repository>
+						<idno type="siglum">N<sub>a</sub></idno>
+						<idno>NAK 7/11</idno>
+						<idno>NGMPP A 933/7</idno>
+               </msIdentifier>
+               <msContents class="#STM">
+						<summary>A palm-leaf manuscript in Nepālākṣara, kept at the National Archives Kathmandu.</summary>
+						<msItem defective="false"><title xml:lang="sa">Hevajratantra</title><textLang mainLang="sa-newa">Sanskrit in Nepālākṣara.</textLang><rubric xml:lang="sa"/><incipit xml:lang="sa"/><explicit xml:lang="sa"/><finalRubric xml:lang="sa"/><colophon xml:lang="sa"/></msItem></msContents>
+               <physDesc>
+                  <objectDesc form="pathi">
+                     <supportDesc material="palm leaf">
+                        <extent>
+                           <measure unit="folio" quantity="45"/>
+                        </extent>
+                     <foliation type="original"/></supportDesc>
+                     <layoutDesc>
+                        
+                     <layout writtenLines="5">5 lines, two columns.</layout></layoutDesc>
+                  </objectDesc>
+						<handDesc><handNote scope="sole" script="newa" medium="ink"/></handDesc>
+                  <additions/>
+                  <bindingDesc>
+                     <binding><p>String</p></binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+               </history>
+               <additional>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>    
+			<p>IAST transliteration.</p>
+		</encodingDesc>
+      
+   <revisionDesc>
+         
+		<change when="2022-10">First version.</change>
+	</revisionDesc>
+</teiHeader>
+    <text xml:lang="sa-Latn">
+        <body>
+
+<!--End of kalpa 1-->
+
+<div n="2" type="kalpa">
+<div n="1" type="paṭala">
+<p xml:id="HT2.1.1">
+	vajragarbha uvāca <lb n="4"/>
+	<lg>
+		<l>deśayatu yathānyāyaṃ pratiṣṭhālakṣaṇaṃ śubhaṃ |</l>
+		<l>bhagavān vajra<cb/>sārātmā sarvabuddhaikasaṃgrahaḥ ||</l>
+	</lg>
+</p>
+
+<p xml:id="HT2.1.2">
+	bhagavān āha ||
+	<lg>
+		<l>homaṃ kṛtvā yathāproktaṃ vartta|| ||yitvā tu maṇḍa<lb n="5"/>laṃ |</l>
+		<l>pradoṣe saṃskaret pratimāṃ kṛtvādhivāsanādikaṃ |</l>
+	</lg>
+</p>
+
+<lg xml:id="HT2.1.3">
+	<l><cb/>gaganasthāṃ sarvabuddhāṃś ca pratimāhṛdaye praveśayet |</l>
+	<l>sveṣṭadevatasamāyo|| ||gī prekṣako <pb n="22.2r"/>mantrapāragaḥ ||</l>
+</lg>
+
+<lg xml:id="HT2.1.4">
+	<l>oṁ vajrapuṣpe āḥ hūṁ svāhā ||</l>
+	<l>oṁ vajradhūpe <cb/>āḥ hūṁ svāhā ||</l>
+	<l>oṁ vajradīpe āḥ hūṁ svāhā ||</l>
+	<l>oṁ vajragandhe āḥ hūṁ svāhā ||</l>
+	<l>oṁ vajranaivedye āḥ hūṁ svāhā ||</l>
+</lg>
+
+<lg xml:id="HT2.1.5">
+	<l><lb n="2"/>nānāhūṁkāraniṣpannāṃ puṣpādyās tu ḍhaukayet |</l>
+	<l>arghapādyā<cb/>dikaṃ prāgvat pūrvamantravidhikramaiḥ ||</l>
+</lg>
+
+<lg xml:id="HT2.1.6">
+	<l>śāntike vartulaṃ kuṇḍaṃ caturasran tu pauṣṭikaṃ |</l>
+	<l>trikoṇaṃ māraṇaṃ proktaṃ śeṣā <lb n="3"/>tatraiva sādhayet ||</l>
+</lg>
+
+<lg xml:id="HT2.1.7">
+	<l>ekahastārddhahastam vā adhordve śāntikaṃ bha<cb/>vet |</l>
+	<l>dvihastaṃ ekahastaṃ ca adhordve pauṣṭikaṃ mataṃ |</l>
+</lg>
+
+<lg xml:id="HT2.1.8">
+	<l>viṃśatyaṅgulam arddham vā adhi cordve ca māraṇaṃ ||</l>
+	<l>śuklavarṇṇa bha<lb n="4"/>vec chāntau pītaṃ pauṣṭike tathā |</l>
+</lg>
+
+<lg xml:id="HT2.1.9">
+	<l>māraṇe kṛṣṇavarṇṇañ ca vaśye ra<cb/>ktaṃ prakīrttitaṃ ||</l>
+	<l>yathā vaśye tathākṛṣṭiḥ dveṣādyā yātha māraṇe |</l>
+</lg>
+
+<lg xml:id="HT2.1.10">
+	<l>tilaṃ śāntau dadhi pauṣṭau māraṇe kaṇṭa<lb n="5"/>kan tathā ||</l>
+	<l>dveṣādau kaṇṭakai proktaṃ vaśyākṛṣṭau ca utpalaṃ |</l>
+</lg>
+
+<p xml:id="HT2.1.11">
+	<lg>
+		<l><cb/>oṃ agnaye mahātejā sarvakāmaprasādhakaṃ ||</l>
+		<l>kāruṇyakṛtasatvārthaṃ asmiṃ sannihito bhavaḥ ||</l>
+	</lg>
+	agnyā'vāha<pb n="21.2v"/>
+</p>
+
+<lg xml:id="HT2.1.12">
+	<l>tvaṃ devi sākṣibhūtāsi hevajrakrodhapūjite |</l>
+	<l>nānāratnadharī <cb/>dhātrī amuko haṃ maṇḍalaṃ likhet |</l>
+</lg>
+
+<lg xml:id="HT2.1.13">
+	<lg>
+		<l>svārthañ caiva parārthaṃ ca sādhitaṃ gaccha havyabhuk |</l>
+		<l>āgamiṣyasi yathā<lb n="2"/>kāle sarvasiddhi kuruṣva me ||</l>
+	</lg>
+	agnisantoṣaṇamantraḥ ||
+</lg>
+
+<lg xml:id="HT2.1.14">
+	<l><cb/>oṁ jaḥ hūṁ vaṁ hoḥ khaṁ raṁ arghamantraḥ ||</l>
+	<l>oṁ nī rī hūṁ khaḥ pādyamantraḥ ||</l>
+	<l>oṁ dhvaṃ dhvaṃ nivedyamantrar iti || <metamark rend="puṣpikā" function="chapter ending"/> ||</l>
+</lg>
+
+<p xml:id="HT2.1.col">
+	<lb n="3"/>hevajraḍākinījālasamvare dvitīkalpe pratiṣṭhāpaṭalaḥ <cb/>prathamaḥ || <metamark rend="puṣpikā" function="chapter ending"/> ||
+</p>
+</div> <!--End of paṭala 2.1-->
+
+<!--End of paṭala 2.2-->
+
+<!--End of paṭala 2.3-->
+
+<!--End of paṭala 2.4-->
+
+<!--End of paṭala 2.5-->
+
+<!--End of paṭala 2.6-->
+
+<!--End of paṭala 2.7-->
+
+<!--End of paṭala 2.8-->
+
+<!--End of paṭala 2.9-->
+
+
+<!--End of paṭala 2.10-->
+
+
+<!--End of paṭala 2.11-->
+
+
+<!--End of paṭala 2.12-->
+
+
+
+
+</div> <!--End of kalpa 2-->
+
+        </body>
+    </text>
+</TEI>

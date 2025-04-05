@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+    <fileDesc>
+        <titleStmt>
+            <title>Provisional edition</title>
+            <title type="alt">The Hevajratantra, with special reference to Kamalanātha Ratnāvalī, edited by Ryan Conlon</title>
+            <editor>Ryan Conlon</editor>
+        </titleStmt>
+        <publicationStmt>
+            <date calendar="Gregorian">2022</date>
+            <publisher/>
+            <pubPlace>Universität</pubPlace>
+        </publicationStmt>
+        <sourceDesc>
+
+            <msDesc xml:lang="en">
+                <msIdentifier>
+                    <idno type="siglum">Ed<sup>C</sup></idno>
+                </msIdentifier>
+
+                <msContents>
+                    <summary>This is a provisionary critical edition of the text, currently still under active revision, based on five manuscript witnesses and two printed sources.</summary>
+
+                    <msItem n="1" defective="false">
+
+                        <textLang mainLang="sa-Latn">Sanskrit in IAST transliteration.</textLang>
+
+                    </msItem>
+                </msContents>
+
+                <physDesc>
+                    <objectDesc form="xml">
+                        <supportDesc material="digital">
+                            <extent> 
+                            </extent>
+                        </supportDesc>
+                    </objectDesc>
+                </physDesc>
+
+                <history>
+                    <origin>
+                        <origDate calendar="Gregorian" when="2020">2020 CE</origDate>
+                        <origPlace>Germany</origPlace>
+                    </origin>
+                </history>
+
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+
+    <revisionDesc>
+        <change when="2022-10-12">
+            <persName>Ryan Conlon</persName>
+        </change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text xml:lang="sa-Latn">
+   <body>
+
+<div n="1" type="kalpa">
+<!--End of paṭala 1.1-->
+
+<!--End of paṭala 1.2-->
+
+<!--End of paṭala 1.3-->
+
+<!--End of paṭala 1.4-->
+
+<!--End of paṭala 1.5-->
+
+<!--End of paṭala 1.6-->
+
+<!--End of paṭala 1.8-->
+
+<!--End of paṭala 1.9-->
+
+<!--End of paṭala 1.10-->
+
+<div n="11" type="paṭala">
+<lg xml:id="HT1.11.1">
+	<l>samā krūrā lalāṭī ca pātanā kathitā sadā |</l>
+	<l>vaśyā vāmāśritā dṛṣṭiḥ puttalī dvau ca vāmataḥ || 1 ||</l>
+</lg>
+
+<lg xml:id="HT1.11.2">
+	<l>ākṛṣṭir dakṣiṇe bhāge dvau ca urdhve niyojayet |</l>
+	<l>madhyamā stambhanā dṛṣṭir dvau ca nāsājaḍāntare || 2 ||</l>
+</lg>
+
+<lg xml:id="HT1.11.3">
+	<l>pātanā recakenaiva kumbhakena vaśīkaret |</l>
+	<l>pūrakeṇa tu cākṛṣṭiḥ stambhanā praśāntakena tu || 3 ||</l>
+</lg>
+
+<lg xml:id="HT1.11.4">
+	<l>pātanā snigdhavṛkṣeṣu vaśyā puṣpe prakīrtitā |</l>
+	<l>ākṛṣṭir vajravṛkṣeṣu stambhanā sacale tṛṇe || 4 ||</l>
+</lg>
+
+<lg xml:id="HT1.11.5">
+	<l>ṣaṇmāsābhyāsayogena sidhyante nātra saṃśayaḥ |</l>
+	<l>bhrāntir atra na kartavyā acintyā buddhaṛddhayaḥ || 5 ||</l>
+</lg>
+
+<lg xml:id="HT1.11.6">
+	<l>sādhayitvā caturdṛṣṭiṃ sattvān avatārayed budhaḥ |</l>
+	<l>māraṇaṃ nātra kāryaṃ syāt samayabhedaḥ paraṃ bhavet || 6 ||</l>
+</lg>
+
+<lg xml:id="HT1.11.7">
+	<l>sarvākāryaṃ tu kartavyaṃ hitvā sattvasya vañcanam |</l>
+	<l>sattvāpakāramātreṇa mudrāsiddhir na labhyate || 7 ||</l>
+</lg>
+
+<lg xml:id="HT1.11.8">
+	<l>samayaṃ ca bhakṣayet tatra |</l>
+	<l>nādiṃ gādiṃ tathā hādim antaśvam ādiśvaṃ ca vā || 8 ||</l>
+</lg>
+
+<lg xml:id="HT1.11.9">
+	<l>pañcāmṛtaṃ tathā bhakṣyaṃ hevajre siddhihetunā |</l>
+	<l>saptāvartaṃ tato lakṣed dhevajroktais tu lakṣaṇaiḥ || 9 ||</l>
+</lg>
+
+<lg xml:id="HT1.11.10">
+	<l>saptāvartair bhavet siddhir viramānandadūṣakī |</l>
+	<l>susvaraṃ cakṣuṣmāṇaṃ gandhakāyaṃ mahāvapuḥ || 10 ||</l>
+</lg>
+
+<lg xml:id="HT1.11.11">
+	<l>saptacchāyā bhavet tasya dṛṣṭvā yogī tu lakṣayet |</l>
+	<l>tasya prāśitamātreṇa khecaratvaṃ bhavet kṣaṇāt || 11 ||</l>
+</lg>
+
+<lg xml:id="HT1.11.12">
+	<l>kurukullāyāḥ sādhanaṃ vakṣye sarvasattvavaśāya tu |</l>
+	<l>saṃkṣiptaṃ pūrvam uddiṣṭaṃ vistareṇa kalpadvādaśaiḥ || 12 ||</l>
+</lg>
+
+<lg xml:id="HT1.11.13">
+	<l>hrīḥkārasambhavā devī raktavarṇā caturbhujā |</l>
+	<l>iṣukārmukahastā ca utpalāṅkuśadhāriṇī || 13 ||</l>
+</lg>
+
+<lg xml:id="HT1.11.14">
+	<l>asyā bhāvanamātreṇa trailokyaṃ vaśam ānayet |</l>
+	<l>lakṣam ekena rājānaṃ prajālokāyutena tu || 14 ||</l>
+</lg>
+
+<lg xml:id="HT1.11.15">
+	<l>paśupakṣyādayaḥ koṭyā saptalakṣeṇa cāsurān |</l>
+	<l>lakṣadvayena devāṃś ca śatenaikena mantriṇaḥ || 15 ||</l>
+</lg>
+
+<p xml:id="HT1.11.col">
+	vajragarbhābhisaṃbodhir nāma kalparājaḥ samāptaḥ || ||
+</p>
+</div> <!--End of paṭala 1.11-->
+</div> <!--End of kalpa 1-->
+
+<!--End of kalpa 2-->
+        </body>
+    </text>
+</TEI>

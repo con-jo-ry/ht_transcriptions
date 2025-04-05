@@ -1,0 +1,247 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+				<title>Palm-leaf MS of unknown provenance</title>
+         </titleStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName/>
+                  </repository>
+						<idno type="siglum">P</idno>
+               </msIdentifier>
+               <msContents class="#STM">
+						<summary>A palm-leaf manuscript in Nepālākṣara of unknown provenance</summary>
+						<msItem defective="false"><title xml:lang="sa">Hevajratantra</title><textLang mainLang="sa-newa">Sanskrit in Nepālākṣara.</textLang><rubric xml:lang="sa"/><incipit xml:lang="sa"/><explicit xml:lang="sa"/><finalRubric xml:lang="sa"/><colophon xml:lang="sa"/></msItem></msContents>
+               <physDesc>
+                  <objectDesc form="pathi">
+                     <supportDesc material="palm leaf">
+                        <extent>
+                           <measure unit="folio" quantity="45"/>
+                        </extent>
+                     <foliation type="original"/></supportDesc>
+                     <layoutDesc>
+                        
+                     <layout writtenLines="7">7 lines, two columns.</layout></layoutDesc>
+                  </objectDesc>
+						<handDesc><handNote scope="sole" script="newa" medium="ink"/></handDesc>
+                  <additions/>
+                  <bindingDesc>
+                     <binding><p>String</p></binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+               </history>
+               <additional>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>    
+			<p>IAST transliteration.</p>
+		</encodingDesc>
+      
+   <revisionDesc>
+         
+		<change when="2022-10">First version.</change>
+	</revisionDesc>
+</teiHeader>
+    <text xml:lang="sa-Latn">
+        <body>
+
+<div type="kalpa" n="1">
+<!--End of paṭala 1.1-->
+
+
+<!--End of paṭala 1.2-->
+
+<!--End of paṭala 1.3-->
+
+<!--End of paṭala 1.4-->
+
+<!--End of paṭala 1.5-->
+
+
+<!--End of paṭala 1.6-->
+
+
+<div n="7" type="paṭala">
+<p xml:id="HT1.7.1">
+	<lb n="4"/>atha cchommāpaṭalaṃ vyākhyāsyāmaḥ |
+	<lg>
+		<l>yena vijñāya<cb/>te bhrātā bhaginī cāpi na saṃsayaḥ |</l>
+	</lg>
+</p>
+
+<lg xml:id="HT1.7.2">
+	<l>ekāṃguliṃ darśaye|| <space quantity="4" unit="akṣara"/> ||<lb n="5"/>d yas tu dvā<unclear reason="image partially damage">bhyāṃ</unclear> susvāgato bhavet |</l>
+	<l>kṣemamudrām vijā<cb/>nīyāt | vāmāṅguṣṭhanipīḍanāt |</l>
+</lg>
+
+<lg xml:id="HT1.7.3">
+	<l>anāmikān tu yo ddadyād rdadyāt tasya <lb n="6"/>kaniṣṭhikāṃ |</l>
+	<l>ma<unclear reason="image damage">dhyamāṃ</unclear> darśayed yas tu dadyāt tasya prade<cb/>śikāṃ |</l>
+</lg>
+
+<lg xml:id="HT1.7.4">
+	<l>anāmikāṃ darśayed yas tu grīvān tasya pradarśayet |</l>
+	<l>paṭaṃ darśaye<lb n="7"/><gap reason="image unreadable" quantity="2" unit="akṣara" maybehad="d yas tu"/> triśūlaṃ tasya darśaye</l>
+</lg>
+
+<lg xml:id="HT1.7.5">
+	<l>stanaṃ darśayed yas tu sī<cb/>vān tasya pradarśayet |</l>
+	<l>medanīṃ darśayed yas tu cakraṃ tasya pradarśayet |</l>
+</lg>
+
+<lg xml:id="HT1.7.6">
+	<l>bhṛku<pb n="11r"/>ṭīṃ darśayed yas tu śikṣāmokṣo vidhīyate |</l>
+	<l>lalā<cb/>ṭaṃ darśayed yas tu pṛṣṭha <gap quantity="aprox. 8" unit="akṣara" reason="damage" maybehad="tasya pradarśayet |"/></l>
+</lg>
+
+<lg xml:id="HT1.7.7">
+	<l><gap quantity="aprox. 12" unit="akṣara" reason="damage" maybehad="pādatalaṃ darśayed yas tu krīḍate na"/><lb n="2"/>ndukena tu |</l>
+	<l>mudrāṃ pratimudreṇa bheda<gap reason="image unreadable" maybehad="yet samayena"/> <cb/>tu |</l>
+</lg>
+
+<lg xml:id="HT1.7.8">
+	<l>vadanti yoginyas tatra aho <gap reason="damage" maybehad="putra mahākṛpa |"/></l>
+	<l><gap reason="damage" maybehad="yadi mālāhastan darśayanti tatra"/> <lb n="3"/>militavyam iti kathayanti |</l>
+</lg>
+
+<lg xml:id="HT1.7.9">
+	<l>mālā<gap reason="image unreadable" maybehad="bhipreṣitaṃ"/> kṛtvā samaye tiṣṭha suvrata |</l>
+	<l>bāhye <gap reason="damage" maybehad="tatra melāyāṃ divyagocaram āśritāyām |"/></l>
+	<l><lb n="4"/>bhikṣan tatra melāyāṃ yad vadanti yoginyas tat sarvaṅ ka<cb/>rttavyaṃ |</l>
+</lg>
+
+<p xml:id="HT1.7.10">
+	he bhagavan ke te <gap reason="image unreadable and ms damaged" maybehad="melāpakasthānāḥ | bhagavān āha |"/>
+	<lg>
+		<l><gap reason="image unreadable and ms damage" maybehad="pīṭhañcopa"/><lb n="5"/>pīṭhañ ca kṣetrañ copakṣetram eva ca | </l>
+		<l>chandohañ copa<cb/>cchandohaṃ | melāpako<gap reason="damage" maybehad="pamelāpakaṃ tathā |"/></l>
+	</lg>
+</p>
+
+<lg xml:id="HT1.7.11">
+	<l><gap reason="image unreadable and damage" maybehad="pīlavopapīlavaṃ caiva śmaśāno"/><lb n="6"/>paśmaśānañ ca | etā dvādasa bhūmayaḥ |</l>
+	<l>dasabhūmīsva<cb/>ran nātham ebhir <gap reason="image unreadable and damage" maybehad="anyair na kathyate |"/></l>
+</lg>
+
+<p xml:id="HT1.7.12">
+	<gap reason="image unreadable and damage" maybehad="he bhagavan ke te pīṭhādayaḥ | bhagavān ā"/><lb n="7"/>ha |
+	<lg>
+		<l>pīṭhañ jālandharaṃ khyātaṃ udyāyanan tathaiva ca ||</l>
+		<l><cb/>pīṭha porṇṇagiriñ caiva <gap reason="image unreadable and damage" maybehad="kāmarūpaṃ tathaiva ca"/></l>
+	</lg>
+</p>
+
+<lg xml:id="HT1.7.13">
+	<l><gap reason="image unreadable and damage" maybehad="upapīṭhaṃ mālavaṃ proktaṃ"/> <pb n="11v"/>sindhu nagaram eva ca |</l>
+	<l>kṣetraṃ mummuni khyātaṃ kṣetraṃ kāru<cb/><gap reason="image unreadable and damage" maybehad="ṇyapāṭakam |"/></l>
+	<l><gap reason="image unreadable and damage" maybehad="devikoṭaṃ tathā kṣetraṃ kṣetraṃ karmārapāṭakam |"/></l>
+</lg>
+
+<lg xml:id="HT1.7.14">
+	<l><gap reason="image unreadable and damage" maybehad="upakṣetraṃ kula"/><lb n="2"/>tā proktaṃ arbudañ can tathaiva ca |</l>
+	<l>godāvarī himādi<cb/>ś ca upa<gap reason="image unreadable and damage" maybehad="kṣetraṃ hi saṃkṣipet |"/></l>
+</lg>
+
+<lg xml:id="HT1.7.15">
+	<l><gap reason="image unreadable and damage" maybehad="chandohaṃ harikelaṃ ca lavaṇasāgaramadhyajam |"/></l>
+	<l><lb n="3"/><unclear reason="image partially unreadable">lampākaṃ kāñcikaṃ</unclear> caiva saurāṣṭrañ ca tathaiva ca |</l>
+</lg>
+
+<lg xml:id="HT1.7.16">
+	<l>kali<cb/>ṅgam upacchandohaṃ dvīpañ <gap reason="image partially unreadable" maybehad="cāmīkarānvitam |"/></l>
+	<l><gap reason="image partially unreadable" maybehad="koṅkaṇaṃ copacchandohaṃ samāsenā"/><lb n="4"/><unclear reason="image damage">bhidhīyate |</unclear></l>
+</lg>
+
+<lg xml:id="HT1.7.17">
+	<l>pīlavaṃ grāmāntasthaṃ pīlavan nagarasya ca <cb/>|</l>
+	<l>caritraṃ kośalaṃ caiva vindhyā <gap reason="image partially unreadable" maybehad="kaumārapaurikā |"/></l>
+	<l><gap reason="image partially unreadable" maybehad="upapīlavaṃ tatsanniveśaṃ va"/><lb n="5"/>jragarbha mahākṛpa |</l>
+</lg>
+
+<lg xml:id="HT1.7.18">
+	<l>smasānaṃ pretasaṃhātaṃ smasānaṃ co<cb/>dadhes taṭaṃ |</l>
+	<l>udyānam vāpikā<gap reason="image partially unreadable" maybehad="tīram upaśmaśānam nigadyate |"/></l>
+</lg>
+
+<lg xml:id="HT1.7.19">
+	<l><gap reason="image partially unreadable" maybehad=""/><lb n="6"/>prava pravakṣyāmi yoginīnāṃ su<del quantity="1" rend="rubbed out?"/>melakaṃ |</l>
+	<l>hevajre <cb/>yoginītantre sarvasatvārthahe<gap reason="image partially unreadable" maybehad="tunā |"/></l>
+</lg>
+
+<p xml:id="HT1.7.20">
+	<gap reason="image partially unreadable" maybehad="he bhagavan ke te divasāḥ | bhagavān āha |"/>
+	<lg>
+		<l><lb n="7"/>pretapakṣe caturddasyām aṣṭamyāñ ca viśeṣataḥ |</l>
+	</lg>
+</p>
+
+<lg xml:id="HT1.7.21">
+	<l>dhva<cb/>jaṃ śastrahatañ caiva saptāvartañ ca <gap reason="image partially unreadable" maybehad="khādyate |"/></l>
+	<l><gap reason="image partially unreadable" maybehad="kṛpām utpādya yatnena māraṇaṃ"/> <pb n="12r"/>kriyate viduḥ |</l>
+</lg>
+
+<lg xml:id="HT1.7.22">
+	<l>kṛpāhīnā na sidhyanta | tasmāt karuṇā<cb/>m upārjjayet |</l>
+	<l>duṣṭāvatāraṇe sarvaṃ vidhi mukhyāt prasidhyati |</l>
+</lg>
+
+<p xml:id="HT1.7.23">
+	tatraivam mantavyaṃ <lb n="2"/>|
+	<lg>
+		<l>dinas tu bhagavān vajrī naktaṃ prajñā vidhīyate |</l>
+	</lg>
+</p>
+
+<lg xml:id="HT1.7.24">
+	<l>nākārya<cb/>m vidyate kiñcin nābhakṣyaṃ vidyate | sadā |</l>
+	<l>nācintyaṃ vidyate hy atra nāvācyaṃ yac chu<lb n="3"/>bhāsubham |</l>
+</lg>
+
+<lg xml:id="HT1.7.25">
+	<l>yathātmani tathā satvaṃ tathātmani | ahaṃ paraṃ ||</l>
+	<l><cb/>iti saṃcintya yogātmā khānapānādim ārabhet |</l>
+</lg>
+
+<lg xml:id="HT1.7.26">
+	<l>yāvanto 'ṅgavikṣepā <lb n="4"/>vacasaḥ prasarāṇi ca |</l>
+	<l>tāvanto mantramudrāḥ syuḥ śrī<cb/>herukapade sthite ||</l>
+</lg>
+
+<lg xml:id="HT1.7.27">
+	<l>śrīkāram advayaṃ jñānaṃ he iti hetvādiśūnyatā |</l>
+	<l><unclear reason="image unclear">rukā</unclear><lb n="5"/>rāpagataṃ vyūhaṃ ka iti na kvacit sthitaṃ ||</l>
+</lg>
+
+<lg xml:id="HT1.7.28">
+	<l>yeṣāṃ yeṣā<cb/>n tu jantūnāṃ pisitam aśnīyate buddhaiḥ |</l>
+	<l>te te sattvā vasaṃ yānti vajrakapālayo<lb n="6"/>gataḥ || </l>
+</lg>
+
+<p xml:id="HT1.7.col">
+	ccho<unclear reason="image unclear">mm</unclear>āpīṭhanirṇṇayapaṭalaḥ saptamaḥ || <space quantity="2" unit="akṣara"/> ||
+</p>
+
+</div> <!--End of paṭala 1.7-->
+
+
+<!--End of paṭala 1.8-->
+
+<!--End of paṭala 1.9-->
+
+<!--End of paṭala 1.10-->
+
+<!--End of paṭala 1.11-->
+</div> <!--End of kalpa 1-->
+
+
+<!--End of kalpa 2-->
+        </body>
+    </text>
+</TEI>

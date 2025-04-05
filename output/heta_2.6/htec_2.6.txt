@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+    <fileDesc>
+        <titleStmt>
+            <title>Provisional edition</title>
+            <title type="alt">The Hevajratantra, with special reference to Kamalanātha Ratnāvalī, edited by Ryan Conlon</title>
+            <editor>Ryan Conlon</editor>
+        </titleStmt>
+        <publicationStmt>
+            <date calendar="Gregorian">2022</date>
+            <publisher/>
+            <pubPlace>Universität</pubPlace>
+        </publicationStmt>
+        <sourceDesc>
+
+            <msDesc xml:lang="en">
+                <msIdentifier>
+                    <idno type="siglum">Ed<sup>C</sup></idno>
+                </msIdentifier>
+
+                <msContents>
+                    <summary>This is a provisionary critical edition of the text, currently still under active revision, based on five manuscript witnesses and two printed sources.</summary>
+
+                    <msItem n="1" defective="false">
+
+                        <textLang mainLang="sa-Latn">Sanskrit in IAST transliteration.</textLang>
+
+                    </msItem>
+                </msContents>
+
+                <physDesc>
+                    <objectDesc form="xml">
+                        <supportDesc material="digital">
+                            <extent> 
+                            </extent>
+                        </supportDesc>
+                    </objectDesc>
+                </physDesc>
+
+                <history>
+                    <origin>
+                        <origDate calendar="Gregorian" when="2020">2020 CE</origDate>
+                        <origPlace>Germany</origPlace>
+                    </origin>
+                </history>
+
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+
+    <revisionDesc>
+        <change when="2022-10-12">
+            <persName>Ryan Conlon</persName>
+        </change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text xml:lang="sa-Latn">
+   <body>
+
+<!--End of kalpa 1-->
+
+<div n="2" type="kalpa">
+<!--End of paṭala 2.1-->
+
+<!--End of paṭala 2.2-->
+
+<!--End of paṭala 2.3-->
+
+<!--End of paṭala 2.4-->
+
+<!--End of paṭala 2.5-->
+
+<div n="6" type="paṭala">
+<lg xml:id="HT2.6.1">
+	<l>devīṃ vai gāḍham āliṅgya kṣiptvā bolaṃ kapālake |</l>
+	<l>gāḍhaṃ kucagrahaṃ kṛtvā saṃcūṣya naranāsikām || 1 ||</l>
+</lg>
+
+<lg xml:id="HT2.6.2">
+	<l>daśanenauṣṭham āpīḍya kakṣaṃ kṛtvā nakhakṣatam |</l>
+	<l>saṃpuṭaṃ saukhyam āsādya pañcamudrāṃ prakāśate || 2 ||</l>
+</lg>
+
+<lg xml:id="HT2.6.3">
+	<l>gurvācāryeṣṭadevasya namanārthaṃ cakrikā dhṛtā |</l>
+	<l>durbhāṣasyāśravaṇāya guror vajradharasya ca || 3 ||</l>
+</lg>
+
+<lg xml:id="HT2.6.4">
+	<l>śravaṇayoḥ kuṇḍalaṃ dhāryaṃ mantraṃ japtuṃ ca kaṇṭhikā |</l>
+	<l>rucakaḥ prāṇivadhaṃ tyaktuṃ mudrā bhajituṃ ca mekhalaṃ |</l>
+	<l>pañcabuddhasya mudreṇa śarīraṃ mudritaṃ sadā || 4 ||</l>
+</lg>
+
+<lg xml:id="HT2.6.5">
+	<l>prahasanaṃ ca tataḥ kṛtvā dantaiḥ saṃpīḍya cādharam |</l>
+	<l>pṛcchate tatra sā devī hevajraṃ sahajarūpiṇam || 5 ||</l>
+</lg>
+
+<lg xml:id="HT2.6.6">
+	<l>katareṇa vidhānena kayā kriyayā tathā prabho |</l>
+	<l>hevajrasya paṭaṃ kāryaṃ kathayasva mahāsukha || 6 ||</l>
+</lg>
+
+<lg xml:id="HT2.6.7">
+	<l>bhagavān āha—</l>
+	<l>samayīcitrakareṇeha sādhakenāpi samayinā |</l>
+	<l>likhitavyaṃ paṭaṃ ghoraṃ narakasthaiḥ pañcavarṇakaiḥ |</l>
+	<l>śrāpakeśasya kurcyā ca likhanīyaṃ guruṃ paṭam || 7 ||</l>
+</lg>
+
+<lg xml:id="HT2.6.8">
+	<l>sūtraṃ ca yayā kāryaṃ kartavyaṃ ca paṭaṃ yayā |</l>
+	<l>tayāpi samayinyā vai samayādhiṣṭhānayogataḥ || 8 ||</l>
+</lg>
+
+<lg xml:id="HT2.6.9">
+	<l>māsi māsi caturdaśyāṃ kṛṣṇāyāṃ vijane gṛhe |</l>
+	<l>madhyāhne krūracittena kiṃcin madanapānataḥ || 9 ||</l>
+</lg>
+
+<lg xml:id="HT2.6.10">
+	<l>aṅge niraṃśukaṃ dhyātvā nagnībhūya tathā punaḥ |</l>
+	<l>ucchiṣṭenāpavitreṇa bhakṣayet samayaṃ tataḥ || 10 ||</l>
+</lg>
+
+<lg xml:id="HT2.6.11">
+	<l>nijamudrāṃ sthāpya vāmena cāruvaktrāṃ kṛpāvatīm |</l>
+	<l>rūpayauvanasaubhāgyāṃ supuṣpāṃ sādhakapriyām || 11 ||</l>
+</lg>
+
+<p xml:id="HT2.6.col">
+	hevajre paṭavidhānapaṭalaḥ ṣaṣṭhaḥ ||
+</p>
+
+</div> <!--End of paṭala 2.6-->
+
+<!--End of paṭala 2.7-->
+
+<!--End of paṭala 2.8-->
+
+<!--End of paṭala 2.9-->
+
+<!--End of paṭala 2.10-->
+
+
+<!--End of paṭala 2.11-->
+
+
+<!--End of paṭala 2.12-->
+
+
+</div> <!--End of kalpa 2-->
+        </body>
+    </text>
+</TEI>

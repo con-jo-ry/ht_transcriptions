@@ -1,0 +1,287 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+	<titleStmt>
+		<title>Cambridge University Library, MS Add.1697.2</title>
+		</titleStmt>
+		<sourceDesc>
+			<msDesc>
+				<msIdentifier>
+					<repository>
+						<orgName>Cambridge University Library</orgName>
+					</repository>
+					<idno type="siglum">C</idno>
+					<idno>MS Add.1697.2</idno>
+				</msIdentifier>
+				<msContents class="#STM">
+					<summary>A palm-leaf manuscript in Bengali, kept at the Cambridge University Library.</summary>
+				<msItem defective="false"><title xml:lang="sa">Hevajratantra</title><textLang mainLang="sa-Newa">Sanskrit in Bengali.</textLang><rubric xml:lang="sa"/><incipit xml:lang="sa"/><explicit xml:lang="sa"/><finalRubric xml:lang="sa"/><colophon xml:lang="sa"/></msItem></msContents>
+				<physDesc>
+					<objectDesc form="pothi">
+						<supportDesc material="paper">
+							<extent>
+								<measure unit="folio" quantity="132"/>
+								<dimensions type="leaf" unit="mm">
+									<width quantity="280"/>
+									<height quantity="50"/>
+								</dimensions>
+							</extent>
+						<foliation type="original"/></supportDesc>
+						<layoutDesc>
+							
+						<layout writtenLines="5">6-8 lines per page. String single string hole that breaks two to three lines.</layout></layoutDesc>
+					</objectDesc>
+					<handDesc><handNote scope="sole" script="bengali" medium="ink"/></handDesc>
+					<additions/>
+                  <bindingDesc>
+                     <binding><p>String</p></binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <acquisition>Donated by Wright, Daniel</acquisition>
+               </history>
+               <additional>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>    
+			<p>IAST transliteration.</p>
+		</encodingDesc>
+      
+   <revisionDesc>       
+		<change when="2022-10">First version.</change>
+	</revisionDesc>
+</teiHeader>
+    <text xml:lang="sa-Latn">
+        <body>
+
+<!--End of kalpa 1-->
+
+<div n="2" type="kalpa">
+<!--End of paṭala 2.1-->
+
+<!--End of paṭala 2.2-->
+
+<!--End of paṭala 2.3-->
+
+
+<!--End of paṭala 2.4-->
+
+<!--End of paṭala 2.5-->
+
+<!--End of paṭala 2.6-->
+
+<!--End of paṭala 2.7-->
+
+<!--End of paṭala 2.8-->
+
+<div n="9" type="paṭala">
+
+<lg xml:id="HT2.9.1">
+	<l>athātaḥ saṃpravakṣyāmi sampuṭo<unclear reason="partially damaged image" quantity="1" unit="akṣara"/>dghāṭalakṣaṇaṃ</l>
+	<l><lb n="2"/>yena vijñātamātreṇa sādhakaḥ siddhim āpnuyāt |</l>
+	<l>sādhyasya nābhimūle tu hastenodghāṭayed vratī |</l>
+</lg>
+
+<lg xml:id="HT2.9.2">
+	<l>herukapratiyogenādhyātmakakrūracetasā |</l>
+	<l>bhāvanāmātrakeṇaiva buddho vinaśyate <lb n="3"/>dhruvaṃ |</l>
+</lg>
+
+<lg xml:id="HT2.9.3">
+	<l>māraṇaṃ kriyate kṛpayā śrāvayitvā gurau munau</l>
+	<l>sāsanā<cb/>pakārī ca gurubuddhanāśakas tathā |</l>
+</lg>
+
+<lg xml:id="HT2.9.4">
+	<l>yan tu dṛṣṭvā <add position="upper margin">yathā</add>rūpam adhomukhaṃ bhāvayet |</l>
+	<l>raktam udvamahanaṃ caiva prakampantaṃ <lb n="4"/>muktamūrddhajaṃ |</l>
+</lg>
+
+<lg xml:id="HT2.9.5">
+	<l>tasya mārge suciṃ dhyāyāt praviśantīṃ vahnirūpi<cb/>ṇīm |</l>
+	<l>hṛdaye hutāśanaṃ bījaṃ dṛṣṭvā mārayati tatkṣaṇaṃ |</l>
+</lg>
+
+<lg xml:id="HT2.9.6">
+	<l>asmin tantre na hotavyaṃ mudrābandhakriyā na ca |</l>
+	<l><lb n="5"/>paṭhitasiddhaṃ mahātantraṃ dhyānamātreṇa sidhyati</l>
+</lg>
+
+<lg xml:id="HT2.9.7">
+	<l>rahasyaṃ paramaṃ <cb/>vakṣye śṛṇu devi varānane |</l>
+	<l>bhavasya śodhanaṃ ramyam avikalpaṃ siddhidāyakaṃ |</l>
+</lg>
+
+<lg xml:id="HT2.9.8">
+	<l>paśya <del rend="rubbed out" quantity="1" unit="akṣara"/><add rend="over writing">devi</add> mahāra<lb n="6"/>tnaṃ jvālāmālākula<unclear reason="damage">ṃ vapuḥ</unclear>|</l>
+	<l>ayoga syād aviddh<add>e</add>na viddhaṃ <unclear reason="some damage">śad ru</unclear>cidāyakaḥ |</l>
+</lg>
+
+<lg xml:id="HT2.9.9">
+	<l>tadvat saṃsāra<add rend="over writing">kaṃ</add><del rend="over written" quantity="1" unit="akṣara"/> ratnaṃ pañcakāmaguṇair yutaṃ |</l>
+	<l>aviśuddho viṣatāṃ yāti śuddhe pi<lb n="7"/>yūṣavad bhavet</l>
+</lg>
+
+<lg xml:id="HT2.9.10">
+	<l>saṃsāraṃ herukākāraṃ jagaduttāraṇaṃ prabhu<unclear>ṃ</unclear> |</l>
+	<l>yena rūpeṇa sambhūtaṃ tam ahaṃ vacmi śṛṇvatāṃ |</l>
+</lg>
+
+<lg xml:id="HT2.9.11">
+	<l>kṛpayā locane rakte kṛṣṇāṅgo maitracittataḥ |</l>
+	<l><pb n="32v"/><gap reason="probably lost to damage, may be actually missing from the witness" maybehas="saṃgrahavastucatuṣkena catvāraś caraṇāḥ smṛtāḥ |"/></l>
+</lg>
+
+<lg xml:id="HT2.9.12">
+	<l><gap reason="damage" maybehas="aṣṭāsyā vi"/>mokṣāṣṭau <unclear reason="damage">śūnyatāḥ ṣoḍaśa bhujāḥ smṛtāḥ |</unclear></l>
+	<l>mātreṇa pañcabuddhāḥ syuḥ kruddho duṣṭavineyataḥ |</l>
+</lg>
+
+<lg xml:id="HT2.9.13">
+	<l>mānsena pukkasī <uncelar reason="could be more letters at the end of the line"/><lb n="2"/><gap reason="damage" maybehas="khyātā rakte"/> sabarī prakalpi<gap reason="damage" maybehas="taṃ|"/></l>
+	<l>caṇḍālī śukram ity uktaṃ | ḍombinī majjamedayoḥ |</l>
+	<l>carmma bodhyaṅgasaptan tu asthi satyacatuṣṭayaṃ |</l>
+</lg>
+
+<lg xml:id="HT2.9.14">
+	<l/>
+	<l>mantroddhāraṃ bhavet kīdṛk kathayasva mahā<unclear reason="damage">sukha</unclear></l>
+	<l><lb n="3"/><gap reason="damage" maybehas="yena ma"/>ntreṇa jantūnāṃ karmmāṇi yānti siddhitāṃ |</l>
+</lg>
+
+<lg xml:id="HT2.9.15">
+	<l>bhagavān āha | <cb/> mahāvajrī vajrasāravapur mmahān |</l>
+	<l>śṛṇu devi mahāprājñe | mantraṃ te kathayāmy ahaṃ |</l>
+</lg>
+
+<lg xml:id="HT2.9.16">
+	<l>ādau <lb n="4"/><gap reason="damage" maybehas="vairo"/>canaṃ dattvā uṣmāṇān tu caturthakaṃ |</l>
+	<l>pukkasīśobha<cb/><unclear reason="partial damage">na</unclear>ṃ śūnyākrāntaṃ śuklavarṇṇaṃ svāhāntaṃ <metamark rend="x" function="showing addition"/><gap reason="damage" maybhas="some marginal note reading niyojayet"/></l>
+	<l>anena lakṣajāpena stambhayej jagataḥ sadā |</l>
+</lg>
+
+<lg xml:id="HT2.9.17">
+	<l>ādau va<unclear>rṇṇā</unclear><lb n="5"/><gap reason="damage" maybehas="dhi"/>paṃ datvā tata khecarikāṃ tataḥ |</l>
+	<l>svāhāntaṃ yojitaṃ kṛtvā buddhā<cb/><gap reason="damage" maybehas="n api"/> vasīkaret |</l>
+</lg>
+
+<lg xml:id="HT2.9.18">
+	<l>ved<add>ā</add>nām ādimaṃ dattvā prathamasya dvitīyakaṃ</l>
+	<l>saśūnyaṃ svāhāntaṃ yoja<unclear reason="damage">ye</unclear><lb n="6"/><gap reason="damage" quantity="1" unit="akṣara" maybehas="t"/> prājñaḥ | buddhānām apy uccāṭayet |</l>
+</lg>
+
+<lg xml:id="HT2.9.19">
+	<l>ādau vairocanaṃ dattvā dvitīyasya tṛtīyakam ||</l>
+	<l><gap reason="written in lower margin, but 80% unreadable" maybehas="rayuktaṃ vāribhūṣitaṃ śūnyaṃ svāhāntasaṃyuktaṃ ||"/></l>
+	<l><gap reason="damage" maybehas="dveṣayet sarvamānuṣān"/></l>
+</lg>
+
+<lg xml:id="HT2.9.20">
+	<l><gap reason="damage" maybehas="ādau varṇeśvaraṃ dattvā pañcamasya tṛtīyakam"/></l>
+	<l><gap reason="damage" maybehas="ḍākinī"/>yuktaṃ <del rend="cancelled" quantity="1" unit="akṣara"/>svāhā<del rend="rubbed out and cancelled">ntaṃ</del> mahābhicārukaṃ |</l>
+</lg>
+
+<lg xml:id="HT2.9.21">
+	<l>varṇṇajyeṣṭhaṃ punar ddatvā hūṃkāraṃ rakta<lb n="6"/><gap reason="damage" maybehas="sa"/><unclear reason="damage">nnibhaṃ |</unclear></l>
+	<l>svāhāntaṃ ākarṣayet sadyaṃ rambhādīnāṃ tilottamā |</l>
+</lg>
+
+<lg xml:id="HT2.9.22">
+	<l>ādau mohakulaṃ ghuḥkāraṃ saṃprayojayet |</l>
+	<l>svāhāntaṃ punaḥ kṛtvā mārayet suramānuṣān</l>
+</lg>
+
+<lg xml:id="HT2.9.23">
+	<l><pb n="32v"/><gap reason="damage" maybehas="prathamasya prathamaṃ tu vajraḍākinīyogitam"/> |</l>
+	<l><gap reason="damage" maybehas="ādau vairocanaṃ dattvā antasthānāṃ dvitīyakam ||"/></l>
+</lg>
+
+<lg xml:id="HT2.9.24">
+	<l><gap reason="damage" maybehas="vajraḍākinīsaṃyuktaṃ punaḥ prathamasyāgrakam* |"/></l>
+	<l><gap reason="damage" maybehas="vajraḍākinīsaṃyuktaṃ antasthānāṃ tṛtīyakam || 24 ||"/></l>
+</lg>
+
+<lg xml:id="HT2.9.25">
+	<l><gap reason="damage" maybehas="punas tenaiva saṃyuktam upari caurībhūṣitam |"/></l>
+	<l><gap reason="damage" maybehas="hrīḥkāraṃ yojayet tatra svāhāntaṃ punar ācaret |"/></l>
+	<l><gap reason="damage" maybehas="kurukullāmantraḥ |"/></l>
+</lg>
+
+<lg xml:id="HT2.9.26">
+	<l><gap reason="damage" maybehas="oṃkārādi caturthasya tṛtīyaṃ caurībhūṣitam |"/></l>
+	<l><gap reason="damage" maybehas="antasthānāṃ caturthakaṃ picuvajraprayojitam |"/></l>
+</lg>
+
+<lg xml:id="HT2.9.27">
+	<l><gap reason="damage" maybehas="ūṣmāṇāṃ ca caturthakaṃ pukkāsyāś ca vibhūṣitam |"/></l>
+	<l><gap reason="damage" maybehas="śūnyākrāntaṃ triguṇitaṃ pañcamasya dvitīyakam |"/></l>
+	<l><gap reason="damage" maybehas="tṛtīyasya prathamaṃ svāhāntaṃ hevajrasya hṛdayam |"/></l>
+</lg>
+
+<lg xml:id="HT2.9.28">
+	<l><gap reason="damage" maybehas="vairocanādi jvalajvalayojitaṃ pañcamasya caturthaṃ tu |"/></l>
+	<l><gap reason="damage" maybehas="antasthānāṃ prathamena yuktaṃ ghasmarībhūṣitam |"/></l>
+</lg>
+
+<lg xml:id="HT2.9.29">
+	<l><gap reason="damage" maybehas="uṣmāṇāṃ ca caturthakaṃ vajraḍākinībhūṣitam |"/></l>
+	<l><gap reason="damage" maybehas="śūnyākrāntaṃ triguṇitaṃ pañcamasya dvitīyakaṃ |"/></l>
+	<l><gap reason="damage" maybehas="tṛtīyasya prathamaṃ svāhāntaṃ caturbhujasya mantraḥ |"/></l>
+</lg>
+
+<lg xml:id="HT2.9.30">
+	<l><gap reason="damage" maybehas="vairocanādi prathamasya ca prathamam abhyantaragaurīśobhitam |"/></l>
+	<l><gap reason="damage" maybehas="tṛtīyasya ca prathamam abhyantaragaurībhūṣitam |"/></l>
+</lg>
+
+<p xml:id="HT2.9.31">
+	<gap reason="damage" maybehas="dviguṇīkṛtya pañcamasya tṛtīyaṃ dvitīyasya tṛtīyaṃ vahnibhūṣitam | hūṃkāratrayayojitam | pañcamasya dvitīyaṃ tṛtīyasya prathamaṃ svāhāntaṃ ṣaḍbhujasya mantraḥ |"/>
+</p>
+
+<p xml:id="HT2.9.32">
+	<gap reason="damage" maybehas="vairocanādicaturthasya prathamaṃ hutāśanasaṃyuktaṃ vetālīvibhūṣitam |"/><pb n="33r"/>antasthānāṃ tṛtīyaṃ <add rend="over writing">ghasmarī</add><del rend="over written" quantity="3" unit="akṣara"/>bhūṣitaṃ | prathamasya prathamaṃ <add>|</add> <gap reason="appears to be added to top margin, but lost to damage" maybehas="antasthānāṃ prathamena yuktaṃ"/> vajrābhūṣitam |
+</p>
+
+<p xml:id="HT2.9.33">
+	kṣakāraṃ caurībhūṣitaṃ | <unclear rend="appears to be cancelled"><del rend="probably cancelled">pratha</del></unclear> pañcamasya prathamaṃ | uṣmāṇāñ caturthaṃ vajraḍākinībhūṣitaṃ | śūnyākrāntaṃ t<add>ri</add>guṇīkṛtaṃ <lb n="2"/>phaṭsvāhāntaṃ dvibhujasya
+</p>
+
+<p xml:id="HT2.9.34">
+	nairātmā prathamasya prathamaṃ | dvitīyasya prathamaṃ | tṛtīyasya prathamaṃ | caturthasya prathamaṃ | pañcamasya prathamaṃ | antasthānāṃ prathamaṃ | uṣmāṇāṃ prathamaṃ | <lb n="3"/>vairocanādi svāhāntaṃ | purakṣobhanamantraṃ lakṣajāpaḥ |
+</p>
+
+<p xml:id="HT2.9.35">
+	antasthānāṃ <cb/>dvitīyaṃ kṣakāradvayaṃ | hūṃkāratrayaṃ | vairocanādi phaṭkāravidarbhitaṃ | svāhāntaṃ bhūmiśodhanama<lb n="4"/>ntra |
+</p>
+
+<p xml:id="HT2.9.36">
+	vairocanādi tadanu <del rend="cancelled"><unclear>āḥ</unclear></del>vajr<add>ā</add> hūṃkārāntaṃ khānapānādhi<cb/>ṣṭhānaṃ
+</p>
+
+<p xml:id="HT2.9.37">
+	vairocanādi tadanu ākāro mukhaṃ | uṣmāṇāṃ tṛtīyaṃ antasthānāṃ caturthakaṃ | <lb n="5"/>upari vahnibhūṣitaṃ | dharmmāṇāṃ tadanu vajrādeyaṃ <del rend="crossed out and bracketed" quantity="6" unit="akṣara"/> <cb/> ādyanutpannatvāt | oṁ āḥ hūṁ phaṭ svāhā | sarvvabhautikabalimantraḥ |
+</p>
+
+<p xml:id="HT2.9.col">
+	mantroddhārapaṭalo nava<lb n="6"/>maḥ || <metamark rend="circle" function="chapter ending"/> ||
+</p>
+
+</div> <!--End of paṭala 2.9-->
+
+
+<!--End of paṭala 2.10-->
+
+
+<!--End of paṭala 2.11-->
+
+
+<!--End of paṭala 2.12-->
+
+
+</div> <!--End of kalpa 2-->
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,206 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+				<title>NAK 7/11 (NGMPP A 993/7)</title>
+         </titleStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>National Archives Kathmandu</orgName>
+                  </repository>
+						<idno type="siglum">N<sub>a</sub></idno>
+						<idno>NAK 7/11</idno>
+						<idno>NGMPP A 933/7</idno>
+               </msIdentifier>
+               <msContents class="#STM">
+						<summary>A palm-leaf manuscript in Nepālākṣara, kept at the National Archives Kathmandu.</summary>
+						<msItem defective="false"><title xml:lang="sa">Hevajratantra</title><textLang mainLang="sa-newa">Sanskrit in Nepālākṣara.</textLang><rubric xml:lang="sa"/><incipit xml:lang="sa"/><explicit xml:lang="sa"/><finalRubric xml:lang="sa"/><colophon xml:lang="sa"/></msItem></msContents>
+               <physDesc>
+                  <objectDesc form="pathi">
+                     <supportDesc material="palm leaf">
+                        <extent>
+                           <measure unit="folio" quantity="45"/>
+                        </extent>
+                     <foliation type="original"/></supportDesc>
+                     <layoutDesc>
+                        
+                     <layout writtenLines="5">5 lines, two columns.</layout></layoutDesc>
+                  </objectDesc>
+						<handDesc><handNote scope="sole" script="newa" medium="ink"/></handDesc>
+                  <additions/>
+                  <bindingDesc>
+                     <binding><p>String</p></binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+               </history>
+               <additional>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>    
+			<p>IAST transliteration.</p>
+		</encodingDesc>
+      
+   <revisionDesc>
+         
+		<change when="2022-10">First version.</change>
+	</revisionDesc>
+</teiHeader>
+    <text xml:lang="sa-Latn">
+        <body>
+
+<div n="1" type="kalpa">
+<!--End of paṭala 1.1-->
+
+
+<!--End of paṭala 1.2-->
+
+<!--End paṭala 1.3-->
+
+<!--End of paṭala 1.4-->
+
+<div n="5" type="paṭala">
+<p xml:id="HT1.5.1">
+	tatvapaṭalaṃ vyākhyāsyāmaḥ |
+
+	<lg>
+		<l>svarū<cb/>pe nāsti rūpaṃ na draṣṭā ca na cittaṃ sabdo nāpi srotāraḥ ||</l>
+		<l>na gandho nāpi ghrātā ca na raso nāpi rāsa<kb n="3"/>kaḥ |</l>
+		<l>na sparso nāpi spraṣṭā ca na cittaṃ nāpi caittikaṃ ||</l>
+	</lg>
+</p>
+
+<lg xml:id="HT1.5.2">
+	<l><cb/>jananīm bhaginīṃ caiva pūjayed yogavit sadā |</l>
+	<l>naṭīṃ rajakīṃ tathā vajrīṃ caṇḍālīm brāhmaṇīn tathā ||</l>
+	<l>prajño<lb n="4"/>pāyavidhānena pūjayet tatvavatsalaḥ |</l>
+</lg>
+
+<lg xml:id="HT1.5.3">
+	<l>sevitavyā pra<cb/>yatnena yathā bhedo na jāyate |</l>
+	<l>agupte kriyate duḥkhaṃ vyāḍacaurāgnibhūcaraiḥ ||</l>
+</lg>
+
+<lg xml:id="HT1.5.4">
+	<l>mudrā pañcakulānī<lb n="5"/>ti kathyate mokṣahetunā |</l>
+	<l>vajreṇa mudryate yena mudrā <cb/>tenābhidhīyate ||</l>
+</lg>
+
+<lg xml:id="HT1.5.5">
+	<l>vajraṃ padmaṃ tathā karma tathāgataṃ ratnam eva ca |</l>
+	<l>kulāni pañcavidhāny āhur uttamāni <pb n="8v" img="35b"/>mahākṛpā ||</l>
+</lg>
+
+<lg xml:id="HT1.5.6">
+	<l>vajraṃ ḍombī bhaven mudrā padmaṃ narttī tathaiva ca |</l>
+	<l><cb/>karma rajakī sadākhyātā brāhmaṇī ca tathāgatā ||</l>
+</lg>
+
+<lg xml:id="HT1.5.7">
+	<l>ratnaṃ caṇḍālinī jñeyā pañcamudrā viniścitā |</l>
+	<l>tathā<lb n="2"/>gatānāṃ kulaṃ caitan saṃkṣepeṇābhidhīyate ||</l>
+</lg>
+
+<lg xml:id="HT1.5.8">
+	<l>tathatāyāṃ <cb/>gataḥ srīmān āgataś ca tathaiva ca |</l>
+	<l>anayā prajñayā yuktyā tathāgato bhidhīyate ||</l>
+</lg>
+
+<lg xml:id="HT1.5.9">
+	<l>kulāni ṣaḍvidhā<lb n="3"/>ny āhuḥ saṃkṣepeṇa tu pañcadhā |</l>
+	<l>paścāt trividhaṃ yānti <cb/>kāyavākcittabhedanaiḥ ||</l>
+</lg>
+
+<lg xml:id="HT1.5.10">
+	<l>kulānāṃ pañcabhūtānāṃ pañcaskandhasvarūpiṇāṃ |</l>
+	<l>kulyate gaṇyate aneneti <lb n="4"/>kulam ity abhidhīyate ||</l>
+</lg>
+
+<lg xml:id="HT1.5.11">
+	<l>nāsti bhāvako na bhāvo sti ma<cb/>ntraṃ nāsti na devatā |</l>
+	<l>santiṣṭhete mantradevau ca niṣprapañcasvabhāvataḥ ||</l>
+</lg>
+
+<lg xml:id="HT1.5.12">
+	<l>vairocanākṣobhyāmoghaś ca ratnā<lb n="5"/>rolikasātvikaḥ |</l>
+	<l>brahmā viṣṇuḥ śivaḥ sarvo vibuddha<cb/>s tatvam ucyate ||</l>
+</lg>
+
+<lg xml:id="HT1.5.13">
+	<l>brahmā nirvṛtito buddho viṣanād viṣṇur ucyate |</l>
+	<l>śivaḥ sadā sukalyāṇāṃ sadāḥ sarvātma<pb n="9r" img="39a"/>ni sthitaḥ |</l>
+</lg>
+
+<lg xml:id="HT1.5.14">
+	<l>satsukhatvena tatvaṃ ca vibuddho bodhanād rateḥ ||</l>
+	<l><cb/>dehe saṃbhavatīs tasmād devateti nigadyate |</l>
+</lg>
+
+<lg xml:id="HT1.5.15">
+	<l>bhago asyāstīti buddhasya bhagavān iti kathyate |</l>
+	<l>bhagāni ṣa<lb n="2"/>ḍvidhāny āhur aisvaryādiguṇākhilāḥ |</l>
+	<l>athavā klesā<cb/>dimārāṇāṃ bhaṃjanād bhagavān iti ||</l>
+</lg>
+
+<lg xml:id="HT1.5.16">
+	<l>jananī bhaṇyate prajñā janayati yasmāj jagajjanaṃ |</l>
+	<l>bhaginīti tathā pra<lb n="3"/>jñā vibhāgaṃ darśayed yataḥ |</l>
+</lg>
+
+<lg xml:id="HT1.5.17">
+	<l>rajak<add rend="over writing">īti ca</add> duhitā ca narttakī <cb/>ca prakathyate ||</l>
+	<l>raṃjanāt sarvasatvānāṃ rajakīti tathā smṛtā |</l>
+</lg>
+
+<lg xml:id="HT1.5.18">
+	<l>guṇasya duhanāt prajñā duhiteti nigadyate ||</l>
+	<l>nartta<lb n="4"/>kī bhaṇyate prajñā cañcalatvān mahākṛpa |</l>
+	<l>asparśā bhagavatī <cb/>yasmāt ḍombī tasmāt prakathyate ||</l>
+</lg>
+
+<lg xml:id="HT1.5.19">
+	<l>jalpanaṃ japam ākhyātaṃ ālikālyoḥ prajalpanāt |</l>
+	<l>maṇḍalaṃ pādalekhyaḥ <lb n="5"/>syān malanān maṇḍalam ucyate ||</l>
+</lg>
+
+<lg xml:id="HT1.5.20">
+	<l>karasphoṭo bhaven mudrā a<cb/>ṅgulyāmoṭanas tathā |</l>
+	<l>tad dhyeyaṃ cintitaṃ yac ca dhyeyaṃ yasmād vicintanaṃ ||</l>
+</lg>
+
+<lg xml:id="HT1.5.21">
+	<l>pitari prāptaṃ yat saukhyaṃ tat sukhaṃ bhuñja<pb n="9v" img="38b"/>te svayaṃ |</l>
+	<l>maraṇaṃ yena sukheneha tat sukhaṃ dhyānam ucyate ||</l>
+</lg>
+
+<p xml:id="HT1.5.col">
+	<cb/>tatvapaṭalaḥ pañcamaḥ || <metamark rend="small puṣpikā" function="chapter ending"/> ||
+</p>
+</div> <!--End of paṭala 1.5-->
+
+
+<!--End of paṭala 1.6-->
+
+
+<!--End of paṭala 1.7-->
+
+
+<!--End of paṭala 1.8-->
+
+<!--End of paṭala 1.9-->
+
+<!--End of paṭala 1.10-->
+
+<!--End of paṭala 1.11-->
+</div> <!--End of kalpa 1-->
+
+<!--End of kalpa 2-->
+
+        </body>
+    </text>
+</TEI>

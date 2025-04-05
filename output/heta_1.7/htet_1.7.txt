@@ -1,0 +1,251 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+<fileDesc>
+  <titleStmt>
+		<title>Edition by Tripathi and Negi</title>
+		<title type="alt">In Hevajratantra with Muktāvalī Pañjikā of Mahāpaṇḍitācārya Ratnākaraśānti</title>
+		<editor>Ram Shankar Tripathi and Thakur Sain Negi</editor>
+  </titleStmt>
+  <publicationStmt>
+		<date calendar="Gregorian">2001</date>
+		<publisher>Central Institute of Higher Tibetan Studies</publisher>
+		<pubPlace>Sarnath</pubPlace>
+  </publicationStmt>
+  <sourceDesc>
+
+		<msDesc>
+			 <msIdentifier>
+				  <idno type="siglum">Ed<sup>T</sup></idno>
+			 </msIdentifier>
+			 <physDesc>
+				  <objectDesc form="book">
+						<supportDesc material="paper">
+							 <extent>  
+								  <measure quantity="188" unit="pages">345</measure>
+							 </extent>
+						</supportDesc>
+
+					  <layoutDesc>
+					  </layoutDesc>
+				  </objectDesc>
+				  
+				  <bindingDesc>
+				  </bindingDesc>
+			 </physDesc>
+			 <history>
+				  <origin>
+				  </origin>
+			 </history>
+		</msDesc>
+  </sourceDesc>
+</fileDesc>
+<encodingDesc>    
+	<p>IAST transliteration.</p>
+</encodingDesc>
+
+<revisionDesc>
+<change when="2022-10">First version.</change>
+</revisionDesc>
+</teiHeader>
+
+
+<text xml:lang="sa-Latn">
+  <body>
+
+<div n="1" type="kalpa">
+<!--End of paṭala 1.1-->
+
+<!--End of paṭala 1.2-->
+
+<!--End paṭala 1.3-->
+
+<!--End of paṭala 1.4-->
+
+<!--End of paṭala 1.5-->
+
+<!--End of paṭala 1.6-->
+
+
+<div n="7" type="paṭala">
+<p xml:id="HT1.7.1">
+	<pb n="67"/>atha chomāpaṭalaṃ vyākhyāsyāmaḥ—
+	<lg>
+		<l>yena vijñāyate bhrātā bhaginī ca na saṃśayaḥ || 1 ||</l>
+	</lg>
+</p>
+
+<lg xml:id="HT1.7.2">
+	<l>aṅgulīṃ darśayed yas tu āgatam ity uktaṃ bhavet |</l>
+	<l>dvābhyāṃ susvāgato bhavet |</l>
+	<l>kṣemamudrāṃ vijānīyād vāmāṅguṣṭhanipīḍanāt || 2 ||</l>
+</lg>
+
+<lg xml:id="HT1.7.3">
+	<l>anāmikāṃ tu yo dadyād dadyāt tasya kaniṣṭhikām |</l>
+	<l>madhyamāṃ darśayed yas tu dadyāt tasya pradeśikām || 3 ||</l>
+</lg>
+
+<lg xml:id="HT1.7.4">
+	<l><pb n="68"/>anāmikāṃ darśayed yas tu grīvāṃ tasya pradarśayet |</l>
+	<l>paṭaṃ saṃdarśayed yas tu triśūlaṃ tasya darśayet || 4 ||</l>
+</lg>
+
+<lg xml:id="HT1.7.5">
+	<l>stanaṃ darśayed yas tu sīmān tasya pradarśayet |</l>
+	<l>medinīṃ darśayed yas tu cakraṃ tasya pradarśayet || 5 ||</l>
+</lg>
+
+<lg xml:id="HT1.7.6">
+	<l>bhṛkuṭīṃ darśayed yas tu śikhāmokṣo vidhīyate |</l>
+	<l>lalāṭaṃ darśayed yas tu pṛṣṭaṃ tasya pradarśayet || 6 ||</l>
+</lg>
+
+<lg xml:id="HT1.7.7">
+	<l>pādatalaṃ darśayed yas tu krīḍate kautukena tu |</l>
+	<l>mudrā pratimudreṇa bhedayet samayena tu || 7 ||</l>
+</lg>
+
+<lg xml:id="HT1.7.8">
+	<l><pb n="69"/>vadanti tatra yoginya aho putra mahākṛpa |</l>
+	<l>yadi mālāhastaṃ darśayanti tatra militavyam iti <lb/>kathayanti || 8 ||</l>
+</lg>
+
+<lg xml:id="HT1.7.9">
+	<l>mālām abhipreṣitāṃ kṛtvā samaye tiṣṭha suvratā |</l>
+	<l>bhajeti tatra melāyāṃ divyagocaram āśritya |</l>
+	<l>yad dhi vadanti yoginyas tat sarvam eva karttavyam || 9 ||</l>
+</lg>
+
+<p xml:id="HT1.7.10">
+	vajragarbha uvāca—he bhagavan ! ke te melāpakasthānāḥ |
+	<lb/>bhagavān āha—
+	<lg>
+		<l>te pīṭhaṃ copapīṭhaṃ ca kṣetropakṣetram eva ca |</l>
+		<l>chandohaṃ copacchandohaṃ melāpakopamelāpakas tathā |</l>
+	</lg>
+</p>
+
+<lg xml:id="HT1.7.11">
+	<l>pīlavaṃ copapīlavaṃ śmaśānopaśmaśānakam || 10 ||</l>
+	<l><pb n="70"/>etā dvādaśa bhūmayaḥ |</l>
+	<l>daśabhūmīśvaro nātha ebhir anyair na kathyate || 11 ||</l>
+</lg>
+
+<p xml:id="HT1.7.12">
+	vajragarbha uvāca—he bhagavan ! ke te pīṭhādayaḥ |
+	<lb/>bhagavān āha—
+	<lg>
+		<l>pīṭhaṃ jālandharaṃ khyātam oḍḍiyānaṃ tathaiva ca |</l>
+		<l>pīṭhaṃ paurṇagiriś caiva kāmarūpaṃ tathaiva ca || 12 ||</l>
+	</lg>
+</p>
+
+<lg xml:id="HT1.7.13">
+	<l>upapīṭhaṃ mālavaṃ proktaṃ sindhur nagaram eva ca |</l>
+	<l>kṣetraṃ munmuni prakhyātaṃ kṣetraṃ kāruṇyapāṭakam |</l>
+	<l>devikoṭaṃ tathā kṣetraṃ kṣetraṃ karmārapāṭakam || 13 ||</l>
+</lg>
+
+<lg xml:id="HT1.7.14">
+	<l>upakṣetraṃ kulatā proktam arbudaś ca tathaiva ca |</l>
+	<l>godāvarī himādriś ca upakṣetraṃ hi saṃkṣipet || 14 ||</l>
+</lg>
+
+<lg xml:id="HT1.7.15">
+	<l>chandohaṃ harikelaṃ ca lavaṇasāgaramadhyajam |</l>
+	<l>lampākaṃ kāñcikaṃ caiva saurāṣṭraṃ ca tathaiva ca || 15 ||</l>
+</lg>
+
+<lg xml:id="HT1.7.16">
+	<l><pb n="71"/>kaliṅgam upacchandohaṃ dvīpaṃ cāmīkarānvitam |</l>
+	<l>kokaṇaṃ copacchandohaṃ samāsenābhidhīyate || 16 ||</l>
+</lg>
+
+<lg xml:id="HT1.7.17">
+	<l>pīlavaṃ ca grāmāntasthaṃ pīlavaṃ nagarasya ca |</l>
+	<l>caritraṃ kośalaṃ caiva vindhyā kaumārapaurikā |</l>
+	<l>upapīlavaṃ tatsanniveśaṃ vajragarbha mahākṛpa || 17 ||</l>
+</lg>
+
+<lg xml:id="HT1.7.18">
+	<l>śmaśānaṃ pretasaṃhātaṃ śmaśānaṃ codadhes taṭam |</l>
+	<l>udyānaṃ vāpikātīram upaśmaśānaṃ nigadyate || 18 ||</l>
+</lg>
+
+<lg xml:id="HT1.7.19">
+	<l>divasaṃ caiva vakṣyāmi yoginīnāṃ sumelakam |</l>
+	<l>hevajre yoginītantre sarvasattvārthahetunā || 19 ||</l>
+</lg>
+
+<p xml:id="HT1.7.20">
+	vajragarbha uvāca—he bhagavan, ke te divasāḥ |
+	<lb/>bhagavān āha—
+	<lg>
+		<l>pretapakṣe caturdaśyām aṣṭamyāñ ca tathaiva ca || 20 ||</l>
+	</lg>
+</p>
+
+<lg xml:id="HT1.7.21">
+	<l><pb n="72"/>dhvajaṃ śastrahataṃ caiva saptāvartaṃ ca bhakṣayet |</l>
+	<l>kṛpām utpādya yatnena māraṇaṃ kriyate viduḥ || 21 ||</l>
+</lg>
+
+<lg xml:id="HT1.7.22">
+	<l>kṛpāhīnā na sidhyanti tasmāt kṛpām utpādayet |</l>
+	<l>duṣṭāvatāraṇe sarvaṃ vidhimukhyāt prasidhyati || 22 ||</l>
+</lg>
+
+<p xml:id="HT1.7.23">
+	tatraivaṃ mantavyam |
+
+	<lg>
+		<l>dinas tu bhagavān vajrī naktaṃ prajñā ca bhaṇyate || 23 ||</l>
+	</lg>
+</p>
+
+<lg xml:id="HT1.7.24">
+	<l>nākāryaṃ vidyate kiñcin nābhakṣyaṃ vidyate sadā |</l>
+	<l>nācintyaṃ vidyate hy atra nāvācyaṃ yac chubhāśubham || 24 ||</l>
+</lg>
+
+<lg xml:id="HT1.7.25">
+	<l>yathātmani tathā sattve tathātmani ahaṃ param |</l>
+	<l>iti saṃcintya yogātmā khānapānādim ārabhet || 25 ||</l>
+</lg>
+
+<lg xml:id="HT1.7.26">
+	<l><pb n="73"/>yāvanto hy aṅgavikṣepā vacasaḥ prasarāṇi ca |</l>
+	<l>tāvanto mantramudrāḥ syuḥ śrīherukapade sthite || 26 ||</l>
+</lg>
+
+<lg xml:id="HT1.7.27">
+	<l>śrīkāram advayaṃ jñānaṃ hekāraṃ hetvādiśūnyatā |</l>
+	<l>rukārāpagatavyūhaṃ kakāraṃ na kvacit sthitam || 27 ||</l>
+</lg>
+
+<lg xml:id="HT1.7.28">
+	<l>yeṣāṃ yeṣāṃ ca jantūnāṃ piśitam aśnīyate budhaiḥ |</l>
+	<l>te te sattvā vaśaṃ yānti vajrakapālayogataḥ || 28 ||</l>
+</lg>
+
+<p xml:id="HT1.7.col">
+	chomāpaṭalaḥ saptamaḥ ||
+</p>
+</div> <!--End of paṭala 1.7-->
+
+
+<!--End of paṭala 1.8-->
+
+<!--End of paṭala 1.9-->
+
+<!--End of paṭala 1.10-->
+
+<!--End of paṭala 1.11-->
+</div> <!--End of kalpa 1-->
+
+<!--End of kalpa 2-->
+        </body>
+    </text>
+</TEI>

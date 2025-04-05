@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+    <fileDesc>
+        <titleStmt>
+            <title>Edition by Snellgrove</title>
+            <title type="alt">The Hevajratantra: A Critical Study</title>
+            <editor>David Snellgrove</editor>
+        </titleStmt>
+        <publicationStmt>
+            <date calendar="Gregorian">1951</date>
+            <publisher>Oxford University Press</publisher>
+            <pubPlace>London</pubPlace>
+        </publicationStmt>
+        <sourceDesc>
+
+            <msDesc>
+                <msIdentifier>
+                    <idno type="siglum">Ed<sup>S</sup></idno>
+                </msIdentifier>
+                <physDesc>
+                    <objectDesc form="book">
+                        <supportDesc material="paper">
+                            <extent>  
+                                <measure quantity="188" unit="pages">188</measure>
+                            </extent>
+                        </supportDesc>
+
+                       <layoutDesc>
+                       </layoutDesc>
+                    </objectDesc>
+                    
+                    <bindingDesc>
+                    </bindingDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                    </origin>
+                </history>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <encodingDesc>    
+			<p>IAST transliteration.</p>
+	</encodingDesc>
+
+    <revisionDesc>
+		<change when="2022-10">First version.</change>
+    </revisionDesc>
+</teiHeader>
+
+
+	<text xml:lang="sa-Latn">
+        <body>
+<!--End of kalpa 1-->
+
+
+<div n="2" type="kalpa">
+<!--End of paṭala 2.1-->
+
+<!--End of paṭala 2.2-->
+
+<!--End of paṭala 2.3-->
+
+<!--End of paṭala 2.4-->
+
+<!--End of paṭala 2.5-->
+
+<!--End of paṭala 2.6-->
+
+<!--End of paṭala 2.7-->
+
+<div n="8" type="paṭala">
+ 
+<lg xml:id="HT2.8.1">
+	<l>tatra pṛcchanti yoginyo mahāmudrā tu kīdṛśī ||</l>
+	<l>saṃvṛtyākārarūpeṇa kathayasva sukhaṃdada || (1)</l>
+</lg>
+
+<lg xml:id="HT2.8.2">
+	<l><pb n="90"/>bhagavān āha ||</l>
+	<l>nātidīrghā nātihrasvā na kṛṣṇā na ca gaurikā ||</l>
+	<l>padmapatranibhākārā śvāsaḥ tasyāḥ sugandhakaḥ || (2)</l>
+</lg>
+
+<lg xml:id="HT2.8.3">
+	<l>prasvedaṃ ca sugandhi syān mṛganābhisamaprabhaṃ ||</l>
+	<l>padmaṃ cendīvaraṃ gandhaṃ kṛṣṇāt padmam ivācaret || (3)</l>
+</lg>
+
+<lg xml:id="HT2.8.4">
+	<l>karpūrasihlayos tasyāḥ sugandhaṃ lakṣayed budhaḥ ||</l>
+	<l>utpalasya bhaved gandhaṃ vāyasāgurusannibhaṃ || (4)</l>
+</lg>
+
+<lg xml:id="HT2.8.5">
+	<l>dhīrā acañcalā caiva priyavādī manoramā ||</l>
+	<l>sukeśā trivalīmadhyā prākṛtaiḥ padminī matā ||</l>
+	<l>tāṃ ca prāpya bhavet siddhiḥ sahajānandarūpiṇī || (5)</l>
+</lg>
+
+<lg xml:id="HT2.8.6">
+	<l>athāha nairātmyāyoginī bhagavan praṇidhānaṃ kīdṛśaṃ kartavyaṃ ||</l>
+	<l>bhagavān āha ||</l>
+	<l>kulajanmā anunmādī samayī hevajradeśakaḥ ||</l>
+	<l>kṛpavān gurubhaktaś ca bhaveyaṃ janmajanmani || (6)</l>
+</lg>
+
+<lg xml:id="HT2.8.7">
+	<l>vajragaṇṭhāraṇatpāṇir gambhīradharmapāṭhakaḥ ||</l>
+	<l>yoṣicchrukrasamāhārī bhaveyaṃ janmajanmani || (7)</l>
+</lg>
+
+<lg xml:id="HT2.8.8">
+	<l>tatra tuṣṭā tu sā devī idaṃ vacanam abravīt ||</l>
+	<l>durdāntā dundurāḥ sattvā vineyaṃ yānti kena hi || (8)</l>
+</lg>
+
+<lg xml:id="HT2.8.9">
+	<l>bhagavān āha ||</l>
+	<l>poṣadhaṃ dīyate prathamaṃ tadanu śikṣāpadaṃ daśaṃ |</l>
+	<l>vaibhāṣyaṃ tatra deśeta sūtrāntaṃ vai punas tathā || (9)</l>
+</lg>
+
+<lg xml:id="HT2.8.10">
+	<l>yogācāraṃ tataḥ paścāt tadanu madhyamakaṃ diśet |</l>
+	<l>sarvamantranayaṃ jñātvā tadanu hevajram ārabhet |</l>
+	<l>gṛhnīyāt sādaraṃ śiṣyaḥ sidhyate nātra saṃśayaḥ || (10)</l>
+</lg>
+
+<p xml:id="HT2.8.col">
+	vineyapaṭalo nāmāṣṭaḥ ||
+</p>
+
+</div> <!--End of paṭala 2.8-->
+
+<!--End of paṭala 2.9-->
+
+
+<!--End of paṭala 2.10-->
+
+
+<!--End of paṭala 2.11-->
+
+
+<!--End of paṭala 2.12-->
+
+</div> <!--End of kalpa 2-->
+
+        </body>
+    </text>
+</TEI>

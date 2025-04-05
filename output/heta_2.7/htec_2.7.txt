@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+    <fileDesc>
+        <titleStmt>
+            <title>Provisional edition</title>
+            <title type="alt">The Hevajratantra, with special reference to Kamalanātha Ratnāvalī, edited by Ryan Conlon</title>
+            <editor>Ryan Conlon</editor>
+        </titleStmt>
+        <publicationStmt>
+            <date calendar="Gregorian">2022</date>
+            <publisher/>
+            <pubPlace>Universität</pubPlace>
+        </publicationStmt>
+        <sourceDesc>
+
+            <msDesc xml:lang="en">
+                <msIdentifier>
+                    <idno type="siglum">Ed<sup>C</sup></idno>
+                </msIdentifier>
+
+                <msContents>
+                    <summary>This is a provisionary critical edition of the text, currently still under active revision, based on five manuscript witnesses and two printed sources.</summary>
+
+                    <msItem n="1" defective="false">
+
+                        <textLang mainLang="sa-Latn">Sanskrit in IAST transliteration.</textLang>
+
+                    </msItem>
+                </msContents>
+
+                <physDesc>
+                    <objectDesc form="xml">
+                        <supportDesc material="digital">
+                            <extent> 
+                            </extent>
+                        </supportDesc>
+                    </objectDesc>
+                </physDesc>
+
+                <history>
+                    <origin>
+                        <origDate calendar="Gregorian" when="2020">2020 CE</origDate>
+                        <origPlace>Germany</origPlace>
+                    </origin>
+                </history>
+
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+
+    <revisionDesc>
+        <change when="2022-10-12">
+            <persName>Ryan Conlon</persName>
+        </change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text xml:lang="sa-Latn">
+   <body>
+
+<!--End of kalpa 1-->
+
+<div n="2" type="kalpa">
+<!--End of paṭala 2.1-->
+
+<!--End of paṭala 2.2-->
+
+<!--End of paṭala 2.3-->
+
+<!--End of paṭala 2.4-->
+
+<!--End of paṭala 2.5-->
+
+<!--End of paṭala 2.6-->
+
+<div n="7" type="paṭala">
+<lg xml:id="HT2.7.1">
+	<l>athāha tatra sā devī bolakakkolayogataḥ |</l>
+	<l>oṣṭhaṃ dantena saṃpīḍya kathaṃ bhavati pustakam |</l>
+	<l>vajrapadmasamāyogāt tuṣṭo devaḥ prakāśate || 1 ||</l>
+</lg>
+
+<lg xml:id="HT2.7.2">
+	<l/>
+	<l>śṛṇu devi mahābhāge pustakaṃ kathayāmy aham |</l>
+	<l>bhūrjapatre likhet samayī dvādaśāṅgulapustikām |</l>
+	<l>mahāmadhu masiṃ kṛtvā lekhanyā mānuṣāsthibhiḥ || 2 ||</l>
+</lg>
+
+<lg xml:id="HT2.7.3">
+	<l>pustakaṃ ca paṭaṃ caiva yadi vā dunduraḥ paśyati |</l>
+	<l>iha janmani na siddhiḥ syān na vā paralokagocare || 3 ||</l>
+</lg>
+
+<lg xml:id="HT2.7.4">
+	<l>saṃpradāyaprayuktasya darśanaṃ ca kadācat |</l>
+	<l>gopitavyaṃ kace kakṣe pustakaṃ tv adhvagocare || 4 ||</l>
+</lg>
+
+<lg xml:id="HT2.7.5">
+	<l>bhage liṅgaṃ pratiṣṭhāpya cumbayitvā muhurmuhuḥ |</l>
+	<l>mahāsukhaṃ samāsādya vajrī bhojanam ādiśet || 5 ||</l>
+</lg>
+
+<lg xml:id="HT2.7.6">
+	<l>śṛṇu devi viśālākṣi bhojanaṃ gaṇamaṇḍalaṃ |</l>
+	<l>yatra bhukte bhavet siddhiḥ sarvakāmārthasādhakī || 6 ||</l>
+</lg>
+
+<lg xml:id="HT2.7.7">
+	<l>śmaśāne girikuñje ca amānuṣyapure tathā |</l>
+	<l>athavā vijane samudrānta idaṃ bhojanam ācaret || 7 ||</l>
+</lg>
+
+<lg xml:id="HT2.7.8">
+	<l>kalpayed āsanaṃ tatra navākhyaṃ śavarūpiṇam |</l>
+	<l>athavā vyāghracarmaṃ ca śmaśānakarpaṭaṃ tathā || 8 ||</l>
+</lg>
+
+<lg xml:id="HT2.7.9">
+	<l>madhye hevajrarūpātmā yoginīnāṃ tato nyaset |</l>
+	<l>sthānaṃ jñātvā yathāpūrvaṃ diśāsu vidiśāsu ca || 9 ||</l>
+</lg>
+
+<lg xml:id="HT2.7.10">
+	<l>vyāghracarmopari bhuñjīta samayasya mālatīndhanam |</l>
+	<l>bhakṣaṃ ca bhakṣayet tatra rājaśāliṃ prayatnataḥ |</l>
+	<l>bhuktvā bhuktvā punas tatra pūjyante tatra mātaraḥ || 10 ||</l>
+</lg>
+
+<lg xml:id="HT2.7.11">
+	<l>yadi vā mātā bhaginī syād bhāgineyī ca śvaśrukā |</l>
+	<l>pūjayen nirbharaṃ tāsāṃ sidhyante gaṇamaṇḍale || 11 ||</l>
+</lg>
+
+<lg xml:id="HT2.7.12">
+	<l>ekakhaṇḍaṃ mahānarakaṃ divyaṃ madanapūritam |</l>
+	<l>gurave dadyān mahābhāge vandayitvā svayaṃ pibet || 12 ||</l>
+</lg>
+
+<lg xml:id="HT2.7.13">
+	<l>gṛhṇīyāt padmahastena dadyāt tenaiva pāṇinā |</l>
+	<l>muhurmuhuḥ praṇāmañ ca kurvanti tatra sādhakāḥ || 13 ||</l>
+</lg>
+
+<p xml:id="HT2.7.col"> 
+	bhojanapaṭalaḥ saptamaḥ ||
+</p>
+
+</div> <!--End of paṭala 2.7-->
+
+<!--End of paṭala 2.8-->
+
+<!--End of paṭala 2.9-->
+
+<!--End of paṭala 2.10-->
+
+
+<!--End of paṭala 2.11-->
+
+
+<!--End of paṭala 2.12-->
+
+
+</div> <!--End of kalpa 2-->
+        </body>
+    </text>
+</TEI>

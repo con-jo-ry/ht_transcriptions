@@ -1,0 +1,627 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+    <fileDesc>
+        <titleStmt>
+            <title>Provisional edition</title>
+            <title type="alt">The Hevajratantra, with special reference to Kamalanātha Ratnāvalī, edited by Ryan Conlon</title>
+            <editor>Ryan Conlon</editor>
+        </titleStmt>
+        <publicationStmt>
+            <date calendar="Gregorian">2022</date>
+            <publisher/>
+            <pubPlace>Universität</pubPlace>
+        </publicationStmt>
+        <sourceDesc>
+
+            <msDesc xml:lang="en">
+                <msIdentifier>
+                    <idno type="siglum">Ed<sup>C</sup></idno>
+                </msIdentifier>
+
+                <msContents>
+                    <summary>This is a provisionary critical edition of the text, currently still under active revision, based on five manuscript witnesses and two printed sources.</summary>
+
+                    <msItem n="1" defective="false">
+
+                        <textLang mainLang="sa-Latn">Sanskrit in IAST transliteration.</textLang>
+
+                    </msItem>
+                </msContents>
+
+                <physDesc>
+                    <objectDesc form="xml">
+                        <supportDesc material="digital">
+                            <extent> 
+                            </extent>
+                        </supportDesc>
+                    </objectDesc>
+                </physDesc>
+
+                <history>
+                    <origin>
+                        <origDate calendar="Gregorian" when="2020">2020 CE</origDate>
+                        <origPlace>Germany</origPlace>
+                    </origin>
+                </history>
+
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+
+    <revisionDesc>
+        <change when="2022-10-12">
+            <persName>Ryan Conlon</persName>
+        </change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text xml:lang="sa-Latn">
+   <body>
+
+<!--End of kalpa 1-->
+
+<div n="2" type="kalpa">
+<!--End of paṭala 2.1-->
+
+<!--End of paṭala 2.2-->
+
+<!--End of paṭala 2.3-->
+
+<div n="4" type="paṭala">
+<p xml:id="HT2.4.1">
+	atha vajragarbhapramukhāḥ sarvavajraḍākinyaḥ saṃśayaprāptā daurmanasyaprāptā bhagavantaṃ vajrasattvam evam āhuḥ—bhagavān saṃśayam apanayatu || 1 ||
+</p>
+
+<lg xml:id="HT2.4.2">
+	<l>caryāpaṭale yad ākhyātaṃ gītaṃ nāṭyaṃ ca siddhidam |</l>
+	<l>tatra saṃdeho me vartate kiṃ gītaṃ nāṭyaṃ ca kim || 2 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.3">
+	<l>devatābhiṣekato yac ca kathitaṃ dveṣādimudraṇam |</l>
+	<l>tatra saṃdeho me vartate kiṃ mudryaṃ kasya mudraṇam || 3 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.4">
+	<l>mantroddhāre ca yat proktaṃ nairātmyādes tu bījakam |</l>
+	<l>tatra me bhrāntiḥ saṃjātā kiṃ bījaṃ kasya bījakam || 4 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.5">
+	<l>kulapaṭale yāḥ khyātā nāḍyo dviṣoḍaśātmikāḥ |</l>
+	<l>viśuddhiṃ tāsāṃ kathayantu bhagavanto bhrāntir me 'bhūt || 5 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.6">
+	<l>bhagavān āha—</l>
+	<l>kollaïre ṭṭhia bolā mummuṇire kakkolā |</l>
+	<l>ghaṇaa kipiṭṭa ho vājjaï karuṇe kiaï na rolā || 6 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.7">
+	<l>tahi balu khājjaï gāḍheṃ maaṇā pijjaaï |</l>
+	<l>hale kāliñjara paṇiaï dunduru vajjiaï |</l>
+	<l>caüsama katthuri sihlā kappura lāiaï |</l>
+	<l>mālaïindhaṇa sālia tahi bharu khāiaï || 7 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.8">
+	<l>preṅkhaṇakheṭa karante suddhāsuddha na muṇiaï |</l>
+	<l>niraṃsu aṅga caḍāvī tahi ja sarāva vi paṇiaï |</l>
+	<l>malayaje kunduru vaṭṭaï ḍiṇḍima tahiṃ na vajjiaï || 8 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.9">
+	<l>nāṭyaṃ śrīherukarūpeṇa amuṣitasmṛtiyogataḥ |</l>
+	<l>bhāvanāraktacittenāviratābhyāsacetasā || 9 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.10">
+	<l>vajradharmais tathā buddhair yoginībhiś ca mātṛbhiḥ |</l>
+	<l>ābhyāṃ gītanṛtyābhyāṃ gīyate nṛtyate param || 10 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.11">
+	<l>gaṇarakṣā tv anenaiva ātmarakṣā tathaiva ca |</l>
+	<l>anenaiva vaśaṃ loke mantrajāpaṃ tv anena tu || 11 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.12">
+	<l>sādaraṃ gīyate yatra sādaraṃ yatra pavyate |</l>
+	<l>gaṇādhyakṣaṃ puraskṛtya tatra ghrāṇaṃ tu lakṣayet || 12 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.13">
+	<l>laśunaṃ prathamaṃ gandhaṃ gṛdhragandhaṃ tataḥ punaḥ |</l>
+	<l>karpūraṃ malayajaṃ tadanu gītādhiṣṭhānalakṣaṇam || 13 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.14">
+	<l>rutaṃ haṃsasya bhṛṅgasya śrūyate gītaśeṣataḥ |</l>
+	<l>gomāyor api śabdaś ca bāhyodyāne 'pi lakṣayet || 14 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.15">
+	<l>mudraṇaṃ liṅganāṅkaṃ ca aṅkena lakṣyate kulaṃ |</l>
+	<l>vyastakulabhāvanāyogān na siddhir nāpi sādhakaḥ || 15 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.16">
+	<l>nairātmyā dveṣamudreṇa vajrā ca mohamudrayā |</l>
+	<l>gaurī paiśunyamudreṇa vārīṃ rāgeṇa mudrayet || 16 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.17">
+	<l>īrṣyāmudrayā ḍākinī pukkasī dveṣamudrataḥ |</l>
+	<l>śabarī mohamudreṇa caṇḍālī piśunamudrayā || 17 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.18">
+	<l>ḍombī rāgasya mudreṇa punargaurī ca dveṣataḥ |</l>
+	<l>caurī mohamudreṇa vettālī piśunamudrataḥ || 18 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.19">
+	<l>ghasmarī rāgamudreṇa mohamudreṇa bhūcarī |</l>
+	<l>khecarī rāgamudreṇa mudraṇaṃ jānatecchayā || 19 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.20">
+	<l>āler ādi nairātmyā vajrā āler dvitīyakam |</l>
+	<l>āles tṛtīyakaṃ gaurī caturthaṃ vāriyoginī || 20 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.21">
+	<l>pañcamaṃ vajraḍākī ca ṣaṣṭhamaṃ pukkasī smṛtā |</l>
+	<l>śavarī saptamaṃ caiva caṇḍālī aṣṭamaṃ matam || 21 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.22">
+	<l>navamaṃ ḍombinī caiva punargaurī dvipañcakam |</l>
+	<l>caurī ekādaśaṃ khyātaṃ vettālī dvādaśaṃ matam || 22 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.23">
+	<l>ghasmarī trayodaśakaṃ caturdaśamaṃ bhūcarī |</l>
+	<l>pañcadaśamaṃ khecaryā yoginīnāṃ svabījakam || 23 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.24">
+	<l>kulapaṭale yā nāḍyaḥ kathitā dviṣoḍaśātmikāḥ |</l>
+	<l>nāḍidvayadvayaikaikā yoginyaḥ kramaśo matāḥ || 24 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.25">
+	<l>lalanā rasanā avadhūtī nairātmyayoginī matā |</l>
+	<l>sarvaśeṣāṃ tyajed yatnāt ṣoḍaśī na kalā yataḥ |</l>
+	<l>kasmād dhetoḥ | arthakriyākaraṇatvāt || 25 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.26">
+	<l>bodhicittaṃ bhavec candraṃ pañcadaśakalātmakam |</l>
+	<l>ālirūpaṃ mahāsaukhyaṃ yoginyas tasya aṃśakāḥ || 26 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.27">
+	<l>vajragarbha āha—</l>
+	<l>karpūraṃ kiṃ na vai tyājyaṃ sarvayoginīsambhavam |</l>
+	<l>sahajānandasvabhāvaṃ ca avyayaṃ pīvaraṃ khagam || 27 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.28">
+	<l>bhagavān āha—evam etad yathā vadasi |</l>
+	<l>vajragarbha āha—kenopāyenotpādanīyaṃ bodhicittam || 28 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.29">
+	<l>bhagavān āha—</l>
+	<l>maṇḍalacakrādyupāyena svādhiṣṭhānakrameṇa ca |</l>
+	<l>bodhicittam utpādayed vivṛtisaṃvṛtirūpakam || 29 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.30">
+	<l>saṃvṛtaṃ kundasaṃkāśaṃ vivṛtaṃ sukharūpiṇam |</l>
+	<l>strīkakkole saukhāvatyām evaṃkārasvarūpake || 30 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.31">
+	<l>sukhasya rakṣaṇād eva sukhāvatīti śabditam |</l>
+	<l>buddhānāṃ bodhisattvānām ādhāraṃ vajradhāriṇaḥ || 31 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.32">
+	<l>evam eva tu saṃsāraṃ nirvāṇam evam eva tu |</l>
+	<l>saṃsārād ṛte nānyan nirvāṇam pratipadyate || 32 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.33">
+	<l>saṃsāraṃ rūpaśabdādyāḥ saṃsāraṃ vedanādayaḥ |</l>
+	<l>saṃsāram indriyāṇy eva saṃsāraṃ dveṣakādayaḥ || 33 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.34">
+	<l>amī dharmās tu nirvāṇaṃ mohāt saṃsārarūpiṇaḥ |</l>
+	<l>amūḍhaḥ saṃsaran śuddhyā saṃsāro nirvṛtāyate || 34 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.35">
+	<l>nirvṛtir bodhicittaṃ hi vivṛtisaṃvṛtirūpakam |</l>
+	<l>cāruvaktrāṃ viśālākṣīṃ rūpayauvanamaṇḍitām || 35 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.36">
+	<l>śyāmāṃ dhīrāṃ kulīnān tu sihlakarpūrasaṃbhavām |</l>
+	<l>svābhiṣiktāṃ tu hevajre sukeśāṃ sādhakapriyām || 36 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.37">
+	<l>madanaṃ pāyayet tāsāṃ svayaṃ caiva pibet tataḥ |</l>
+	<l>paścād anurāgayen mudrāṃ svaparārthaprasiddhaye || 37 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.38">
+	<l>kakkolake bolakaṃ kṣiptvā kunduruṃ kurute vratī |</l>
+	<l>tasmin yoge samudbhūtaṃ karpūraṃ na tyajed budhaḥ || 38 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.39">
+	<l>na kareṇa tato gṛhyetśuktikāyāṃ na śaṅkhake |</l>
+	<l>amṛtaṃ jihvayā grāhyam edhanāya balasya vai || 39 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.40">
+	<l>karpūra eva nairātmyā sukhaṃ nairātmyarūpiṇam |</l>
+	<l>tasya saukhyaṃ mahāmudrā saṃsthitā nābhimaṇḍale || 40 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.41">
+	<l>ādisvarasvabhāvā sā dhīti buddhaiḥ prakalpitā |</l>
+	<l>saiva bhagavatī prajñā utpannakramayogataḥ || 41 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.42">
+	<l>na sā dīrghā na sā hrasvā na caturaśrā na vartulā |</l>
+	<l>svādagandharasātītā sahajānandakāriṇī || 42 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.43">
+	<l>tasyām utpadyate yogī tasyāḥ saukhyaṃ bhunakti ca |</l>
+	<l>tayā sārdhaṃ bhavet siddhir mahāmudrā sukhaṃdadā || 43 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.44">
+	<l>rūpaṃ śabdas tathā gandho rasaḥ sparśas tathaiva ca |</l>
+	<l>dharmadhātusvabhāvaś ca prajñayaivopabhujyate || 44 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.45">
+	<l>saiva sahajarūpā tu mahāsukhā divyayoginī |</l>
+	<l>saiva maṇḍalacakraṃ ca pañcajñānasvarūpiṇī || 45 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.46">
+	<l>ādarśajñānarūpā sā samatājñānabhāvinī |</l>
+	<l>sadbhūtapratyavekṣā ca kṛtyānuṣṭhāna saiva tu || 46 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.47">
+	<l>suviśuddhadharmadhātv īśā saivāhaṃ maṇḍalādhipaḥ |</l>
+	<l>saiva nairātmyayoginyaḥ svarūpaṃ dharmadhātukam || 47 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.48">
+	<l>vajragarbha āha—</l>
+	<l>cakrabhāvanāmārgeṇa devatānāṃ yathodayam |</l>
+	<l>bhagavatā kathitaṃ pūrvaṃ saṃvaraṃ kathayasva me || 48 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.49">
+	<l>bhagavān āha—</l>
+	<l>yoginyā dehamadhyasthaṃ akāraṃ saṃvaraṃ sthitam |</l>
+	<l>yathā bāhyaṃ tathādhyātmaṃ saṃvaraṃ tat prakāśitam || 49 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.50">
+	<l>bolasaukhyaṃ mahāmudrā vajrāyatanam upāyakam |</l>
+	<l>anayā guhyasamāpattyā bāhyadvandvaṃ nirdarśitam || 50 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.51">
+	<l>trikāyaṃ dehamadhye tu cakrarūpeṇa kathyate |</l>
+	<l>trikāyasya parijñānaṃ cakraṃ mahat sukhaṃ matam || 51 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.52">
+	<l>dharmasambhoganirmāṇaṃ mahāsukhaṃ tathaiva ca |</l>
+	<l>yonihṛtkaṇṭhamasteṣu trayaḥ kāyā vyavasthitāḥ || 52 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.53">
+	<l>aśeṣāṇāṃ tu sattvānāṃ yatrotpattiḥ pragīyate |</l>
+	<l>tatra nirmāṇakāyaḥ syān nirmāṇaṃ sthāvaraṃ matam || 53 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.54">
+	<l>utpadyate nirmyate 'nena nirmāṇakāyam uttamam |</l>
+	<l>dharmaś cittasvarūpaṃ tu dharmakāyaṃ ca hṛd bhavet || 54 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.55">
+	<l>sambhogaṃ bhuñjanaṃ proktaṃ ṣaṇṇāṃ vai rasarūpiṇām |</l>
+	<l>kaṇṭhe saṃbhogacakraṃ ca mahāsukhaṃ śirasi sthitam || 55 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.56">
+	<l>evaṃkāre ca niṣyandaṃ vipākaṃ dharmacakrataḥ |</l>
+	<l>puruṣakāraṃ sambhoge vaimalyaṃ sukhacakrake || 56 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.57">
+	<l>phalaṃ caturvidhaṃ proktaṃ niṣyandādyair vibheditam |</l>
+	<l>karmabhug bhagavatī prajñā karmamārutacoditā || 57 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.58">
+	<l>yathā kṛtaṃ tathā bhuktaṃ niṣyanda iti śabditam |</l>
+	<l>vipākaṃ tadviparyāsaṃ karmaṇy alpe mahat phalam |</l>
+	<l>puruṣakāram upārjanaṃ vaimalyaṃ yogaśuddhitaḥ || 58 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.59">
+	<l>sthāvarī nirmāṇacakre tu nirmāṇaṃ sthāvaraṃ yataḥ |</l>
+	<l>sarvāstivādo dharmacakre ca dharmo vādasamudbhavaḥ || 59 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.60">
+	<l>saṃvidī sambhogacakre ca kaṇṭhe saṃvedanaṃ yataḥ |</l>
+	<l>mahāsaṅghī sukhacakre ca mahāsukhaṃ ke sthitaṃ yataḥ || 60 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.61">
+	<l>nikāyaṃ kāyam ity uktam udaraṃ vihāram ucyate |</l>
+	<l>vītarāgo bhavet yonau jarāyurujjvalacīvaraḥ || 61 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.62">
+	<l>upādhyāyī tathā jananī vandanaṃ mastakāñjaliḥ |</l>
+	<l>śikṣāpadaṃ jagatkṛtyaṃ mantrajāpam ahaṃ tathā || 62 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.63">
+	<l>akāraṃ yonicakrasya haṃkāraṃ mahāsukhasya ca |</l>
+	<l>jāto bhikṣur dhvanan mantraṃ nagnaḥ śirastuṇḍamuṇḍitaḥ || 63 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.64">
+	<l>ābhiḥ sāmagrībhiḥ sattvā buddhā eva na saṃśayaḥ |</l>
+	<l>bhūmayo daśamāsāś ca sattvā daśabhūmīśvarāḥ || 64 ||</l>
+</lg>
+
+<p xml:id="HT2.4.65-66">
+	atha sarvā devatyo nairātmyayoginīpramukhāḥ | tadyathā locanā ca māmakī ca pāṇḍarā ca tārā ca bhṛkuṭī ca cundā ca patraśavarī ca ahomukhā ca | evaṃpramukhāḥ sumeruparamāṇurajaḥsamā yoginyaḥ paramavismayam āpannāḥ | etāṃ bhāratīṃ śrutvā mūrcchitāḥ santrastā avanau patitāḥ | dhūnanaprāptās tāḥ sarvā devatīr dṛṣṭvā saṃstauti vajrī punar utthāpanāya || 65 66 ||
+</p>
+
+<lg xml:id="HT2.4.67">
+	<l>khiti jala pavaṇa hutāsāṇa ho tumhe bhāïṇi devi |</l>
+	<l>suṇahu pavañcami tattu haüṃ jo ṇa jānaï kovi || 67 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.68">
+	<l>svapnavad bhagavato vacanaṃ śrutvā sarvās tā jīvaprāptā abhūvan || 68 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.69">
+	<l>bhagavān āha—</l>
+	<l>sattvā buddhā eva kintu āgantukamalāvṛtāḥ |</l>
+	<l>tasyāpakarṣanād buddhāḥ || 69 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.70">
+	<l>evam etad bhagavan | satyaṃ na mṛṣā || 70 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.71">
+	<l>bhagavān āha—</l>
+	<l>ghummaï garalaha bhakkhaṇahiṃ jo nicceaṇa loa |</l>
+	<l>mohavivajjia tattumaṇū tasu para tuṭṭaï soa || 71 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.72">
+	<l>tathā nivṛtyupāyajñā hevajre sukṛtaśramāḥ |</l>
+	<l>avidyādyair na gṛhyante na ca mohādibandanaiḥ || 72 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.73">
+	<l>abuddho nāsti sattvaikaḥ saṃbodhāt svasya svasya ca |</l>
+	<l>narakapretatiryaṃ ca devāsuramanuṣyakāḥ || 73 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.74">
+	<l>amedhyakīṭakādyās tu nityaṃ sukhinaḥ svabhāvataḥ |</l>
+	<l>na jānanti paraṃ saukhyaṃ devasyāpy asurasya ca || 74 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.75">
+	<l>na buddho labhyate 'nyatra lokadhātuṣu kutracit |</l>
+	<l>cittam eva hi saṃbuddho na buddho 'nyatra darśitaḥ || 75 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.76">
+	<l>caṇḍālaveṇukārādyā māraṇārthārthacittakāḥ |</l>
+	<l>te 'pi hevajram āgamya sidhyante nātra saṃśayaḥ || 76 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.77">
+	<l>ajñānenāvṛtā bālā imāṃ gatim ajānakāḥ |</l>
+	<l>saṃsaranti ca te mūḍhāḥ ṣaḍgatau bhavacārake || 77 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.78">
+	<l>upāyaṃ prāpya hevajram vajragarbha mahāmahaḥ |</l>
+	<l>viśodhayanti ye viṣayān lapsyante te hy anuttaram || 78 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.79">
+	<l>vajragarbha āha—</l>
+	<l>pṛthivī pukkasī khyātā katham akṣobhyamudraṇaṃ |</l>
+	<l>mohaṃ yasmāt kakkhaṭatvaṃ kāyo vairocano mataḥ || 79 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.80">
+	<l>bhagavān āha |</l>
+	<l>kāyaṃ vihāya cittasya nānyatra laḍitaṃ bhavet |</l>
+	<l>tasmād vairocanaḥ cittaṃ kāyaṃ cittena mudrayet || 80 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.81">
+	<l>vajragarbha āha—</l>
+	<l>abdhātuḥ śavarī khyātā akṣobhyaṃ dravarūpakam |</l>
+	<l>śavarī akṣobhyamudreṇa mudraṇaṃ yujyate prabho || 81 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.82">
+	<l>bhagavān āha—</l>
+	<l>cittaṃ vihāya kāyasya sthitir anyā na dṛśyate |</l>
+	<l>tasmāc cittaṃ bhaven mohaṃ cittaṃ mohena mudrayet || 82 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.83">
+	<l>vajragarbha āha—</l>
+	<l>tejaś caṇḍālinī khyātā kathaṃ ratnena mudraṇam |</l>
+	<l>yujyate rāgamudreṇa caṇḍālyā nānyamudraṇam || 83 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.84">
+	<l>bhagavān āha—</l>
+	<l>rāgaṃ raktaṃ yataḥ khyātaṃ raktaṃ ca ratnasambhavam |</l>
+	<l>tejo raktasvarūpatvād rāgaṃ piśunena mudrayet || 84 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.85">
+	<l>vajragarbha āha—</l>
+	<l>yasmād ḍombinī vāyur amoghaṃ vāyurūpakam |</l>
+	<l>ḍombiny amoghamudreṇa mudraṇaṃ yujyate prabho || 85 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.86">
+	<l>bhagavān āha—</l>
+	<l>rāgaṃ hitvā īrṣyāyā na syād anyatra saṃbhavaḥ |</l>
+	<l>tasmād rāgasya mudreṇa ḍombinīṃ mudrayed budhaḥ || 86 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.87">
+	<l>rūpaṃ yasmāt kakkhaṭatvaṃ gauryā vairocano mataḥ |</l>
+	<l>pūrvoktenaiva nyāyena gaurī citteśenaiva mudrayet || 87 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.88">
+	<l>caurīṃ tenaiva nyāyena vettālīṃ ca tathaiva ca |</l>
+	<l>ghasmarīṃ ca tayā yuktyā mudraṇam aviparītataḥ || 88 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.89">
+	<l>samāpattau sthite deve hevajre vajradhāriṇi |</l>
+	<l>tatra pṛcchati nairātmyā sattvārthāya mahābalim || 89 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.90">
+	<l>evaṃkāre samāsīno vajrasattvo diśed balim |</l>
+	<l>sattvānāṃ prāṇarakṣāya vighnād vināyakād api || 90 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.91">
+	<l>oṁ inda jama jala jakkha bhuda vahni vāyu rakkha |</l>
+	<l>canda sujja māda bappa talapātāle aṭṭhasappa sāhā || 91 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.92">
+	<l>evaṃ baliṃ bhuñja jiṅgha phulladhūpa maṃsa viṅgha |</l>
+	<l>ambha kajja savva sādha khanti kuṇi pheḍa gāda || 92 ||</l>
+</lg>
+
+<p xml:id="HT2.4.93">
+	oṁ akāro mukhaṃ sarvadharmāṇām ādyanutpannatvāt | oṁ āḥ hūṁ phaṭ svāhā || 93 ||
+</p>
+
+<lg xml:id="HT2.4.94">
+	<l>anena balinā yadi sarvabhūtān pūjāṃ prakurvanti śubhāya yoginaḥ |</l>
+	<l>bhavet tadā teṣu sukhaṃ tv anāvilaṃ devāś ca tuṣyanti jagatsubhūtayaḥ || 94 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.95">
+	<l>vaśyābhicāraṃ ripusainyanāśanam uccāṭanamāraṇākarṣaṇaṃ ca |</l>
+	<l>śāntisukhaṃ pauṣṭikaṃ bhavec ca dadyāt baliṃ yadīha bhūtagaṇāya śaśvat || 95 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.96">
+	<l>vajragarbha āha—</l>
+	<l>khecarī kena mudreṇa bhūcarī kasya mudrataḥ |</l>
+	<l>karttavyaṃ mudraṇaṃ bhagavan prāg na jñātaṃ mayā prabho || 96 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.97">
+	<l>bhagavān āha—</l>
+	<l>triguhyaṃ cakramadhye tu kāyavākcittabhedataḥ |</l>
+	<l>adhordhvamadhyamaṃ sthānaṃ cakramadhye vyavasthitam || 97 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.98">
+	<l>bhūcarī kāyamudrī syād adhomukhī kāyavajriṇī |</l>
+	<l>khecarī rāgamudrī ca ūrdhvamukhī vāgvajriṇī || 98 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.99">
+	<l>cittavajrī ca nairātmyā cittaṃ nairātmyarūpakam |</l>
+	<l>cittaṃ madhyamakaṃ sthānaṃ nairātmyā tena madhyajā || 99 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.100">
+	<l>kulāni ṣaḍvidhāny āhur vistareṇa prakāśanāt |</l>
+	<l>trividhaṃ pañcavidhaṃ caiva kathyate śṛṇu yoginī || 100 ||</l>
+</lg>
+
+<p xml:id="HT2.4.101">
+	akṣobhya-vairocana-ratnasambhava-amitaprabha-amoghasiddhi-vajrasattvaḥ | dveṣa-moha-piśuna-rāga-īrṣyā-saukhyam | śuddhyānayānukramato hi bhāvyāḥ | 101 ||
+</p>
+
+<lg xml:id="HT2.4.102">	
+	<l>vihāya vajrasattvākhyaṃ paścāt pañcavidhaṃ kulam |</l>
+	<l>tad anu yāti traividhyaṃ mohadveṣarāgakaiḥ || 102 ||</l>
+</lg>
+
+<lg xml:id="HT2.4.103">
+	<l>kulam ekaṃ tu citteśam akṣobhyadveṣarūpiṇam |</l>
+	<l>dveṣavajra prabhāvo 'yaṃ kulaṃ ṣaṭ pañcakaṃ matam || 103 ||</l>
+</lg>
+
+<p xml:id="HT2.4.col">
+	hevajrasarvatantramudraṇapiṇḍārtho nāma caturthaḥ paṭalaḥ ||
+</p>
+</div> <!--End of paṭala 2.4-->
+
+<!--End of paṭala 2.5-->
+
+<!--End of paṭala 2.6-->
+
+<!--End of paṭala 2.7-->
+
+<!--End of paṭala 2.8-->
+
+<!--End of paṭala 2.9-->
+
+<!--End of paṭala 2.10-->
+
+
+<!--End of paṭala 2.11-->
+
+
+<!--End of paṭala 2.12-->
+
+
+</div> <!--End of kalpa 2-->
+        </body>
+    </text>
+</TEI>

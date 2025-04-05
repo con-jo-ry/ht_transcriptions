@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+    <fileDesc>
+        <titleStmt>
+            <title>Provisional edition</title>
+            <title type="alt">The Hevajratantra, with special reference to Kamalanātha Ratnāvalī, edited by Ryan Conlon</title>
+            <editor>Ryan Conlon</editor>
+        </titleStmt>
+        <publicationStmt>
+            <date calendar="Gregorian">2022</date>
+            <publisher/>
+            <pubPlace>Universität</pubPlace>
+        </publicationStmt>
+        <sourceDesc>
+
+            <msDesc xml:lang="en">
+                <msIdentifier>
+                    <idno type="siglum">Ed<sup>C</sup></idno>
+                </msIdentifier>
+
+                <msContents>
+                    <summary>This is a provisionary critical edition of the text, currently still under active revision, based on five manuscript witnesses and two printed sources.</summary>
+
+                    <msItem n="1" defective="false">
+
+                        <textLang mainLang="sa-Latn">Sanskrit in IAST transliteration.</textLang>
+
+                    </msItem>
+                </msContents>
+
+                <physDesc>
+                    <objectDesc form="xml">
+                        <supportDesc material="digital">
+                            <extent> 
+                            </extent>
+                        </supportDesc>
+                    </objectDesc>
+                </physDesc>
+
+                <history>
+                    <origin>
+                        <origDate calendar="Gregorian" when="2020">2020 CE</origDate>
+                        <origPlace>Germany</origPlace>
+                    </origin>
+                </history>
+
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+
+    <revisionDesc>
+        <change when="2022-10-12">
+            <persName>Ryan Conlon</persName>
+        </change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text xml:lang="sa-Latn">
+   <body>
+
+<!--End of kalpa 1-->
+
+<div n="2" type="kalpa">
+<!--End of paṭala 2.1-->
+
+<!--End of paṭala 2.2-->
+
+<!--End of paṭala 2.3-->
+
+<!--End of paṭala 2.4-->
+
+<!--End of paṭala 2.5-->
+
+<!--End of paṭala 2.6-->
+
+<!--End of paṭala 2.7-->
+
+<div n="8" type="paṭala">
+ 
+<lg xml:id="HT2.8.1">
+	<l>tatra pṛcchanti yoginyo mahāmudrā tu kīdṛśī |</l>
+	<l>saṃvṛtyākārarūpeṇa kathayasva sukhaṃdada || 1 ||</l>
+</lg>
+
+<lg xml:id="HT2.8.2">
+	<l>bhagavān āha—</l>
+	<l>nātidīrghā na hrasva ca na kṛṣṇā na ca gaurikā |</l>
+	<l>padmapatranibhākārā śvāsaṃ tasyāḥ sugandhikam || 2 ||</l>
+</lg>
+
+<lg xml:id="HT2.8.3">
+	<l>prasvedaṃ ca bhavet sugandhi mṛganābhisamaprabham |</l>
+	<l>padmaṃ cendīvaraṃ gandhaṃ kṛṣṇāt padmam ivācaret || 3 ||</l>
+</lg>
+
+<lg xml:id="HT2.8.4">
+	<l>karpūrasihlayos tasyāḥ sugandhaṃ lakṣayed budhaḥ |</l>
+	<l>utpalasya bhaved gandhaṃ vāyasāgurusannibham || 4 ||</l>
+</lg>
+
+<lg xml:id="HT2.8.5">
+	<l>dhīrā acañcalā caiva priyavādī manoramā |</l>
+	<l>sukeśā trivalīmadhyā prākṛtaiḥ padminī matā |</l>
+	<l>tāṃ prāpya bhavet siddhiḥ sahajānandarūpiṇī || 5 ||</l>
+</lg>
+
+<lg xml:id="HT2.8.6">
+	<l>athāha nairātmyayoginī praṇidhānaṃ kīdṛśaṃ kartavyam |</l>
+	<l>bhagavān āha—</l>
+	<l>kule janma anunmādī samayī hevajradeśakaḥ |</l>
+	<l>kṛpāvān gurubhaktaś ca bhaveyaṃ janmani janmani || 6 ||</l>
+</lg>
+
+<lg xml:id="HT2.8.7">
+	<l>vajraghaṇṭāraṇatpāṇir gambhīradharmapāṭhakaḥ |</l>
+	<l>yoṣicchukrasamāhārī bhaveyaṃ janmani janmani || 7 ||</l>
+</lg>
+
+<lg xml:id="HT2.8.8">
+	<l>tatas tuṣṭā tu sā devī idaṃ vacanam abravīt |</l>
+	<l>durdāntā dundurāḥ sattvā vineyaṃ yānti kena hi || 8 ||</l>
+</lg>
+
+<lg xml:id="HT2.8.9">
+	<l>bhagavān āha—</l>
+	<l>poṣadhaṃ dīyate prathamaṃ tadanu śikṣāpadaṃ daśa |</l>
+	<l>vaibhāṣyaṃ tatra deśyeta sūtrāntaṃ punas tathā || 9 ||</l>
+</lg>
+
+<lg xml:id="HT2.8.10">
+	<l>yogācāraṃ tataḥ paścāt tadanu madhyamakaṃ diśet |</l>
+	<l>sarvamantranayaṃ jñātvā tadanu hevajram ārabhet |</l>
+	<l>gṛhṇīyād ādaraṃ śiṣyaḥ sidhyate nātra saṃśayaḥ || 10 ||</l>
+</lg>
+
+<p xml:id="HT2.8.col">
+	vineyapaṭalo 'ṣṭamaḥ ||
+</p>
+
+</div> <!--End of paṭala 2.8-->
+
+<!--End of paṭala 2.9-->
+
+<!--End of paṭala 2.10-->
+
+
+<!--End of paṭala 2.11-->
+
+
+<!--End of paṭala 2.12-->
+
+
+</div> <!--End of kalpa 2-->
+        </body>
+    </text>
+</TEI>

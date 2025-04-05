@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+				<title>NAK 7/11 (NGMPP A 993/7)</title>
+         </titleStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>National Archives Kathmandu</orgName>
+                  </repository>
+						<idno type="siglum">N<sub>a</sub></idno>
+						<idno>NAK 7/11</idno>
+						<idno>NGMPP A 933/7</idno>
+               </msIdentifier>
+               <msContents class="#STM">
+						<summary>A palm-leaf manuscript in Nepālākṣara, kept at the National Archives Kathmandu.</summary>
+						<msItem defective="false"><title xml:lang="sa">Hevajratantra</title><textLang mainLang="sa-newa">Sanskrit in Nepālākṣara.</textLang><rubric xml:lang="sa"/><incipit xml:lang="sa"/><explicit xml:lang="sa"/><finalRubric xml:lang="sa"/><colophon xml:lang="sa"/></msItem></msContents>
+               <physDesc>
+                  <objectDesc form="pathi">
+                     <supportDesc material="palm leaf">
+                        <extent>
+                           <measure unit="folio" quantity="45"/>
+                        </extent>
+                     <foliation type="original"/></supportDesc>
+                     <layoutDesc>
+                        
+                     <layout writtenLines="5">5 lines, two columns.</layout></layoutDesc>
+                  </objectDesc>
+						<handDesc><handNote scope="sole" script="newa" medium="ink"/></handDesc>
+                  <additions/>
+                  <bindingDesc>
+                     <binding><p>String</p></binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+               </history>
+               <additional>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>    
+			<p>IAST transliteration.</p>
+		</encodingDesc>
+      
+   <revisionDesc>
+         
+		<change when="2022-10">First version.</change>
+	</revisionDesc>
+</teiHeader>
+    <text xml:lang="sa-Latn">
+        <body>
+
+<div n="1" type="kalpa">
+<!--End of paṭala 1.1-->
+
+
+<!--End of paṭala 1.2-->
+
+<!--End paṭala 1.3-->
+
+<!--End of paṭala 1.4-->
+
+<!--End of paṭala 1.5-->
+
+
+<!--End of paṭala 1.6-->
+
+
+<!--End of paṭala 1.7-->
+
+
+<!--End of paṭala 1.8-->
+
+<!--End of paṭala 1.9-->
+
+<!--End of paṭala 1.10-->
+
+<div n="11" type="paṭala">
+<lg xml:id="HT1.11.1">
+	<l>samā krūrā lalāṭī ca pātanā kathitā sadā |</l>
+	<l>vaśyā vāmāśritā dṛṣṭiḥ puttalī <lb n="2"/>dvau ca vāmataḥ ||</l>
+</lg>
+
+<lg xml:id="HT1.11.2">
+	<l>ākṛṣṭi dakṣiṇe bhāge puttalī dvau ca ūrdvataḥ</l>
+	<l><cb/>madhyamā stambhanā dṛṣṭir dvau ca nāsājaḍāntare ||</l>
+</lg>
+
+<lg xml:id="HT1.11.3">
+	<l>pātanā recakenaiva kumbhakena vaśībhavet |</l>
+	<l>pūrakeṇa tu cākṛṣṭiḥ ta<lb n="3"/>bhanā śāntikena tu ||</l>
+</lg>
+
+<lg xml:id="HT1.11.4">
+	<l>pātanā snigdhavṛkṣeṣu vasyā puṣpe prakīrtti<cb/>tā |</l>
+	<l>ākṛṣṭir vajravṛkṣeṣu stambhanā sacale tṛṇe ||</l>
+</lg>
+
+<lg xml:id="HT1.11.5">
+	<l>ṣaṇmāsābhyāsayogena sidhyate nātra saṃśayaḥ |</l>
+	<l>bhrāntir atra na ka<lb n="4"/>rttavyā acintyā buddhaṛddhayaḥ ||</l>
+</lg>
+
+<lg xml:id="HT1.11.6">
+	<l>sādhayitvā caturdṛṣṭiṃ satvān ava<cb/>tārayed budhaḥ |</l>
+	<l>māraṇair nātra kārya syāt samayabhedaḥ paraṃ bhavet ||</l>
+</lg>
+
+<lg xml:id="HT1.11.7">
+	<l>sarvākāryan tu karttavyaṃ hitvā satvasya vañcanaṃ |</l>
+	<l>satvā<lb n="5"/>pakāramātreṇa mudrāsiddhir na labhyate ||</l>
+</lg>
+
+<lg xml:id="HT1.11.8">
+	<l>samayañ ca bhakṣaye<cb/>t tatra |</l>
+	<l>nādiṃ gādiṃ tathā hādiṃ antasva ādisvaṃ ca vā ||</l>
+</lg>
+
+<lg xml:id="HT1.11.9">
+	<l>pañcāmṛta tathā bhakṣyaṃ hevajre siddhihetunā |</l>
+	<l>saptāvartta to lakṣyaṃ <pb n="20v"/>hevajroktais tu lakṣaṇaiḥ |</l>
+</lg>
+
+<lg xml:id="HT1.11.10">
+	<l>saptāvartte bhavet siddhir viramāna<cb/>ndadūṣakī ||</l>
+	<l>susvaraṃ cakṣuṣmākaṃ gandhakāyaṃ mahāvapuḥ |</l>
+</lg>
+
+<lg xml:id="HT1.11.11">
+	<l>saptacchāyā bhavet tasya dṛṣṭvā yo<lb n="2"/>gī tu lakṣayet ||</l>
+	<l>tasya prāsitamātreṇa kṣecaratvaṃ bhavet kṣaṇā<cb/>t ||</l>
+</lg>
+
+<lg xml:id="HT1.11.12">
+	<l>kurukullāyāḥ sādhanaṃ vakṣye sarvasatvavaśāya tu</l>
+	<l>saṃkṣipta pūrvam uddiṣṭaṃ vistareṇa kalpadvādaśaiḥ ||</l>
+</lg>
+
+<lg xml:id="HT1.11.13">
+	<l>hrīḥkāra<lb n="3"/>saṃbhavā devī raktavarṇṇa caturbhujā |</l>
+	<l>irṣukārmukahastā ca utpalāṃ<cb/>kuśadhāriṇī ||</l>
+</lg>
+
+<lg xml:id="HT1.11.14">
+	<l>asyā bhāvanāmātreṇa trailokyaṃ vaśam ānayet |</l>
+	<l>lakṣam ekena rājānaṃ prajālokāyutena ca ||</l>
+</lg>
+
+<lg xml:id="HT1.11.15">
+	<l><lb n="4"/>paśupakṣyādayaḥ koṭyā saptalakṣeṇa cāsurān |</l>
+	<l>lakṣadvaye<cb/>na devāṃś ca śatenaikena mantriṇaḥ || <metamark rend="figure eight" function="chapter end"/> ||</l>
+</lg>
+
+<p xml:id="HT1.11.col">
+	vajragarbhābhisaṃbodhi nāma kalparājaḥ samāptaḥ || <metamark rend="top third of a puṣpikā" function="end of kalpa"/> ||
+</p>
+</div> <!--End of paṭala 1.11-->
+</div> <!--End of kalpa 1-->
+
+<!--End of kalpa 2-->
+
+        </body>
+    </text>
+</TEI>

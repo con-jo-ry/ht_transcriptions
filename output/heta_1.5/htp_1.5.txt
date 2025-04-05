@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+				<title>Palm-leaf MS of unknown provenance</title>
+         </titleStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName/>
+                  </repository>
+						<idno type="siglum">P</idno>
+               </msIdentifier>
+               <msContents class="#STM">
+						<summary>A palm-leaf manuscript in Nepālākṣara of unknown provenance</summary>
+						<msItem defective="false"><title xml:lang="sa">Hevajratantra</title><textLang mainLang="sa-newa">Sanskrit in Nepālākṣara.</textLang><rubric xml:lang="sa"/><incipit xml:lang="sa"/><explicit xml:lang="sa"/><finalRubric xml:lang="sa"/><colophon xml:lang="sa"/></msItem></msContents>
+               <physDesc>
+                  <objectDesc form="pathi">
+                     <supportDesc material="palm leaf">
+                        <extent>
+                           <measure unit="folio" quantity="45"/>
+                        </extent>
+                     <foliation type="original"/></supportDesc>
+                     <layoutDesc>
+                        
+                     <layout writtenLines="7">7 lines, two columns.</layout></layoutDesc>
+                  </objectDesc>
+						<handDesc><handNote scope="sole" script="newa" medium="ink"/></handDesc>
+                  <additions/>
+                  <bindingDesc>
+                     <binding><p>String</p></binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+               </history>
+               <additional>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>    
+			<p>IAST transliteration.</p>
+		</encodingDesc>
+      
+   <revisionDesc>
+         
+		<change when="2022-10">First version.</change>
+	</revisionDesc>
+</teiHeader>
+    <text xml:lang="sa-Latn">
+        <body>
+
+<div type="kalpa" n="1">
+<!--End of paṭala 1.1-->
+
+
+<!--End of paṭala 1.2-->
+
+<!--End of paṭala 1.3-->
+
+<!--End of paṭala 1.4-->
+
+<div n="5" type="paṭala">
+<p xml:id="HT1.5.1">
+	atha ta<lb n="5"/>tvapa<unclear reason="image damage">ṭala</unclear>m vyā<gap reason="image unreadable" quantity="1" unit="akṣara" maybehad="khyā"/>syāmaḥ |
+
+	<lg>
+		<l>svarūpeṇa nāsti rūpaṃ na dra<cb/>ṣṭā ca na sabdo na srotā ca |</l>
+		<l>na gandho nāpi ghrātā ca na ra|| <space quantity="3" unit="akṣara"/> ||so nā<lb n="6"/>pi rāsa<unclear>ka</unclear><gap reason="image unreadable" quantity="1" unit="akṣara" maybehad="ḥ"/></l>
+		<l><gap reason="image unreadable" quantity="1" unit="akṣara" maybehad="na"/>sparśo nāpi spraṣṭā ca na cittaṃ nāpi cai<cb/>tikam ||</l>
+	</lg>
+</p>
+
+<lg xml:id="HT1.5.2">
+	<l>jananīṃ bhaginīṃ caiva pūjayed yogavit sadā |</l>
+	<l>naṭī rajakī ta<lb n="7"/>thā vajrī <unclear reason="image damage">caṇḍā</unclear>lī brāhmaṇī tathā |</l>
+	<l>prajñopāyavidhāne<cb/>na pūjaye tatvavatsalaḥ ||</l>
+</lg>
+
+<lg xml:id="HT1.5.3">
+	<l>sevitavyā prayatnena yathā bhedo na jāyate |</l>
+	<l>a<pb/></l>
+</lg>
+
+<lg xml:id="HT1.5.4">
+</lg>
+
+<lg xml:id="HT1.5.5">
+</lg>
+
+<lg xml:id="HT1.5.6">
+</lg>
+
+<lg xml:id="HT1.5.7">
+</lg>
+
+<lg xml:id="HT1.5.8">
+</lg>
+
+<lg xml:id="HT1.5.9">
+</lg>
+
+<lg xml:id="HT1.5.10">
+</lg>
+
+<lg xml:id="HT1.5.11">
+</lg>
+
+<lg xml:id="HT1.5.12">
+	<l/>
+	<l><pb n="8v"/>brahmā viṣṇu śivaḥ sarvo vibuddhas tatvam ucyate |</l>
+</lg>
+
+<lg xml:id="HT1.5.13">
+	<l>bra<cb/>hmā nirvṛtito buddhaḥ visnād viṣṇur ucyate |</l>
+	<l>śivaḥ sadā svakalyāt sa<lb n="2"/>rva sarvā<gap reason="image unreadable" quantity="2" unit="2" maybehad="tmani"/> <unclear reason="image damage">sthita</unclear>ḥ |</l>
+</lg>
+
+<lg xml:id="HT1.5.14">
+	<l>tatsukhatvena tatvañ ca vibu<cb/>ddho bodhanād rate |</l>
+	<l>dehe sambhavatīti asmād devateti nigadyate |</l>
+</lg>
+
+<lg xml:id="HT1.5.15">
+	<l>bhago <lb n="3"/>'syā<gap reason="image unreadable" quantity="6" unit="akṣara" maybehad="sti buddhasya bhaga"/>vān iti kathyate |</l>
+	<l>bhagāni <cb/>ṣaḍvidhāny āhur aisvaryādiguṇākhilāḥ |</l>
+	<l>athavā kleśādimārāṇāṃ bha<lb n="4"/>ñjanād bhagavān iti |</l>
+</lg>
+
+<lg xml:id="HT1.5.16">
+	<l>jananī bhaṇyate prajñā janaya<cb/>ti yasmāj jagajjanam |</l>
+	<l>bhaginīti tathā prajñā vibhāgaṃ darśayed yataḥ |</l>
+</lg>
+
+<lg xml:id="HT1.5.17">
+	<l>ra<lb n="5"/>jakī<gap reason="image unreadable" quantity="aprox. 8" unit="akṣara" maybehad="ti ca duhitā ca nartakī ca"/> prakathyate |</l>
+	<l>rañjanā<cb/>t sarvasattvānāṃ rajakīti tathā smṛtāḥ |</l>
+</lg>
+
+<lg xml:id="HT1.5.18">
+	<l>guṇasya dūhanāt prajñā duhitā <lb n="6"/>ca <gap reason="image unreadable" maybehas="nigadyate"/> |</l>
+	<l><gap reason="image unreadable" maybehad="nartakī bhaṇyate prajñā"/> cañcalatvān ma<cb/>hākṛpa |</l>
+	<l>asparśā bhagavatī yasmād ḍombī tasmāt prakalpyate |</l>
+</lg>
+
+<lg xml:id="HT1.5.19">
+	<l>jalpanaṃ <lb n="7"/>ja<gap reason="image unreadable" maybehad="pam ākhyātam"/> ālikālyo prajalpanāt |</l>
+	<l><cb/>maṇḍala pādalekha syān maṇḍalanān maṇḍalam ucyate |</l>
+</lg>
+
+<lg xml:id="HT1.5.20">
+	<l>karasphoṭo bhave<pb/></l>
+</lg>
+
+<lg xml:id="HT1.5.21">
+</lg>
+
+<p xml:id="HT1.5.col">
+</p>
+</div> <!--End of paṭala 1.5-->
+
+
+<!--End of paṭala 1.6-->
+
+
+<!--End of paṭala 1.7-->
+
+
+<!--End of paṭala 1.8-->
+
+<!--End of paṭala 1.9-->
+
+<!--End of paṭala 1.10-->
+
+<!--End of paṭala 1.11-->
+</div> <!--End of kalpa 1-->
+
+
+<!--End of kalpa 2-->
+        </body>
+    </text>
+</TEI>

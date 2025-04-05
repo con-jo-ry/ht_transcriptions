@@ -1,0 +1,377 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+	<titleStmt>
+		<title>Cambridge University Library, MS Add.1697.2</title>
+		</titleStmt>
+		<sourceDesc>
+			<msDesc>
+				<msIdentifier>
+					<repository>
+						<orgName>Cambridge University Library</orgName>
+					</repository>
+					<idno type="siglum">C</idno>
+					<idno>MS Add.1697.2</idno>
+				</msIdentifier>
+				<msContents class="#STM">
+					<summary>A palm-leaf manuscript in Bengali, kept at the Cambridge University Library.</summary>
+				<msItem defective="false"><title xml:lang="sa">Hevajratantra</title><textLang mainLang="sa-Newa">Sanskrit in Bengali.</textLang><rubric xml:lang="sa"/><incipit xml:lang="sa"/><explicit xml:lang="sa"/><finalRubric xml:lang="sa"/><colophon xml:lang="sa"/></msItem></msContents>
+				<physDesc>
+					<objectDesc form="pothi">
+						<supportDesc material="paper">
+							<extent>
+								<measure unit="folio" quantity="132"/>
+								<dimensions type="leaf" unit="mm">
+									<width quantity="280"/>
+									<height quantity="50"/>
+								</dimensions>
+							</extent>
+						<foliation type="original"/></supportDesc>
+						<layoutDesc>
+							
+						<layout writtenLines="5">6-8 lines per page. String single string hole that breaks two to three lines.</layout></layoutDesc>
+					</objectDesc>
+					<handDesc><handNote scope="sole" script="bengali" medium="ink"/></handDesc>
+					<additions/>
+                  <bindingDesc>
+                     <binding><p>String</p></binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <acquisition>Donated by Wright, Daniel</acquisition>
+               </history>
+               <additional>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>    
+			<p>IAST transliteration.</p>
+		</encodingDesc>
+      
+   <revisionDesc>       
+		<change when="2022-10">First version.</change>
+	</revisionDesc>
+</teiHeader>
+    <text xml:lang="sa-Latn">
+        <body>
+
+<div n="1" type="kalpa">
+<!--End of paṭala 1.1-->
+
+
+<!--End of paṭala 1.2-->
+
+<!--End paṭala 1.3-->
+
+<!--End of paṭala 1.4-->
+
+<!--End of paṭala 1.5-->
+
+
+<!--End of paṭala 1.6-->
+
+
+<!--End of paṭala 1.7-->
+
+
+<div n="8" type="paṭala">
+<p xml:id="HT1.8.1">
+	atha yoginīnāṃ cakraṃ vyākhyāsyāmaḥ ||
+	<lg>
+		<l><pb n="10r"/>khadhātau bhagaṃ <del rend="rubbed out and written over">vā...</del><add rend="over writing">dhyā</add>tvā madhye kurvvīta bhāvanāṃ |</l>
+		<l>cakraṃ pūrvvaṃ yathānyāyaṃ devatānāṃ yathodayaṃ |</l>
+	</lg>
+</p>
+
+<lg xml:id="HT1.8.2">
+	<l>cakraṃ kṣoṇī<unclear reason="possible anusvara"/>jalaṃ pūrvaṃ | yathānyāyaṃ hutāśanaḥ |</l>
+	<l>devatānāṃ mahāvāyur bhāvakaś ca yathodayaṃ |</l>
+</lg>
+
+<lg xml:id="HT1.8.3">
+	<l><lb n="2"/>dharmmodayodbhavaṃ cakraṃ dvipuṭaṃ śuddhaṃ nirāmayaṃ |</l>
+	<l>kiñjalkena bhaved ekaṃ | trikoṇen<add rend="over writing">ā</add>paraṃ smṛtaṃ |</l>
+</lg>
+
+<lg xml:id="HT1.8.4">
+	<l>tanmadhye cintayen mṛtakaṃ pañcadaśā<add position="lower margin">sa</add>nātmakaṃ |</l>
+	<l>tasyopari ca<del rend="candelled">ndraṃ</del>ndraṃ ca<lb n="3"/>ndrasyopari bījakaṃ</l>
+</lg>
+
+<lg xml:id="HT1.8.5">
+	<l>paścān mārtaṇḍākrāntaṃ | dvayor mme<del rend="cancelled">ā</del>lā mahat su<cb/>khaṃ</l>
+	<l>sthitāliś candrarūpeṇa kālīrūpeṇa bhāskara |</l>
+</lg>
+
+<lg xml:id="HT1.8.6">
+	<l>candrasūryadvayor mmelāḥ | gauryādyāḥ prakī<lb n="4"/>rttitāḥ |</l>
+	<l>adarśanajñānavān candraḥ | samatāvān saptasaptiko</l>
+</lg>
+
+<lg xml:id="HT1.8.7">
+	<l>bī<cb/>jaiḥ cihna svadevasya pratyavekṣaṇam ucyate |</l>
+	<l>sarvvair ekam anuṣṭhānaṃ bimbaniṣpattisiddhitāḥ |</l>
+</lg>
+
+<lg xml:id="HT1.8.8">
+	<l>akā<lb n="5"/>ram bhāvayet pañca vidhānaiḥ kathitair budhaḥ |</l>
+	<l>alikālisamāyogo vajrasatvasya viṣṭaraḥ |</l>
+</lg>
+
+<lg xml:id="HT1.8.9">
+	<l>akṣarodbhava piṇḍasya hūṁphaṭkāro na ceṣyete |</l>
+	<l>satvabimbasamudbhūtaṃ maṇḍale<lb n="6"/>sam vibhāvayet |</l>
+</lg>
+
+<lg xml:id="HT1.8.10">
+	<l>pūrvva<add position="below line/lower margin">vat<metamark rend="x" function="addition mark"/></add> vaktracihnā<add rend="over writing">dyai</add> candrakāntirmmaṇiprabhaṃ |</l>
+	<l>evaṃ sarvvaiva niṣpannā prajñopāyasvarūpataḥ |</l>
+</lg>
+
+<lg xml:id="HT1.8.11">
+	<l>prajñāli kālyupāyeneti candrārkkasya prabhedanāt |</l>
+	<l>gauryādyā<pb n="10v"/> bhavanti yasmād varṇṇabhe<del rend="only half written">bhe</del>da paraṃ pṛ<add rend="over writing">tha</add>k |</l>
+</lg>
+
+<lg xml:id="HT1.8.12">
+	<l>adhyātmapuṭe tāvat sthitā vai pañca yoginī</l>
+	<l>pañca<del rend="cancelled">yo</del>skandhasvabhāvena bhāvayed yogavit sadā |</l>
+</lg>
+
+<lg xml:id="HT1.8.13">
+	<l>indre vajrā yame gaurī vāruṇyāṃ vāriyoginī</l>
+	<l><lb n="2"/>kauvere vajraḍākinī madhye nairātmayoginī |</l>
+</lg>
+
+<lg xml:id="HT1.8.14">
+	<l>bāhyapuṭe gaurī | caurī ca | vettālī | ghasmarī | pukkasī tathā |</l>
+	<l>śabarīṃ caṇḍālinīñ caiva | aṣṭamī ḍombinī matā |</l>
+</lg>
+
+<lg xml:id="HT1.8.15">
+	<l><lb n="3"/>adhavatī ūrdvavatī caiva khecarī bhūcarī tathā |</l>
+	<l>bhavanirmmāṇasvabhā<cb/>vena sthitāv etau mahākṛpa |</l>
+</lg>
+
+<lg xml:id="HT1.8.16">
+	<l>sarvvā devatyaḥ</l>
+	<l>kṛṣṇavarṇṇā mahāraudrāḥ pañcamudrāvibhūṣitāḥ |</l>
+	<l>ekavaktrā raktākṣā<lb n="4"/> karttikapālāvṛtau karau |</l>
+</lg>
+
+<lg xml:id="HT1.8.17">
+	<l>cakrī kuṇḍala kaṇṭhā ca <del quantity="1" unit="akṣara"/> haste rucakñ ca <cb/>mekhalaṃ |</l>
+	<l>pañcabuddhaviśuddhena pañcaite śuddha mudrakāḥ |</l>
+</lg>
+
+<lg xml:id="HT1.8.18">
+	<l>sarvvā etā dṛśyāḥ khyātā yathā nairā<lb n="5"/>tmayoginā |</l>
+	<l>kapālaikakarāvyagrā dakṣiṇe karttidhārikā |</l>
+</lg>
+
+<lg xml:id="HT1.8.19">
+	<l><cb/>khaṭvāṅgañ caiva vāmena vyāghracarmmāvṛtā kaṭiḥ |</l>
+	<l>savārūḍhā jvaladdīptā dvibhujāḥ piṅgordvajās</l>
+</lg>
+
+<lg xml:id="HT1.8.20">
+	<l>ta<lb n="6"/>thā | <add rend="over writing">mā</add>nādiṣaṭdoṣān karttituṃ karttikā sthitā |</l>
+	<l>bhāvābhāvavikalpasya śirasā padmabhājanaṃ |</l>
+</lg>
+
+<lg xml:id="HT1.8.21">
+	<l>raktaṃ caturmmārāṇāṃ pīyate <pb n="11r"/><del rend="bracketed out">thā | mānādiṣaṭ doṣān karttituṃ karttikā sthitā | bhāvābhāvavikalpasya śirasā padmabhājanaṃ | raktaṃ caturmmārāṇāṃ pīyate </del>siddhihetunā |</l>
+	<l>kaṭvāṅgaṃ śūnyatākāraiḥ savopāyena ka<lb n="2"/>lpitaṃ |</l>
+</lg>
+
+<lg xml:id="HT1.8.22">
+	<l>etena bhāvayec cakraṃ laghu siddhim avāpyate |</l>
+	<l>prathamaṃ bhāvayet kṛṣṇāṃ dvitīye raktāṃ vibhāvayet |</l>
+</lg>
+
+<lg xml:id="HT1.8.23">
+	<l>tṛtīye bhāvayet pītāṃ caturthe haritakāṃ tathā |</l>
+	<l>pañcame nīla<lb n="3"/>varṇṇāñ ca ṣaṣṭhame śukladehikāṃ |</l>
+</lg>
+
+<lg xml:id="HT1.8.24">
+	<l>ṣaḍ aṅgaṃ bhāvayed yogī | viramāntaṃ punas tathā |</l>
+	<l>krama utpattikañ caiva | utpannakramam eva ca |</l>
+</lg>
+
+<lg xml:id="HT1.8.25">
+	<l>kramadvayaṃ samāśritya vajriṇāṃ dharmmade<lb n="4"/>śanāṃ |</l>
+	<l>utpattibhāgañ ca kathitaṃ |</l>
+</lg>
+
+<lg xml:id="HT1.8.26">
+	<l>khadhātāv iti padmeṣu jñā<cb/>naṃ bhagam iti smṛtaṃ |</l>
+	<l>bhāvaneti samāpattis tatsukhaṃ cakram ucyate |</l>
+</lg>
+
+<lg xml:id="HT1.8.27">
+	<l>yathānyāyaṃ svasaṃvedyam bo<lb n="5"/>dhicittan tu daivatā</l>
+	<l>yathodayaṃ bhavet śukraṃ dvaividhyaṃ sahajaṃ <cb/>tataḥ |</l>
+</lg>
+
+<lg xml:id="HT1.8.28">
+	<l>yoṣit tāvad bhavet prajñā upāyaḥ puruṣaḥ smṛtaḥ |</l>
+	<l>paścād anayor dvaividhaṃ nirvvṛtisaṃvṛtibheda<lb n="6"/>taḥ |</l>
+</lg>
+
+<lg xml:id="HT1.8.29">
+	<l>punsi tāvat dvaividhyaṃ śukraṃ tasya sukhañ ca vā |</l>
+	<l>prajñāyām api yathā punsi śukraṃ tasya sukhañ ca vā |</l>
+</lg>
+
+<lg xml:id="HT1.8.30">
+	<l>ata eva hy ānandānāṃ catasṛṇāṃ prabhedanaṃ |</l>
+	<l>sahajaṃ cātu<lb n="7"/>rvvidhaṃ yasmād utpannakramapakṣataḥ |</l>
+</lg>
+
+<lg xml:id="HT1.8.31">
+	<l>ānandaṃ prathamaṃ vīraṃ | paramānandan tu yoginī |</l>
+	<l>suratānandaṃ samastaṃ vai tatsukhopāya sarvvavit |</l>
+</lg>
+
+<lg xml:id="HT1.8.32">
+	<l>ānandena sukhaṃ kiñcit paramānandaṃ <pb n="11v"/>tadādhikaṃ |</l>
+	<l>viramānande virāga syāt sahajānandan tu śeṣataḥ</l>
+</lg>
+
+<lg xml:id="HT1.8.33">
+	<l>prathamaṃ sparśākāṅkṣāṃ | dvitīya<unclear reason="faded">ṃ</unclear> sukhavāñchayā |</l>
+	<l>tṛtīyaṃ rāganāsatvāc caturthaṃ tena bhāvyate |</l>
+</lg>
+
+<lg xml:id="HT1.8.34">
+	<l>paramānandaṃ bhavaṃ proktaṃ nirvvāṇa ca virāgataḥ |</l>
+	<l><lb n="2"/>madhyamānandamātraṃ tu sahajaṃm ebhi vivarjjitaḥ |</l>
+</lg>
+
+<lg xml:id="HT1.8.35">
+</lg>
+
+<lg xml:id="HT1.8.36">
+	<l>nānyena kathyate sahaja na kasminn api labhyate |</l>
+	<l>ātma<del rend="rubbed out">ā</del>nā ca jñāyate puṇyāt guruparvvopāyasevayā |</l>
+</lg>
+
+<lg xml:id="HT1.8.37">
+	<l>hīnamadhyotkṛṣṭāni anyāni yā<lb n="3"/>ni tāni ca |</l>
+	<l>sarvve tāni samānī<add rend="over writing">ti</add> draṣṭavyaṃ <metamark rend="x" function="addition mark"/><add position="lower margin"><metamark rend="x" function="addition mark"/>samarasai <metamark rend="3" function="line number"/></add><add position="above line">s</add> tatvabhāvanaiḥ |</l>
+</lg>
+
+<lg xml:id="HT1.8.38">
+	<l>hīna sūkṣma<cb/>padārthan tu utakṛṣṭa bhāvam ucyate |</l>
+	<l>madhyamaṃ varjjitaṃ dvābhyāṃm anyānīti ṣaḍ indriyaṃ |</l>
+</lg>
+
+<lg xml:id="HT1.8.39">
+	<l>sthiracalāni yāni <metamark rend="x" function="addition marker"/><add position="lower margin"><metamark rend="x" function="addition marker"/>tānīti<metamark rend="3" function="line number"/></add> sarvve tā<lb n="4"/>nīti naivāhaṃ</l>
+	<l>samāni tulyaceṣṭāni samarasais tatvabhāvanaiḥ</l>
+</lg>
+
+<lg xml:id="HT1.8.40">
+	<l>sa<cb/>man tulyam ity uktaṃ tasya cakro rasaḥ smṛtaḥ</l>
+	<l>samarasaṃ tv ekabhāvan tu anenārthena bhaṇyate |</l>
+</lg>
+
+<lg xml:id="HT1.8.41">
+	<l>madbhavā hi jagat sa<lb n="5"/>rvvaṃ ma<add rend="over writing">dbha</add>vaṃ bh<add>u</add>vanatrayaṃ |</l>
+	<l>ma<unclear><add>yaiva</add></unclear> vyāpitaṃ sarvvaṃ nānyamayaṃ dṛśyate jagata |</l>
+</lg>
+
+<lg xml:id="HT1.8.42">
+	<l>evaṃ ma<cb/>tvā tu vai yogī y<add rend="over writing">o</add> bhyaset susamāhitaḥ</l>
+	<l>sa si<add rend="over writing">dhya</add><add position="lower margin"><metamark rend="x" function="addition"/>ti na<metamark rend="4" function="line number"/></add> saṃndeho mandapuṇyo pi mānavaḥ</l>
+</lg>
+
+<lg xml:id="HT1.8.43">
+	<l>khāne pānes tathā snā<del rend="cancelled">e</del>ne <lb n="6"/>jāgrataḥ supto pi cintayet |</l>
+	<l>sātatyan tu tato yāti mahāmudrābhikāṃkṣakaḥ</l>
+</lg>
+
+<lg xml:id="HT1.8.44">
+	<l>bhāvyante <add rend="over writing">hi</add> jagat sarvve manasā yasmān na bhāvyate</l>
+	<l>sarvvadharmmaparijñānaṃ bhāvanā naiva bhāvanā |</l>
+</lg>
+
+<lg xml:id="HT1.8.45">
+	<l>sthiracalāś ca ye <lb n="7"/>bhāvā tṛṇagulmalatādayaḥ |</l>
+	<l>bhāvyaṃte vai paraṃ tatvam atmabhāvasvarūpakaṃ |</l>
+</lg>
+
+<lg xml:id="HT1.8.46">
+	<l>teṣām eka paraṃ nāsti svasaṃvedyam mahat sukhaṃ |</l>
+	<l>svasamvedyā<add position="above line">d</add> bhavet siddhiḥ svasaṃvedyaṃ hi bhāvanā</l>
+</lg>
+
+<lg xml:id="HT1.8.47">
+	<l>svasaṃvedya svayaṃ <pb n="12r"/>karmma bādhanāt karmma jāyate |</l>
+	<l>svayaṃ harttā svayaṃ karttā svayaṃ rājā svayaṃ prabhu</l>
+</lg>
+
+<lg xml:id="HT1.8.48">
+	<l>rāgaṃ dveṣān tathai<add rend="over writing">rṣyaṃ</add> mohaṃ mānaṃ tathaiva ca |</l>
+	<l>sarvve tatpade ramye kalā nārghanti ṣoḍasīṃ |</l>
+</lg>
+
+<lg xml:id="HT1.8.49">
+	<l>dharmodayodbhavaṃ jñānaṃ khasamaṃ sopā<lb n="2"/>yānvitaṃ</l>
+	<l>trailokyaṃ <add rend="over writing">ta</add>tra jāto hi prajñopāyasvabhāvataḥ</l>
+</lg>
+
+<lg xml:id="HT1.8.50">
+	<l>śukrākāro bhaved bhagavān tatsukhaṃ kāminī smṛtam |</l>
+	<l>ekānekaviyogo sau <add rend="over writing">kṣa</add>ṇād ekā parā ratiḥ</l>
+</lg>
+
+<lg xml:id="HT1.8.51">
+	<l>svasaṃvedyam idaṃ <del rend="cancelled">mi daṃ ..</del><lb n="3"/>jñānaṃ vākpathātitaṃ gocaraṃ |</l>
+	<l>adhiṣṭhānakramo hy eṣa sarvvajñajñāna tanma<cb/>yaṃ |</l>
+</lg>
+
+<lg xml:id="HT1.8.52">
+	<l>pṛthivī apa vāyuś ca tejo akāśa eva ca |</l>
+	<l>kṣaṇāt sarvve na bādhyante svaparasaṃvittivedanaṃ</l>
+</lg>
+
+<lg xml:id="HT1.8.53">
+	<l>svarggamantraiś ca pā<lb n="4"/>tālair ekamūrtti bhavet kṣaṇāt |</l>
+	<l>svaparabhāgavikalpena bā<del rend="cancelled">o</del>dhitun nai<cb/>va sakyate |</l>
+</lg>
+
+<lg xml:id="HT1.8.54">
+	<l>samastavedasiddhāntaiḥ karmmaprasarādibhis tathā |</l>
+	<l>siddhir nna syāt | bhave<add rend="over writing"><unclear>c chu</unclear>ddhā</add> punarjanmabhavāntare |</l>
+</lg>
+
+<lg xml:id="HT1.8.55">
+	<l><lb n="5"/>na ca tena vinā siddhi<del rend="rubbed out">ḥ</del>r iha loke paratra ca |</l>
+	<l>na jñātaṃ yena hevajraṃ vṛ<cb/>thā tasya pariśramaṃḥ |</l>
+</lg>
+
+<lg xml:id="HT1.8.56">
+	<l>nadīśrotrapravāhena dī<add position="below line">pa</add>jyotaprabandhavat |</l>
+	<l>satatan tatvayogena sthātavyaṃm ahorātrataḥ ||</l>
+</lg>
+
+<p xml:id="HT1.8.col">
+	<lb n="6"/>|| <metamark rend="circle" function="chapter ending"/> || hevajre ḍākinījālasaṃvarai yoginīcakro nāma mahāyo<cb/>ginīnāṃ melāpakapaṭalo 'ṣṭamaḥ || <metarmark rend="puṣpikā" function="chapter ending"/> ||
+</p>
+</div> <!--End of paṭala 1.8-->
+
+<!--End of paṭala 1.9-->
+
+<!--End of paṭala 1.10-->
+
+<!--End of paṭala 1.11-->
+</div> <!--End of kalpa 1-->
+
+<!--End of kalpa 2-->
+        </body>
+    </text>
+</TEI>

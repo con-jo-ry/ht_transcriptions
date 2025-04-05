@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+	<titleStmt>
+		<title>Cambridge University Library, MS Add.1697.2</title>
+		</titleStmt>
+		<sourceDesc>
+			<msDesc>
+				<msIdentifier>
+					<repository>
+						<orgName>Cambridge University Library</orgName>
+					</repository>
+					<idno type="siglum">C</idno>
+					<idno>MS Add.1697.2</idno>
+				</msIdentifier>
+				<msContents class="#STM">
+					<summary>A palm-leaf manuscript in Bengali, kept at the Cambridge University Library.</summary>
+				<msItem defective="false"><title xml:lang="sa">Hevajratantra</title><textLang mainLang="sa-Newa">Sanskrit in Bengali.</textLang><rubric xml:lang="sa"/><incipit xml:lang="sa"/><explicit xml:lang="sa"/><finalRubric xml:lang="sa"/><colophon xml:lang="sa"/></msItem></msContents>
+				<physDesc>
+					<objectDesc form="pothi">
+						<supportDesc material="paper">
+							<extent>
+								<measure unit="folio" quantity="132"/>
+								<dimensions type="leaf" unit="mm">
+									<width quantity="280"/>
+									<height quantity="50"/>
+								</dimensions>
+							</extent>
+						<foliation type="original"/></supportDesc>
+						<layoutDesc>
+							
+						<layout writtenLines="5">6-8 lines per page. String single string hole that breaks two to three lines.</layout></layoutDesc>
+					</objectDesc>
+					<handDesc><handNote scope="sole" script="bengali" medium="ink"/></handDesc>
+					<additions/>
+                  <bindingDesc>
+                     <binding><p>String</p></binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <acquisition>Donated by Wright, Daniel</acquisition>
+               </history>
+               <additional>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>    
+			<p>IAST transliteration.</p>
+		</encodingDesc>
+      
+   <revisionDesc>       
+		<change when="2022-10">First version.</change>
+	</revisionDesc>
+</teiHeader>
+    <text xml:lang="sa-Latn">
+        <body>
+
+<!--End of kalpa 1-->
+
+<div n="2" type="kalpa">
+<!--End of paṭala 2.1-->
+
+<!--End of paṭala 2.2-->
+
+<!--End of paṭala 2.3-->
+
+
+<!--End of paṭala 2.4-->
+
+<!--End of paṭala 2.5-->
+
+<div n="6" type="paṭala">
+<lg xml:id="HT2.6.1">
+	<l>devīṃ gāḍham āliṅgya kṣiptvā bolaṃ kakkolake |</l>
+	<l>gāḍhaṃ kucagrahaṃ kṛtvā saṃcūṣya naranāsikāṃ |</l>
+</lg>
+
+<lg xml:id="HT2.6.2">
+	<l>daśanenādharam āpī<lb n="7"/>ḍya va<unclear reason="uncertain akṣara">ṇbhau</unclear> kṛtvā nakhakṣatam |</l>
+	<l>sampuṭaṃ saukhyam āsādya pañcamudrāṃ prakāśyate |</l>
+</lg>
+
+<lg xml:id="HT2.6.3">
+	<l>gurvvācā<del rend="cancelled">ṣe</del>ryeṣṭadevasya namanārthañ cakṛkā dhṛtā |</l>
+	<l>du<add rend="over writing">rbhā</add><del rend="over written" quantity="1" unit="akṣara"/>sasyāśravaṇā<pb n="30r"/>ya guror vvajradharasya ca |</l>
+</lg>
+
+<lg xml:id="HT2.6.4">
+	<l>śravaṇayoḥ kuṇḍalaṃ dhāryaṃ mantra jap<add rend="over writing">tu</add>ñ ca kaṇṭhikā |</l>
+	<l>rucakaḥ prāṇivadhaṃ tyaktuṃ mudrā bha<add rend="over writing">ji</add><del rend="over written" quantity="1" unit="akṣara"/>tuñ ca mekhalaṃ |</l>
+	<l>pañca<add rend="over writing">buddha</add><del rend="over written" quantity="2" unit="akṣara"/>sya mudreṇa śarīraṃ mudri<lb n="1"/>taṃ sadā |</l>
+</lg>
+
+<lg xml:id="HT2.6.5">
+	<l>praha<add rend="over writing">sana</add><del rend="over written " quantity="2" unit="akṣara"/>ñ ca tataḥ kṛtvā dantaiḥ saṃpīḍya cādharaṃ |</l>
+	<l>pṛcchate tatra sā devī hevajraṃ sahajarūpiṇaṃ |</l>
+</lg>
+
+<lg xml:id="HT2.6.6">
+	<l>katamena vidhānena kayā kriyayā tathā prabho |</l>
+	<l>hevajrasya <lb n="3"/>paṭaṃ kāryaṃ kathayasva mahāsukha<add rend="over writing">ḥ</add><del rend="ove written" quantity="1" unit="akṣara"/> |</l>
+</lg>
+
+<lg xml:id="HT2.6.7">
+	<l>samayīcitrakareṇe<add>ha</add> sā<cb/>dhakenāpi samayinā |</l>
+	<l>likhitavyaṃ paṭaṃ ghoraṃ narakasthaiḥ pañcavarṇṇakaiḥ |</l>
+	<l>śrāpakeśasya ku<unclear reason="uncertain akṣara"><add rend="over writing"><del rend="over written" quantity="1" unit="akṣara"/>ccā</add></unclear> <lb n="4"/>ca likhanīyaṃ ghoraṃ paṭaṃ |</l>
+</lg>
+
+<lg xml:id="HT2.6.8">
+	<l>sūtrañ ca yayā kāryaṃ karttavyañ ca <cb/>paṭaṃ yayā |</l>
+	<l>tayāpi samayinyā vai samayādhiṣṭhānayogataḥ |</l>
+</lg>
+
+<lg xml:id="HT2.6.9">
+	<l>māsi 2 caturddaśyāṃ kṛṣṇāyāṃ vijane <lb n="5"/>gṛhe |</l>
+	<l>madhyāhne krūracittena kiñcin madanapānataḥ |</l>
+</lg>
+
+<lg xml:id="HT2.6.10">
+	<l>aṅge <cb/>niraṅśukaṃ dhyātvā nagnībhūya tathā punaḥ |</l>
+	<l>ucchiṣṭenāpavitreṇa bhakṣayan samayaṃ tataḥ |</l>
+</lg>
+
+<lg xml:id="HT2.6.11">
+	<l>nija<lb n="6"/>mudrāṃ sthāpya vāmena | cāruvaktrāṃ kṛpāvatīṃ |</l>
+	<l>rūpayauvanasaubhāgyāṃ supuṣpāṃ sādhakapriyām ||</l>
+</lg>
+
+<p xml:id="HT2.6.col">
+	hevajre ḍākinījālasamvare | paṭalavidhāna ṣaṣthamaḥ paṭalaḥ || <metamark rend="circle" function="chapter ending"/> ||
+</p>
+
+</div> <!--End of paṭala 2.6-->
+
+<!--End of paṭala 2.7-->
+
+<!--End of paṭala 2.8-->
+
+<!--End of paṭala 2.9-->
+
+
+<!--End of paṭala 2.10-->
+
+
+<!--End of paṭala 2.11-->
+
+
+<!--End of paṭala 2.12-->
+
+
+</div> <!--End of kalpa 2-->
+        </body>
+    </text>
+</TEI>

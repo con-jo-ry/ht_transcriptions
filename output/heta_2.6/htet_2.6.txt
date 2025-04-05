@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+<fileDesc>
+  <titleStmt>
+		<title>Edition by Tripathi and Negi</title>
+		<title type="alt">In Hevajratantra with Muktāvalī Pañjikā of Mahāpaṇḍitācārya Ratnākaraśānti</title>
+		<editor>Ram Shankar Tripathi and Thakur Sain Negi</editor>
+  </titleStmt>
+  <publicationStmt>
+		<date calendar="Gregorian">2001</date>
+		<publisher>Central Institute of Higher Tibetan Studies</publisher>
+		<pubPlace>Sarnath</pubPlace>
+  </publicationStmt>
+  <sourceDesc>
+
+		<msDesc>
+			 <msIdentifier>
+				  <idno type="siglum">Ed<sup>T</sup></idno>
+			 </msIdentifier>
+			 <physDesc>
+				  <objectDesc form="book">
+						<supportDesc material="paper">
+							 <extent>  
+								  <measure quantity="188" unit="pages">345</measure>
+							 </extent>
+						</supportDesc>
+
+					  <layoutDesc>
+					  </layoutDesc>
+				  </objectDesc>
+				  
+				  <bindingDesc>
+				  </bindingDesc>
+			 </physDesc>
+			 <history>
+				  <origin>
+				  </origin>
+			 </history>
+		</msDesc>
+  </sourceDesc>
+</fileDesc>
+<encodingDesc>    
+	<p>IAST transliteration.</p>
+</encodingDesc>
+
+<revisionDesc>
+<change when="2022-10">First version.</change>
+</revisionDesc>
+</teiHeader>
+
+
+<text xml:lang="sa-Latn">
+  <body>
+
+<!--End of kalpa 1-->
+
+<div n="2" type="kalpa">
+<!--End of paṭala 2.1-->
+
+<!--End of paṭala 2.2-->
+
+<!--End of paṭala 2.3-->
+
+<!--End of paṭala 2.4-->
+
+<!--End of paṭala 2.5-->
+
+<div n="6" type="paṭala">
+<lg xml:id="HT2.6.1">
+	<l><pb n="216"/>devīṃ vai gāḍham āliṅgya kṣiptvā bolaṃ kapālake |</l>
+	<l>gāḍhaṃ kucagrahaṃ kṛtvā saṃvṛṣya naranāsikām || 1 ||</l>
+</lg>
+
+<lg xml:id="HT2.6.2">
+	<l>daśanenauṣṭham āpīḍya kakṣaṃ kṛtvā nakhakṣatam |</l>
+	<l>sampuṭaṃ saukhyam āsādya pañcamudrāṃ prakāśate || 2 ||</l>
+</lg>
+
+<lg xml:id="HT2.6.3">
+	<l>gurvācāryeṣṭadevasya namanārthaṃ cakrikā dhṛtā |</l>
+	<l>durbhāṣasyāśravaṇāya guror vajradharasya ca || 3 ||</l>
+</lg>
+
+<lg xml:id="HT2.6.4">
+	<l>śravaṇayoḥ kuṇḍalaṃ dhāryaṃ mantraṃ japtuṃ ca kaṇṭhikā |</l>
+	<l>rucakaṃ prāṇivadhaṃ tyaktuṃ mudrāṃ bhajituṃ ca mekhalam |</l>
+	<l>pañcabuddhasya mudreṇa śarīraṃ mudritaṃ sadā || 4 ||</l>
+</lg>
+
+<lg xml:id="HT2.6.5">
+	<l>prahasanan tataḥ kṛtvā dantaiḥ saṃpīḍya cādharam |</l>
+	<l>pṛcchate tatra sā devī hevajraṃ sahajarūpiṇam || 5 ||</l>
+</lg>
+
+<lg xml:id="HT2.6.6">
+	<l>katareṇa vidhānena kayā kriyayā tathā prabho |</l>
+	<l>hevajrasya paṭaṃ kāryaṃ kathayasva mahāsukha || 6 ||</l>
+</lg>
+
+<lg xml:id="HT2.6.7">
+	<l><pb n="217"/>bhagavān āha—</l>
+	<l>samayicitrakareṇeha sādhakenāpi samayinā |</l>
+	<l>likhitavyaṃ paṭaṃ ghoraṃ narakasthaiḥ pañcavarṇakaiḥ |</l>
+	<l>śavakeśasya kuccā ca likhanīyaṃ paṭaṃ guru || 7 ||</l>
+</lg>
+
+<lg xml:id="HT2.6.8">
+	<l>sūtraṃ ca yayā kāryaṃ kartavyañ ca paṭaṃ yayā |</l>
+	<l>tayāpi samayinyā vai samayādhiṣṭhānayogataḥ || 8 ||</l>
+</lg>
+
+<lg xml:id="HT2.6.9">
+	<l>māsi māsicaturdaśyāṃ kṛṣṇāyāṃ vijane gṛhe |</l>
+	<l>madhyāhne krūracittena kiṃcin madanapānataḥ || 9 ||</l>
+</lg>
+
+<lg xml:id="HT2.6.10">
+	<l>aṅge niraṃśukaṃ bhūtvā nagnībhūya tathā punaḥ |</l>
+	<l>utsṛṣṭenāpavitreṇa bhakṣayet samayaṃ tataḥ || 10 ||</l>
+</lg>
+
+<lg xml:id="HT2.6.11">
+	<l>nijamudrāṃ sthāpya vāmena cāruvaktrāṃ kṛpāvatīm |</l>
+	<l>rūpayauvanasaubhāgyāṃ supuṣpāṃ sādhakapriyām || 11 ||</l>
+</lg>
+
+<p xml:id="HT2.6.col">
+	hevajrapaṭavidhānapaṭalaḥ ṣaṣṭhaḥ ||
+</p>
+
+</div> <!--End of paṭala 2.6-->
+
+<!--End of paṭala 2.7-->
+
+<!--End of paṭala 2.8-->
+
+<!--End of paṭala 2.9-->
+
+
+<!--End of paṭala 2.10-->
+
+
+<!--End of paṭala 2.11-->
+
+
+<!--End of paṭala 2.12-->
+
+</div> <!--End of kalpa 2-->
+        </body>
+    </text>
+</TEI>

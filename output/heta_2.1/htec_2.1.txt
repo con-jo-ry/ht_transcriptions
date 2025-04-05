@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+    <fileDesc>
+        <titleStmt>
+            <title>Provisional edition</title>
+            <title type="alt">The Hevajratantra, with special reference to Kamalanātha Ratnāvalī, edited by Ryan Conlon</title>
+            <editor>Ryan Conlon</editor>
+        </titleStmt>
+        <publicationStmt>
+            <date calendar="Gregorian">2022</date>
+            <publisher/>
+            <pubPlace>Universität</pubPlace>
+        </publicationStmt>
+        <sourceDesc>
+
+            <msDesc xml:lang="en">
+                <msIdentifier>
+                    <idno type="siglum">Ed<sup>C</sup></idno>
+                </msIdentifier>
+
+                <msContents>
+                    <summary>This is a provisionary critical edition of the text, currently still under active revision, based on five manuscript witnesses and two printed sources.</summary>
+
+                    <msItem n="1" defective="false">
+
+                        <textLang mainLang="sa-Latn">Sanskrit in IAST transliteration.</textLang>
+
+                    </msItem>
+                </msContents>
+
+                <physDesc>
+                    <objectDesc form="xml">
+                        <supportDesc material="digital">
+                            <extent> 
+                            </extent>
+                        </supportDesc>
+                    </objectDesc>
+                </physDesc>
+
+                <history>
+                    <origin>
+                        <origDate calendar="Gregorian" when="2020">2020 CE</origDate>
+                        <origPlace>Germany</origPlace>
+                    </origin>
+                </history>
+
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+
+    <revisionDesc>
+        <change when="2022-10-12">
+            <persName>Ryan Conlon</persName>
+        </change>
+    </revisionDesc>
+
+</teiHeader>
+
+<text xml:lang="sa-Latn">
+   <body>
+
+<!--End of kalpa 1-->
+
+<div n="2" type="kalpa">
+<div n="1" type="paṭala">
+<p xml:id="HT2.1.1">
+	<lg>
+		<l>deśayatu yathānyāyaṃ pratiṣṭhālakṣaṇaṃ śubham |</l>
+		<l>bhagavān vajrasārātmā sarvabuddhaikasaṃgrahaḥ || 1 ||</l>
+	</lg>
+</p>
+
+<p xml:id="HT2.1.2">
+	<lg>
+		<l>homaṃ kṛtvā yathāproktaṃ vartayitvā tu maṇḍalam |</l>
+		<l>pradoṣe saṃskaret pratimāṃ kṛtvādhivāsanādikam || 2 ||</l>
+	</lg>
+</p>
+
+<lg xml:id="HT2.1.3">
+	<l>gaganasthān sarvabuddhān vai pratimāhṛdaye praveśayet |</l>
+	<l>sveṣṭadevatasamāyogī prekṣako mantrapāragaḥ || 3 ||</l>
+</lg>
+
+<lg xml:id="HT2.1.4">
+	<l>oṁ vajrapuṣpe āḥ hūṁ svāhā |</l>
+	<l>oṁ vajradhūpe āḥ hūṁ svāhā |</l>
+	<l>oṁ vajradīpe āḥ hūṁ svāhā |</l>
+	<l>oṁ vajragandhe āḥ hūṁ svāhā |</l>
+	<l>oṁ vajranaivedye āḥ hūṁ svāhā || 4 ||</l>
+</lg>
+
+<lg xml:id="HT2.1.5">
+	<l>nānāhūṁkāraniṣpannān puṣpādyāṃs tu ḍhaukayet |</l>
+	<l>arghapādyādikaṃ prāgvat pūrvatantravidhikramaiḥ || 5 ||</l>
+</lg>
+
+<lg xml:id="HT2.1.6">
+	<l>śāntike vartulaṃ kuṇḍaṃ caturasraṃ tu pauṣṭike |</l>
+	<l>trikoṇaṃ māraṇe proktaṃ śeṣān atraiva sādhayet || 6 ||</l>
+</lg>
+
+<lg xml:id="HT2.1.7">
+	<l>ekahastārdhahastaṃ vā adhordhve śāntikaṃ bhavet |</l>
+	<l>dvihastam ekahastaṃ ca adhordhve pauṣṭikaṃ matam || 7 ||</l>
+</lg>
+
+<lg xml:id="HT2.1.8">
+	<l>viṃśatyaṅgulam ardhaṃ vā adhordhve ca māraṇam |</l>
+	<l>śuklavarṇaṃ bhavec chāntau pītaṃ pauṣṭike tathā || 8 ||</l>
+</lg>
+
+<lg xml:id="HT2.1.9">
+	<l>māraṇe kṛṣṇavarṇaṃ ca vaśye raktaṃ prakīrtitam |</l>
+	<l>yathā vaśye tathākṛṣṭau dveṣādau yathā māraṇe || 9 ||</l>
+</lg>
+
+<lg xml:id="HT2.1.10">
+	<l>tilaṃ śāntau dadhi puṣṭau māraṇe kaṇṭakaṃ tathā |</l>
+	<l>dveṣādau kaṇṭakaṃ proktaṃ vaśyākṛṣṭau ca utpalam || 10 ||</l>
+</lg>
+
+<p xml:id="HT2.1.11">
+	<lg>
+		<l>oṁ agnaye mahātejā sarvakāmārthaprasādhakaḥ |</l>
+		<l>kāruṇyakṛtasattvārthaḥ asmin sannihito bhava ||</l>
+	</lg>
+	agnyāvāhanam || 11 ||
+</p>
+
+<lg xml:id="HT2.1.12">
+	<l>tvaṃ devi sākṣibhūtāsi hevajrakrodhapūjite |</l>
+	<l>nānāratnadharī dhātrī amuko 'haṃ maṇḍalaṃ likhe || 12 ||</l>
+</lg>
+
+<lg xml:id="HT2.1.13">
+	<lg>
+		<l>svārthaṃ caiva parārthaṃ ca sādhituṃ gaccha havyabhuk |</l>
+		<l>āgamiṣyasi yathākāle sarvasiddhiṃ kuruṣva me ||</l>
+	</lg>
+	agnisantoṣaṇamantraḥ || 13 ||
+</lg>
+
+<lg xml:id="HT2.1.14">
+	<l>oṁ jaḥ hūṃ vaṃ hoḥ khaṃ raṃ—arghamantraḥ |</l>
+	<l>oṁ nī rī hūṁ khaḥ—pādyamantraḥ |</l>
+	<l>oṁ dhvaṃ dhvaṃ—naivedyamantraḥ || 14 ||</l>
+</lg>
+
+<p xml:id="HT2.1.col">
+	pratiṣṭhāpaṭalaḥ prathamaḥ || ||
+</p>
+</div> <!--End of paṭala 2.1-->
+
+<!--End of paṭala 2.2-->
+
+<!--End of paṭala 2.3-->
+
+<!--End of paṭala 2.4-->
+
+<!--End of paṭala 2.5-->
+
+<!--End of paṭala 2.6-->
+
+<!--End of paṭala 2.7-->
+
+<!--End of paṭala 2.8-->
+
+<!--End of paṭala 2.9-->
+
+<!--End of paṭala 2.10-->
+
+
+<!--End of paṭala 2.11-->
+
+
+<!--End of paṭala 2.12-->
+
+
+</div> <!--End of kalpa 2-->
+        </body>
+    </text>
+</TEI>

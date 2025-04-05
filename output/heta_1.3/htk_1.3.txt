@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+				<title>Kaisar Library 126 (NGMPP C 14/4)</title>
+         </titleStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>National Archives Kathmandu</orgName>
+                  </repository>
+						<idno type="siglum">K</idno>
+						<idno>K 126</idno>
+						<idno>NGMPP C 14/4</idno>
+               </msIdentifier>
+               <msContents class="#STM">
+						<summary>A paper manuscript in Nepālākṣara, kept at the Kaiser Library.</summary>
+						<msItem defective="false"><title xml:lang="sa">Hevajratantra</title><textLang mainLang="sa-newa">Sanskrit in Nepālākṣara.</textLang><rubric xml:lang="sa"/><incipit xml:lang="sa"/><explicit xml:lang="sa"/><finalRubric xml:lang="sa"/><colophon xml:lang="sa"/></msItem></msContents>
+               <physDesc>
+                  <objectDesc form="pathi">
+                     <supportDesc material="palm leaf">
+                        <extent>
+                           <measure unit="folio" quantity="52"/>
+                        </extent>
+                     <foliation type="original"/></supportDesc>
+                     <layoutDesc>
+                        
+                     <layout writtenLines="5">6 lines, string hole creating columns for two line.</layout></layoutDesc>
+                  </objectDesc>
+						<handDesc><handNote scope="sole" script="newa" medium="ink"/></handDesc>
+                  <additions/>
+                  <bindingDesc>
+                     <binding><p>String</p></binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+               </history>
+               <additional>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>    
+			<p>IAST transliteration.</p>
+		</encodingDesc>
+      
+   <revisionDesc>
+         
+		<change when="2022-10">First version.</change>
+	</revisionDesc>
+</teiHeader>
+    <text xml:lang="sa-Latn">
+        <body>
+
+<div n="1" type="kalpa">
+<!--End of paṭala 1.1-->
+
+
+<!--End of paṭala 1.2-->
+
+<div n="3" type="paṭala">
+<lg xml:id="HT1.3.1">
+	<l>devatāpaṭalaṃ vyākhyā<lb n="3"/>syāmaḥ ||</l>
+	<l>prathamaṃ bhāvayen maitrīṃ dvi | tīye karu<cb/>ṇā bhāvayet |</l>
+	<l>tṛtīye bhāvayet muditām upekṣāṃ sarvaśeṣataḥ ||</l>
+</lg>
+
+<lg xml:id="HT1.3.2">
+	<l>tasmāt punar api sūnyatābodhiṃ dvitīyaṃ bīja<cb/>saṃgrahaṃ |</l>
+	<l>tṛtīyaṃ bimbaniṣpattiṃ <metamark rend="hald daṇḍa"/> caturthaṃ <metamark rend="hald daṇḍa"/> nyāsam akṣaraṃ ||</l>
+</lg>
+     
+<lg xml:id="HT1.3.3">
+	<l>repheṇa sū<lb n="5"/>ryyaṃ purato vibhāvya</l>
+	<l>tasmin rapau hūṁbhabimbavajraṃ</l>
+	<l>tenaiva vajreṇa vibhāvayec ca</l>
+	<l>prākārakaṃ paṃjarabandhanaṃ ca ||</l>
+</lg>
+     
+<lg xml:id="HT1.3.4">
+	<l>prathamaṃ bhāvayet mṛ<lb n="6"/>takan dharmmadhāsvātmakam viduḥ <add>|</add></l>
+	<l>yogī tasyopari sthitvā herukatvaṃ vibhāvayet ||</l>
+</lg>
+     
+<lg xml:id="HT1.3.5">
+	<l>svahṛdi bhāvayed rephaṃ tadbhavaṃ sūryyamaṇḍalaṃ |</l>
+	<l><pb n="7v"/>tataiva hūṁkṛtiṃ caiva prajñopāyasvasvabhāvakaṃ ||</l>
+</lg>
+
+<lg xml:id="HT1.3.6">
+	<l>kṛṣṇavarṇṇa mahāghoraṃ hūṁkārād vajrasambhavaṃ |</l>
+	<l>vajravaraṭakamadhyasthaṃ hūṁtatvaṃ <lb n="2"/>bhāvayet punaḥ ||</l>
+</lg>
+
+<lg xml:id="HT1.3.7">
+	<l>hūṁkārapariṇataṃ dṛṣṭvā dveṣātmānaṃ vibhāvayet |</l>
+	<l>vajrajatmaṃ mahākṛṣṇaṃ nīlapaṃkajasaṃnibhaṃ ||</l>
+	<l>atha<lb n="3"/>vā nīlāruṇābhaṃ ca bhāvaye<unclear reason="could be d kra; does not really appear like c chra">c chra</unclear>ddhayo khalu |</l>
+</lg>
+
+<lg xml:id="HT1.3.8">
+	<l><cb/>vyomni bhaṭṭārakaṃ dṛṣṭvā vajrajatma mahākṛpaṃ ||</l>
+	<l>pūjayed aṣṭadevī<lb n="4"/>bhiḥ sarvvālaṃkāradhāribhiḥ |</l>
+</lg>
+
+<lg xml:id="HT1.3.9">
+	<l>gaurī mṛga<cb/>lācchannaṃ rtti caurī mārttaṇḍabhājanaṃ ||</l>
+	<l>vetālī vārihastā ca bhaiṣajyai<lb n="5"/>vartti ghasmarī |</l>
+</lg>
+
+<lg xml:id="HT1.3.10">
+	<l>purkkasī vajrahastā ca sabarī rasadharī tathā ||</l>
+	<l>caṇḍālī ḍamarukaṃ vādayet | etābhiḥ pūjyate pra<lb n="6"/>bhuḥ ||</l>
+	<l>ḍombyāliṅgitakandharaṃ mahārāgānu<del quantity="1" unit="akṣara"/>āgataḥ |</l>
+</lg>
+
+<lg xml:id="HT1.3.11">
+	<l>candrāli kālimarttaṇḍa bījamadhyagatam bhavet ||</l>
+	<l>sa eva sattvam i<pb n="8r"/>ty āhuḥ paramānandasvabhāvakaṃ |</l>
+</lg>
+
+<lg xml:id="HT1.3.12">
+	<l>visphuranti svadehābhā gaganamaṇḍalacchādakāḥ ||</l>
+	<l>saṃhāryyānayed dhṛdaye yogī dveṣātma<lb n="2"/>ko bhavat |</l>
+</lg>
+
+<lg xml:id="HT1.3.13">
+	<l>nīlāruṇābhavarṇṇena raktabandhūkanetravān ||</l>
+	<l>piṅgalordvakeśavarṣma ca pañcamudrair alaṃkṛtaṃ |</l>
+</lg>
+
+<lg xml:id="HT1.3.14">
+	<l>cakrī kuṇḍala ka<lb n="2"/>ṇṭhyā ca haste rucakaṃ mekhalaṃ ||</l>
+	<l>paṃcabuddha<cb/>viśuddhyā ca etā mudrāḥ pra<gap reason="rubbing out" quantity="2" unit="akṣara"/>tāḥ |</l>
+</lg>
+
+<lg xml:id="HT1.3.15">
+	<l>kruddhadṛṣṭi dvirasṭavarṣā<lb n="4"/>kṛtiḥ ||</l>
+	<l>vāme vajrakapālaṃ ca khaṭvāṅgaṃ cā<cb/>pi vāmataḥ |</l>
+	<l>dakṣiṇe kṛṣṇavajrañ ca hūṁkāroccāraṇātmakāṃ ||</l>
+</lg>
+
+<lg xml:id="HT1.3.16">
+	<l><lb n="5"/>śmaśāne krī<del rend="cancelled">ya</del>ḍate nātha aṣṭayoginībhiḥ parivṛtaḥ |</l>
+	<l>śvasatīty anayā yuktyā śmaśānety abhidhīyate ||</l>
+</lg>
+
+<p xml:id="HT1.3.17">
+	caturbhu<lb n="6"/>jaṃ caturmāranirjitaviśuddhitaḥ | pūrvokta<del rend="cancelled">kta</del>rūpavarṇṇahūṁbhavaṃ | prathamavāmabhujena kapālaṃ devāsurāṇāṃ rakte<pb n="8v"/>na pūritaṃ | prathamadakṣiṇe bhuje vajraṃ śeṣabhujābhyāṃ prajñāliṅgitaṃ | vajravārāhī prajñā bhagavadrūpiṇī |
+</p>
+
+<p xml:id="HT1.3.18">
+	ṣaḍbhujaṃ trimu<lb n="2"/>khaṃ vāmaṃ raktaṃ dakṣiṇaṃ candrāruṇābhaṃ | prathamamukhan nīlaṃ nagnaṃ kṛpūrvvoktarūpaṃ bhujānāṃ pāramitāviśuddhiṃ || pratha<lb n="3"/>mavāmabhuje triśūlaṃ | prathamadakṣiṇabhu<cb/>je vajraṃ | vāmadvitīyabhuje ghaṇṭā | dakṣiṇadvitīyabhuje karttiḥ <lb n="4"/>śeṣadvibhujābhyāṃ vajrasṛṃkhalāsamāpatyā <cb/>yadvad bhagavān tadvat prajñā savyāvasavye karttikapālau traidhātukā<lb n="5"/>tmakamṛtakamṛtakākrāntaḥ || <metamark rend="circle" function="chapter ending"/> ||
+</p>
+
+<p xml:id="HT1.3.col">
+	devatāpaṭalas tṛtīyaḥ || <metamark rend="circle" function="chapter ending"/> ||
+</p>
+</div> <!--End paṭala 1.3-->
+
+<!--End of paṭala 1.4-->
+
+<!--End of paṭala 1.5-->
+
+
+<!--End of paṭala 1.6-->
+
+
+<!--End of paṭala 1.7-->
+
+
+<!--End of paṭala 1.8-->
+
+<!--End of paṭala 1.9-->
+
+<!--End of paṭala 1.10-->
+
+<!--End of paṭala 1.11-->
+</div> <!--End of kalpa 1-->
+
+
+<!--End of kalpa 2-->
+        </body>
+    </text>
+</TEI>

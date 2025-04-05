@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>National Archives Kathmandu, 5/93 (NGMPP A 48-8)</title>
+         </titleStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>National Archives Kathmandu</orgName>
+                  </repository>
+						<idno type="siglum">N<sub>b</sub></idno>
+						<idno>NAK 5/98</idno>
+						<idno>NGMPP A 4808</idno>
+               </msIdentifier>
+               <msContents class="#STM">
+						<summary>A palm-leaf manuscript in Proto Bengali, kept at the National Archives Kathmandu.</summary>
+						<msItem defective="false"><title xml:lang="sa">Hevajratantra</title><textLang mainLang="sa-beng">Sanskrit in Proto Bengali.</textLang><rubric xml:lang="sa"/><incipit xml:lang="sa"/><explicit xml:lang="sa"/><finalRubric xml:lang="sa"/><colophon xml:lang="sa"/></msItem></msContents>
+               <physDesc>
+                  <objectDesc form="pathi">
+                     <supportDesc material="palm leaf">
+                        <extent>
+                           <measure unit="folio" quantity="28"/>
+                        </extent>
+                     <foliation type="original"/></supportDesc>
+                     <layoutDesc>
+                        
+                     <layout writtenLines="5">5 lines, two columns.</layout></layoutDesc>
+                  </objectDesc>
+						<handDesc><handNote scope="sole" script="beng" medium="ink"/></handDesc>
+                  <additions/>
+                  <bindingDesc>
+                     <binding><p>String</p></binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+               </history>
+               <additional>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>    
+			<p>IAST transliteration.</p>
+		</encodingDesc>
+      
+   <revisionDesc> 
+		<change when="2022-10">First version.</change>
+	</revisionDesc>
+</teiHeader>
+    <text xml:lang="sa-Latn">
+        <body>
+
+<!--End of kalpa 1-->
+
+<div n="2" type="kalpa">
+<!--End of paṭala 2.1-->
+
+<!--End of paṭala 2.2-->
+
+<!--End of paṭala 2.3-->
+
+
+<!--End of paṭala 2.4-->
+
+<!--End of paṭala 2.5-->
+
+<!--End of paṭala 2.6-->
+
+<div n="7" type="paṭala">
+<lg xml:id="HT2.7.1">
+	<l>athāha tatra sā devī bolakakkolayogataḥ |</l>
+	<l>oṣṭhan dantena saṃpīḍya katamam bha<unclear reason="bottom damaged">vati pusta</unclear>kaṃ |</l>
+	<l>vajrapadmasamāyo<pb n="25r"/><gap reason="damage" maybehas="gāt tuṣṭo devaḥ prakāśate |"/></l>
+</lg>
+
+<lg xml:id="HT2.7.2">
+	<l><gap reason="damage" maybehas="bhagavān āha—"/></l>
+	<l>śṛṇu devī mahābhāge pustakaṅ kathayāmy ahaṃ |</l>
+	<l>bhūrjjapatre likhet samayī dvādaśāṅgulapustikāṃ |</l>
+	<l>mahā<gap reason="damage" maybehas="madhu masiṃ kṛtvā lekhanyāṃ mānuṣāsthibhiḥ"/></l>
+</lg>
+
+<lg xml:id="HT2.7.3">
+	<l><gap reason="damage" maybeas="pustakañ ca paṭañ caiva yadi vā dunduraḥ"/> <lb n="2"/>paśyati |</l>
+	<l>iha janmani na siddhiḥ syāt na vā paralokagocare |</l>
+</lg>
+
+<lg xml:id="HT2.7.4">
+	<l>saṃpradāyaprayuktasya darśanañ ca kadācit |</l>
+	<l>gopitavyaṃ kace ka<gap reason="damage" maybehas="ṣe pustakam adhvagocare |"/></l>
+</lg>
+
+<lg xml:id="HT2.7.5">
+	<l><gap reason="damage" maybehas="bhage liṅgaṃ pratiṣṭhāpya cumbayitvā muhurmuhuḥ |"/></l>
+	<l><gap reason="damage" maybehas="mahāsu"/><lb n="3"/>khaṃ samāsādya vajrī bhojanam ādiśet |</l>
+</lg>
+
+<lg xml:id="HT2.7.6">
+	<l>śṛṇu devi viśālākṣi bho<cb/>janaṅ gaṇamaṇḍalaṃ |</l>
+	<l>yatra bhuṃkte bhavet siddhiḥ sarvvakāmā<gap reason="damage" maybehas="rthasādhakī |"/></l>
+</lg>
+
+<lg xml:id="HT2.7.7">
+	<l><gap reason="damage" maybehas="śmaśāne girikuñje vā mānuṣasya pure tathā |"/></l>
+	<l><gap reason="damage" maybehas="athavā vijane"/><lb n="4"/>ne samudrānte idam bhojanam ācaret |</l>
+</lg>
+
+<lg xml:id="HT2.7.8">
+	<l>kalpayed āsanan tatra navākhyaṃ <cb/>śavarūpiṇaṃ |</l>
+	<l>athavā vyāghracarmmaṃ ca śmaśānakarppaṭan tathā |</l>
+</lg>
+
+<lg xml:id="HT2.7.9">
+	<l><gap reason="damage" maybhas="madhye hevajrarūpātmā yoginīnāṃ tato nyaset |"/></l>
+	<l><gap reason="damage" maybehas="sthānaṃ jñātvā ya"/><lb n="5"/>thāpūrvvaṃ diśāsu vidiśāsu ca |</l>
+</lg>
+
+<lg xml:id="HT2.7.10">
+	<l>vyāghracarmmopari bhuñjīta samayasya <cb/>mālatīndhanaṃ |</l>
+	<l>bhakṣañ ca bhakṣayet tatra rājaśālīṃ prayatna<unclear reason="partially damaged">taḥ</unclear></l>
+	<l><gap reason="damage" maybehas="bhuktvā bhuktvā punas tatra pūjyante tatra mātaraḥ |"/></l>
+</lg>
+
+<lg xml:id="HT2.7.11">
+	<l><gap reason="damage" maybehas="yadi vā mātā bhaginī"/><lb n="6"/>syād bhāgineyī ca svasṛkā |</l>
+	<l>pūjayen nirbharaṃ tāsāṃ sidhyante gaṇamaṇḍalaiḥ |</l>
+</lg>
+
+<lg xml:id="HT2.7.12">
+	<l>ekakhaṇḍam mahānarakaṃ divyamadanena pūritaṃ ||</l>
+	<l>gurave dadyān mahā<gap reason="damage" maybehas="bhāgī vandayitvā svayaṃ pibet |"/></l>
+</lg>
+
+<lg xml:id="HT2.7.13">
+	<l><gap reason="damage" maybehas="gṛhṇīyāt padmahastena dadyā"/><lb n="7"/>t tenaiva pāṇinā |</l>
+	<l>muhurmmuhuḥ praṇāmañ ca kurvvanti tatra sādhakāḥ ||</l>
+</lg>
+
+<p xml:id="HT2.7.col"> 
+	bhojanapaṭalaḥ saptamaḥ || <metamark rend="circle" function="chapter ending"/> ||
+</p>
+
+</div> <!--End of paṭala 2.7-->
+
+<!--End of paṭala 2.8-->
+
+<!--End of paṭala 2.9-->
+
+
+<!--End of paṭala 2.10-->
+
+
+<!--End of paṭala 2.11-->
+
+
+<!--End of paṭala 2.12-->
+
+
+</div> <!--End of kalpa 2-->
+        </body>
+    </text>
+</TEI>

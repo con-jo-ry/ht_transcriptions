@@ -1,0 +1,246 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+				<title>Kaisar Library 126 (NGMPP C 14/4)</title>
+         </titleStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>National Archives Kathmandu</orgName>
+                  </repository>
+						<idno type="siglum">K</idno>
+						<idno>K 126</idno>
+						<idno>NGMPP C 14/4</idno>
+               </msIdentifier>
+               <msContents class="#STM">
+						<summary>A paper manuscript in Nepālākṣara, kept at the Kaiser Library.</summary>
+						<msItem defective="false"><title xml:lang="sa">Hevajratantra</title><textLang mainLang="sa-newa">Sanskrit in Nepālākṣara.</textLang><rubric xml:lang="sa"/><incipit xml:lang="sa"/><explicit xml:lang="sa"/><finalRubric xml:lang="sa"/><colophon xml:lang="sa"/></msItem></msContents>
+               <physDesc>
+                  <objectDesc form="pathi">
+                     <supportDesc material="palm leaf">
+                        <extent>
+                           <measure unit="folio" quantity="52"/>
+                        </extent>
+                     <foliation type="original"/></supportDesc>
+                     <layoutDesc>
+                        
+                     <layout writtenLines="5">6 lines, string hole creating columns for two line.</layout></layoutDesc>
+                  </objectDesc>
+						<handDesc><handNote scope="sole" script="newa" medium="ink"/></handDesc>
+                  <additions/>
+                  <bindingDesc>
+                     <binding><p>String</p></binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+               </history>
+               <additional>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>    
+			<p>IAST transliteration.</p>
+		</encodingDesc>
+      
+   <revisionDesc>
+         
+		<change when="2022-10">First version.</change>
+	</revisionDesc>
+</teiHeader>
+    <text xml:lang="sa-Latn">
+        <body>
+
+<div n="1" type="kalpa">
+<div n="1" type="paṭala">
+
+<p xml:id="HT1.1.0">
+	<pb n="1v"/><metamark rend="siddham"/>oṁ namaḥ buddhāya hevajrārūpiṇe ||
+</p>
+
+<p xml:id="HT1.1.1">
+	evaṃ mayā śrutam ekasmin samaye bhagavān sarvvatathāgatakāyavākcittavajra<lb n="2"/>yoṣidbhageṣu vijahāra ||
+</p>
+
+<p xml:id="HT1.1.2">
+	tatra bhagavān āha || sarvvatathāgatakāyavākcittahṛdayaṃ bhaṭṭārakaṃ guhyātiguhyata<lb n="3"/>ra | aho vajragarbha sādhu sādhu mahākṛpa <cb/>mahābodhisatva || vajrasatvasya <metamark rend="half daṇḍā"/> mahāsatvasya <metamark rend="half daṇḍā"/> mahāsamaya<lb n="4"/>satvasya hṛdaya hevajrākhyaṃ śṛṇu ||
+</p>
+
+<lg xml:id="HT1.1.3">
+	<l>vajra<cb/>garbha uvāca ||</l>
+	<l>vajrasatvā bhavet kasmāt mahāsatvaṃ bhavet kathaṃ |</l>
+	<l><lb n="5"/>samayasatvaṃ <metamark rend="half daṇḍā"/> bhavet kena kathayatu bhaga<cb/>vān mayi ||</l>
+</lg>
+
+<lg xml:id="HT1.1.4">
+	<l>bhagavān āha ||</l>
+	<l>abhedyaṃ vajram ity uktam satva tribha<lb n="6"/>vasyaikatā |</l>
+	<l>anayā prajña<del>ā</del>yā yuktā vajrasatva iti smṛtaḥ ||</l>
+</lg>
+
+<lg xml:id="HT1.1.5">
+	<l>mahājñānarasaiḥ pūrṇṇaṃ mahāsatvaiti nigadyate |</l>
+	<l>ni<pb n="2r"/>tyaṃ samaye pravṛttatvān samayasatvo 'bhidhīyate ||</l>
+</lg>
+
+<lg xml:id="HT1.1.5a">
+</lg>
+
+<lg xml:id="HT1.1.6">
+	<l>vajragarbha uvāca ||</l>
+	<l>hevajran tu </l>
+</lg>
+
+<lg xml:id="HT1.1.7">
+	<l>hekāre mahākaruṇā vajra prajñā <lb n="2"/>ca bhaṇyate |</l>
+	<l>prajñopāyātmakaṃ tatra tat ma nigaditaṃ śṛṇu ||</l>
+</lg>
+
+<lg xml:id="HT1.1.8">
+	<l>dṛṣṭvākrṣṭīmahācchomaṃ sāmathyaṃ bahu vidu <metmark rend="half daṇḍa"/></l>
+	<l>tambhanoccāta<lb n="3"/>naṃ caiva sainyastatābhicārukaṃ</l>
+</lg>
+
+<lg xml:id="HT1.1.9">
+	<l>yoginī<cb/>nāṃ samutpatti sthitikāraṇaṃ ||</l>
+	<l>sāmathyā jñānavijñānaṃ deva<lb n="4"/>tānāṃ yathodayaṃ |</l>
+</lg>
+
+<lg xml:id="HT1.1.10">
+	<l>prathamaṃ tāvad bhavet <cb/>herukotpattikāraṇaṃ ||</l>
+	<l>bhāvenaiva vimucyante vajragarbha mahā<lb n="5"/>kṛpa |</l>
+</lg>
+
+<lg xml:id="HT1.1.11">
+	<l>badhyate bhāvyabadhyana mucyante tatparijñāyā ||</l>
+	<l><unclear quantity="1" unit="akṣara" reason="unknown akṣara or mark"/>bhāva bhāvyaṃ bhe tatprajñā abhāvañ ca parijñāyā</l>
+	<l>tadvad dharukaṃ <lb n="6"/>bhāmabhāñ ca parijñāyā |</l>
+</lg>
+
+<lg xml:id="HT1.1.12">
+	<l>dehasthañ ca mahājñānaṃ <metamark rend="half daṇḍā"/> sarvvasaṃkalpavarjitaṃ <metamark rend="half daṇḍā"/></l>
+	<l>vyāpaka sarvvabhūtānāṃ <metamark rend="half daṇḍā"/> dehasthāpi na he<pb n="2v"/>hajaṃ ||</l>
+</lg>
+
+<p xml:id="HT1.1.13">
+	<l>vajragarbha uvāca || he <add position="above line/upper margin">bhagavan</add> vajradeha kame nāḍyaḥ ||</l>
+	<l>bhagavān āha || dvātriṃśata nāḍyaḥ dvātriṃśata bodhicittāvahā <lb n="2"/>sukhasthāne śravantyaḥ tāsāṃ madhya triṇī nāḍyaḥ pradhānāḥ lalanā lasanāvadhūtī ceti ||</l>
+</p>
+
+<lg xml:id="HT1.1.14">
+	<l>lalanā prajñāsvabhā<lb n="3"/>vena rasanopāyasasthitā |</l>
+	<l>avadhūtī <cb/>madhyadeśe tu grāhyagrāhakavajitā |</l>
+</lg>
+
+<lg xml:id="HT1.1.15">
+	<l>akṣobhyāvahā lalanā <lb n="4"/>rasanā raktapravāhiṇī |</l>
+	<l>prajñācandrava<cb/>hākhyātā avadhūtī sā prakīttitā |</l>
+</lg>
+
+<lg xml:id="HT1.1.16">
+	<l>abhedyā sūkṣmārūpā ca <lb n="5"/>divyā vāmā ta vāmanī |</l>
+	<l>kūrmmajā bhāvekī sekā do viṣṭā ca mātarā |</l>
+</lg>
+
+<lg xml:id="HT1.1.17">
+	<l>sarvarī sītadā coṣ<unclear reason="could be ṭā or something like that">m</unclear>ā lalanā ||</l>
+</lg>
+
+<lg xml:id="HT1.1.18">
+	<l>asiddhā <lb n="6"/>pāvakī sumanās tathā |</l>
+	<l>tṛvṛḍā kāminī gehā caṇḍikā māradārikā |</l>
+</lg>
+     
+<p xml:id="HT1.1.19">
+	etā dvātriśat nāḍya <metamark rend="half daṇḍā"/> bhagavan kīdṛśī ||
+</p>
+
+<lg xml:id="HT1.1.20">
+	<l><pb n="3r"/>|| bhagavān āha ||</l>
+	<l>tribhavaparinatā sarvvā grāhyagrāhakavarjitāḥ |</l>
+	<l>athavā sarvvopāyena bhāvalakṣaṇakalpitā |</l>
+</lg>
+
+<p xml:id="HT1.1.21">
+	samva<lb n="2"/>rabheda ca kathyate ālikāli prajñopāya dharmmasambhoganirmmāṇaṃ | kāyavākcittaṃ ||
+</p>
+
+<lg xml:id="HT1.1.22">
+	<l>evaṃ mayā || ekāreṇa lo<lb n="3"/>canādevīṃ | vaṃkāreṇa māmakī smṛtā |</l>
+	<l><cb/>ma<del rend="rubbed out">ā</del>kāreṇa pāṇḍarādevī | <add>yā</add><unclear reason="possibly cancelled">grā</unclear>kāreṇa tāraṇī smṛtā ||</l>
+</lg>
+     
+<p xml:id="HT1.1.23">
+	nirmmā<lb n="4"/>ṇacakra padma catuḥṣaṭidalaḥ | dharmma<cb/>cakre aṣṭa | sambhogacakre ṣoḍaśaḥ | mahāsukhacakre dvātriṃ<lb n="5"/>sat || cakrasaṃkhyākrameṇa vyavasthādhanaṃ
+</p>
+
+<p xml:id="HT1.1.24">
+	catvāraḥ kṣaṇāḥ | vicitra vipāka | vimardda | vilakṣaṇa ||
+</p>
+
+<p xml:id="HT1.1.25">
+</p>
+
+<p xml:id="HT1.1.26">
+	caturā<lb n="6"/>ryasatyaṃ dukha <metamark rend="half daṇḍā"/> samudaye | nirodha <metamark rend="half daṇḍā"/> mārga ||
+</p>
+
+<p xml:id="HT1.1.27">
+	catvāram bhatvāḥ | ātmatatvaḥ | devatātatvaḥ mantratatvaḥ jñānata<pb n="3v"/>tvaḥ |
+</p>
+
+<p xml:id="HT1.1.28">
+	catvāro ānandāḥ ānandaḥ paramānandaḥ viramānandaḥ sahajānandaḥ |
+</p>
+
+<p xml:id="HT1.1.29">
+	catvāro nikāyāḥ | sthāvarī sarvā<lb n="2"/>stivādaḥ saṃvidī | mahāsarghā ||
+</p>
+
+<p xml:id="HT1.1.30">
+	candra | sūryya | āli | kāli | ṣoḍaśasaṃkrānti | catuḥpaṣṭidaṇḍa | dvātriṃśatnā<lb n="3"/>ḍī || catvāraḥ prahārāḥ | evaṃ sarvve catvā<cb/>raḥ |
+</p>
+
+<lg xml:id="HT1.1.31">
+	<l>caṇḍālī jvalitā nābhau | dahati ca paṃcatathāgatān ||</l>
+	<l>da<lb n="4"/>hati ca locanādīnān dagdhe haṃ sravate sa<cb/>śī || <metamark function="chapter ending" rend="3 akṣara size space"/></l>
+</lg>
+
+<p xml:id="HT1.1.col">
+	<l>vajrākulapaṭalaḥ prathamaḥ || <metamark function="chapter ending" rend="3 akṣara size space"/> ||</l>
+</p>
+</div> <!--End of paṭala 1.1-->
+
+
+<!--End of paṭala 1.2-->
+
+<!--End paṭala 1.3-->
+
+<!--End of paṭala 1.4-->
+
+<!--End of paṭala 1.5-->
+
+
+<!--End of paṭala 1.6-->
+
+
+<!--End of paṭala 1.7-->
+
+
+<!--End of paṭala 1.8-->
+
+<!--End of paṭala 1.9-->
+
+<!--End of paṭala 1.10-->
+
+<!--End of paṭala 1.11-->
+</div> <!--End of kalpa 1-->
+
+
+<!--End of kalpa 2-->
+        </body>
+    </text>
+</TEI>

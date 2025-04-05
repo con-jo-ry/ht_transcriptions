@@ -1,0 +1,283 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+    <fileDesc>
+        <titleStmt>
+            <title>Edition by Snellgrove</title>
+            <title type="alt">The Hevajratantra: A Critical Study</title>
+            <editor>David Snellgrove</editor>
+        </titleStmt>
+        <publicationStmt>
+            <date calendar="Gregorian">1951</date>
+            <publisher>Oxford University Press</publisher>
+            <pubPlace>London</pubPlace>
+        </publicationStmt>
+        <sourceDesc>
+
+            <msDesc>
+                <msIdentifier>
+                    <idno type="siglum">Ed<sup>S</sup></idno>
+                </msIdentifier>
+                <physDesc>
+                    <objectDesc form="book">
+                        <supportDesc material="paper">
+                            <extent>  
+                                <measure quantity="188" unit="pages">188</measure>
+                            </extent>
+                        </supportDesc>
+
+                       <layoutDesc>
+                       </layoutDesc>
+                    </objectDesc>
+                    
+                    <bindingDesc>
+                    </bindingDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                    </origin>
+                </history>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <encodingDesc>    
+			<p>IAST transliteration.</p>
+	</encodingDesc>
+
+    <revisionDesc>
+		<change when="2022-10">First version.</change>
+    </revisionDesc>
+</teiHeader>
+
+
+	<text xml:lang="sa-Latn">
+        <body>
+<!--End of kalpa 1-->
+
+
+<div n="2" type="kalpa">
+<!--End of paṭala 2.1-->
+
+<!--End of paṭala 2.2-->
+
+<!--End of paṭala 2.3-->
+
+<!--End of paṭala 2.4-->
+
+<!--End of paṭala 2.5-->
+
+<!--End of paṭala 2.6-->
+
+<!--End of paṭala 2.7-->
+
+<!--End of paṭala 2.8-->
+
+<div n="9" type="paṭala">
+
+<lg xml:id="HT2.9.1">
+	<l>athātaḥ saṃpravakṣyāmi saṃpuṭodghātalakṣaṇaṃ ||</l>
+	<l>yena vijñātamātreṇa sādhakaḥ siddhim āpnuyāt ||</l>
+	<l>sādhyasya nābhimūle tu hastenotpāṭayed vratī || (1)</l>
+</lg>
+
+<lg xml:id="HT2.9.2">
+	<l>herukapratirūpeṇādhyātmakakrūracetasā</l>
+	<l>bhāvanāmātrakenaiva buddho 'pi naśyate dhruvaṃ || (2)</l>
+</lg>
+
+<lg xml:id="HT2.9.3">
+	<l>māraṇaṃ kriyate kṛpayā śrāvayitvā gurau munau ||</l>
+	<l>śāsanāyāpacārī ca gurubuddhasya nāśakaḥ || (3)</l>
+</lg>
+
+<lg xml:id="HT2.9.4">
+	<l>yatra dṛṣṭvā yathārūpam adhomukhaṃ tu bhāvayet ||</l>
+	<l><pb n="92"/>raktam udvamantañ caiva kampayantaṃ samūrddhajaṃ || (4)</l>
+</lg>
+
+<lg xml:id="HT2.9.5">
+	<l>tasya mārge sūcīṃ dhyāyāt praviśantīṃ vahnirūpiṇīṃ ||</l>
+	<l>hṛdaye hutāśanabījaṃ dṛṣṭvā mārayet tatkṣaṇāt || (5)</l>
+</lg>
+
+<lg xml:id="HT2.9.6">
+	<l>asmin tantre na hotavyaṃ mudrābandhakriyā na ca ||</l>
+	<l>paṭhitasiddhaṃ mahātantraṃ dhyānamātreṇa sidhyati || (6)</l>
+</lg>
+
+<lg xml:id="HT2.9.7">
+	<l>rahasyaṃ paramaṃ vakṣye śṛṇu devī varānane ||</l>
+	<l>bhavasya śodhanaṃ ramyam avikalpasiddhidāyakaṃ || (7)</l>
+</lg>
+
+<lg xml:id="HT2.9.8">
+	<l>paśya devī mahāratnaṃ jvālāmālākulaṃ vapuḥ ||</l>
+	<l>ayogyaḥ syād aviddhena viddhaḥ san rucidāyakaḥ || (8)</l>
+</lg>
+
+<lg xml:id="HT2.9.9">
+	<l>tadvat saṃsārakaṃ ratnaṃ pañcakāmagunaiḥ yutaṃ ||</l>
+	<l>aviśuddhaṃ viṣatāṃ yāti viśuddhaṃ pīyūṣavad bhavet || (9)</l>
+</lg>
+
+<lg xml:id="HT2.9.10">
+	<l>saṃsāraṃ herukākāraṃ jagaduttāraṇam prabhuṃ ||</l>
+	<l>yena rūpeṇa saṃbhūtaṃ tad ahaṃ vacmi śṛṇvatāṃ || (10)</l>
+</lg>
+
+<lg xml:id="HT2.9.11">
+	<l>kṛpayā locane rakte kṛṣṇāṅgo maitricittataḥ ||</l>
+	<l>saṃgrahavastucatuṣkena catvāraś caraṇāḥ smṛtāḥ || (11)</l>
+</lg>
+
+<lg xml:id="HT2.9.12">
+	<l>aṣṭāsyāṃ vimokṣā aṣṭau śūnyatā ṣoḍaśa bhujāḥ ||</l>
+	<l>mudreṇa pañcabuddhāḥ syuḥ kruddho duṣṭavineyataḥ || (12)</l>
+</lg>
+
+<lg xml:id="HT2.9.13">
+	<l>māṃsena pukkasī khyātā śavarī raktena kalpitā ||</l>
+	<l>caṇḍālī śukram ity uktaṃ ḍombī ca medamajjayoḥ ||</l>
+	<l>carma bodhyaṅgasaptan tu asthi satyacatuṣṭayaṃ || (13)</l>
+</lg>
+
+<lg xml:id="HT2.9.14">
+	<l>devy uvāca |</l>
+	<l>mantroddhāraṃ bhavet kīdṛk kathayasva mahāsukha ||</l>
+	<l>yena mantreṇa jantūnāṃ karmāṇi yānti siddhitāṃ || (14)</l>
+</lg>
+
+<lg xml:id="HT2.9.15">
+	<l>bha[ga]vān āha mahāvajrī vajrasāravapur mahān ||</l>
+	<l>śṛṇu devi mahābhāge mantraṃ te kathayāmy ahaṃ || (15)</l>
+</lg>
+
+<lg xml:id="HT2.9.16">
+	<l>ādau vairocanaṃ dattva uṣmāṇāñ ca caturthakaṃ ||</l>
+	<l>pukkasīśobhanaṃ divyaṃ śūnyākrāntaṃ śuklavarṇaṃ || <lb/> svāhāntaṃ niyojayet ||</l>
+	<l>anena lakṣajāpena stambhayej jagat sarvadā || (16)</l>
+</lg>
+
+<lg xml:id="HT2.9.17">
+	<l>ādau varṇādhipaṃ dattva tadanu khecariṃ tataḥ ||</l>
+	<l>svāhāntaṃ yojitaṃ kṛtvā buddhān api vaśīkaret || (17)</l>
+</lg>
+
+<lg xml:id="HT2.9.18">
+	<l>vedānām ādimaṃ dattvā prathamasya dvitīyakaṃ ||</l>
+	<l>śūnyaṃ svāhāntaṃ yojayed buddhānām apy uccāṭayet || (18)</l>
+</lg>
+
+<lg xml:id="HT2.9.19">
+	<l>ādau vairocanaṃ dattva dvitīyasya tṛtīyakaṃ ||</l>
+	<l>rayuktaṃ vāribhūṣitaṃ śūnyaṃ svāhāntasaṃyuktaṃ ||</l>
+	<l><pb n="94"/>dveṣayet sarvamānuṣān || (19)</l>
+</lg>
+
+<lg xml:id="HT2.9.20">
+	<l>ādau varṇeśvaraṃ dattvā pañcamasya tṛtīyakaṃ ||</l>
+	<l>saśūnyaṃ ḍākinīyuktaṃ svāhāntam abhicārukaṃ || (20)</l>
+</lg>
+
+<lg xml:id="HT2.9.21">
+	<l>varṇajyeṣṭaṃ punar dattvā hūṃkāraraktasaṃnibhaṃ ||</l>
+	<l>svāhāntaṃ kārṣayet sadya rambhādīnān tilottamām || (21)</l>
+</lg>
+
+<lg xml:id="HT2.9.22">
+	<l>ādau mohakulaṃ dattva ghukāraṃ saṃprayojayet ||</l>
+	<l>svāhāntaṃ ca punaḥ kṛtvā mārayet suramānuṣān || (22)</l>
+</lg>
+
+<lg xml:id="HT2.9.23">
+	<l>prathamasya prathaman tu vajraḍākinīyogitaṃ ||</l>
+	<l>ādau vairocanaṃ dattvā antasthānāṃ dvitīyakaṃ || (23)</l>
+</lg>
+
+<lg xml:id="HT2.9.24">
+	<l>vajraḍākinīsaṃyuktaṃ punaḥ prathamasyāgrakaṃ ||</l>
+	<l>vajraḍākinīsaṃyuktaṃ antasthānāṃ tṛtīyakaṃ || (24)</l>
+</lg>
+
+<lg xml:id="HT2.9.25">
+	<l>punas tenaiva saṃyuktam upari caurībhūṣitaṃ ||</l>
+	<l>hrīḥkāraṃ yojayet tatra svāhāntaṃ punar ācaret ||</l>
+	<l>kurukullāmantraḥ || (25)</l>
+</lg>
+
+<lg xml:id="HT2.9.26">
+	<l>oṃkārādicaturthasya tṛtīyaṃ caurībhūṣitaṃ ||</l>
+	<l>antasthānāṃ caturthakaṃ picuvajraprayojitaṃ || (26)</l>
+</lg>
+
+<lg xml:id="HT2.9.27">
+	<l>uṣmānāñ ca caturthakaṃ pukkāsyāś ca vibhūṣitaṃ ||</l>
+	<l>śūnyakrāntaṃ triguṇitaṃ pañcamasya dvitīyakaṃ ||</l>
+	<l>tṛtīyasya prathamaṃ svāhāntaṃ <lb/> hevajrasya hṛdayaṃ | (27)</l>
+</lg>
+
+<lg xml:id="HT2.9.28">
+	<l>vairocanādijvalajvalayojitaṃ | <lb/> pañcamasya caturthaṃ tu</l>
+	<l>antasthānāṃ prathamena yuktaṃ ghasmarībhūṣitaṃ || (28)</l>
+</lg>
+
+<lg xml:id="HT2.9.29">
+	<l>uṣmānāñ ca caturthakaṃ vajraḍākinībhūṣitaṃ |</l>
+	<l>śūnyākrāntaṃ triguṇitaṃ pañcamasya dvitīyakaṃ |</l>
+	<l>tṛtīyasya prathamaṃ svāhāntaṃ <lb/>caturbhujasya mantraḥ | (29)</l>
+</lg>
+
+<lg xml:id="HT2.9.30">
+	<l>vairocanādi prathamasya &lt;ca&gt; prathamam abhyantaragaurīśobhitaṃ ||</l>
+	<l>tṛtīyasya &lt;ca&gt; prathamam abhyantaragaurībhūṣitaṃ || (30)</l>
+</lg>
+
+<p xml:id="HT2.9.31">
+	dviguṇīkṛtya pañcamasya tṛtīyaṃ dvitīyasya tṛtīyaṃ vahnibhūṣitaṃ hūṃkāratrayayojitaṃ | pañcamasya dvitīyaṃ tṛtīyasya prathamaṃ svāhāntaṃ ṣaḍbhujasya mantraḥ | (31)
+</p>
+
+<p xml:id="HT2.9.32">
+	vairocanādicaturthasya prathamaṃ hutāśanasaṃyuktaṃ vetālīvibhūṣitaṃ | antasthānāṃ tṛtīyakaṃ ghasmarībhūṣitaṃ | prathamasya prathamam antasthānāṃ prathamena yuktaṃ vajrābhūṣitaṃ | (32)
+</p>
+
+<p xml:id="HT2.9.33">
+	kṣakāraṃ caurībhūṣitaṃ | pañcamasya prathamaṃ | uṣmāṇāṃ caturthakaṃ vajraḍākinībhūṣitaṃ | śūnyākrāntaṃ triguṇitaṃ phaṭ svāhāntaṃ <pb n="96"/> dvibhujasya | (33)
+</p>
+
+<p xml:id="HT2.9.34">
+	nairātmyā prathamasya prathamaṃ dvitīyasya prathamaṃ tṛtīyasya prathamaṃ caturthasya prathamaṃ pañcamasya prathamam antasthānāṃ prathamam uṣmāṇāṃ prathamaṃ vairocanādisvāhāntaṃ | purakṣobhanamantro lakṣajāpaḥ | (34)
+</p>
+
+<p xml:id="HT2.9.35">
+	antasthānāṃ dvitīyan tu kṣakāradvayaṃ | madhye punar antasthānāṃ dvitīyakaṃ | hūṃkāratrayaṃ vairocanādi phaṭkāravidarbhitaṃ svāhāntaṃ | bhūmiśodhanamantraḥ | (35)
+</p>
+
+<p xml:id="HT2.9.36">
+	vairocanādi tadanu vajrā hūṃkārāntaṃ khānapānādhiṣṭhānamantraḥ | (36)
+</p>
+
+<p xml:id="HT2.9.37">
+	vairocanādi tadanu akāro mukhaṃ | uṣmāṇān tritīyakaṃ | antasthānāñ caturthakam upari vahnibhūṣitaṃ || dharmāṇāṃ | tadanu vajrā cādyanutpannatvāt oṃ āḥ hūṃ phaṭ svāhā sarvabhautikabalimantraḥ | (37)
+</p>
+
+<p xml:id="HT2.9.col">
+	mantroddhārapaṭalo navamaḥ ||
+</p>
+
+</div> <!--End of paṭala 2.9-->
+
+
+<!--End of paṭala 2.10-->
+
+
+<!--End of paṭala 2.11-->
+
+
+<!--End of paṭala 2.12-->
+
+</div> <!--End of kalpa 2-->
+
+        </body>
+    </text>
+</TEI>

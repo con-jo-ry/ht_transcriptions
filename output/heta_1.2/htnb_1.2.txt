@@ -1,0 +1,230 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>National Archives Kathmandu, 5/93 (NGMPP A 48-8)</title>
+         </titleStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>National Archives Kathmandu</orgName>
+                  </repository>
+						<idno type="siglum">N<sub>b</sub></idno>
+						<idno>NAK 5/98</idno>
+						<idno>NGMPP A 4808</idno>
+               </msIdentifier>
+               <msContents class="#STM">
+						<summary>A palm-leaf manuscript in Proto Bengali, kept at the National Archives Kathmandu.</summary>
+						<msItem defective="false"><title xml:lang="sa">Hevajratantra</title><textLang mainLang="sa-beng">Sanskrit in Proto Bengali.</textLang><rubric xml:lang="sa"/><incipit xml:lang="sa"/><explicit xml:lang="sa"/><finalRubric xml:lang="sa"/><colophon xml:lang="sa"/></msItem></msContents>
+               <physDesc>
+                  <objectDesc form="pathi">
+                     <supportDesc material="palm leaf">
+                        <extent>
+                           <measure unit="folio" quantity="28"/>
+                        </extent>
+                     <foliation type="original"/></supportDesc>
+                     <layoutDesc>
+                        
+                     <layout writtenLines="5">5 lines, two columns.</layout></layoutDesc>
+                  </objectDesc>
+						<handDesc><handNote scope="sole" script="beng" medium="ink"/></handDesc>
+                  <additions/>
+                  <bindingDesc>
+                     <binding><p>String</p></binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+               </history>
+               <additional>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>    
+			<p>IAST transliteration.</p>
+		</encodingDesc>
+      
+   <revisionDesc> 
+		<change when="2022-10">First version.</change>
+	</revisionDesc>
+</teiHeader>
+    <text xml:lang="sa-Latn">
+        <body>
+
+<div n="1" type="kalpa">
+<!--End of paṭala 1.1-->
+
+
+<div n="2" type="paṭala">
+<p xml:id="HT1.2.1">
+	mantrapaṭalaṃ vyākhyāsyāmaḥ ||
+	
+	sārvvabhautikabalimantraḥ | oṁ akāro mukhaṃ sarvvadharmmāṇām ādyanutpannatvāt oṁ <lb n="5"/>āḥ hūṁ phaṭ svāhā ||
+</p>
+
+<p xml:id="HT1.2.2">
+	tathāgatānāṃ bījam—buṁ āṁ jrīṁ khaṁ hūṁ ||
+</p>
+
+<p xml:id="HT1.2.3">
+	oṁ deva pi<cb/>cuvajra hūṁ 3 phaṭ svāhā || hevajrasya hṛdayaṃ |
+</p>
+
+<p xml:id="HT1.2.4">
+	sarvve mantrapadāḥ | oṁkārādisvāhāntāḥ hūṁphaṭkāravidarbhitāḥ |
+</p>
+
+<p xml:id="HT1.2.5">
+	oṁ a ka ca ṭa ta pa ya śa <lb n="6"/><gap reason="damage" quantity="aprox. 8" unit="akṣara" maybehas="svāhā pūrakṣobhamantraḥ"/>ḥ ||
+</p>
+
+<p xml:id="HT1.2.6">
+	yoginīnāṃ bījaṃ | a ā i ī u ū ṛ ṝ ḷ ḹ e ai o au aṃ
+</p>
+
+<p xml:id="HT1.2.7">
+	dvibhujasya oṁ trailokyakṣepa hūṁ 3 phaṭ svāhā ||
+</p>
+
+<p xml:id="HT1.2.8">
+	caturbhujasya | oṁ jvalajvala bhyo hūṁ 3 phaṭ svāhā ||
+</p>
+
+<p xml:id="HT1.2.9">
+	ṣaḍbhujasya | oṁ kiṭiki<lb n="7"/><gap quantity="aprox. 8" unit="akṣara" maybehas="ṭivajra hūṃ 3 phaṭ svāhā"/>
+</p>
+
+<p xml:id="HT1.2.10">
+	<gap quantity="aprox. 7" unit="akṣara" maybehas="adhiṣṭhānamantraḥ" reason="damage"/> <unclear reason="lower part of akṣara lost to damage">āḥ hūṁ</unclear> | adhiṣṭhānamantraḥ ||
+</p>
+
+<p xml:id="HT1.2.11">
+	bhūmiśodhanamantraḥ || oṁ rakṣa 2 hūṃ 3 phaṭ svāhā |
+</p>
+
+<p xml:id="HT1.2.12">
+	oṁ hūṁ svāhā || stambhanaṃ |
+</p>
+
+<p xml:id="HT1.2.13">
+	oṁ aṁ svāhā | vaśyaṃ |
+</p>
+
+<p xml:id="HT1.2.14">
+	oṁ khaṃ svāhā || uccāṭanaṃ |
+</p>
+
+<p xml:id="HT1.2.15">
+	oṁ jrīṁ svāhā | dveṣaṃ |
+</p>
+
+<p xml:id="HT1.2.16">
+	oṁ buṁ svāhā | ābhi<pb n="3r"/><gap quantity="aprox. 3" unit="akṣara" reason="damage" maybehas="cārukaṃ"/>
+</p>
+
+<p xml:id="HT1.2.17">
+	<gap quantity="aprox. 8" unit="akṣara" reason="damage" maybehas="oṃ hūṃ svāhā | ākarṣaṇaṃ |"/>
+</p>
+
+<p xml:id="HT1.2.18">
+	<gap quantity="aprox. 4" unit="akṣara" reason="damage" maybehas="oṃ ghuḥ svāhā"/>māraṇaṃ ||
+</p>
+
+<p xml:id="HT1.2.19">
+	oṁ kurukulle hrīḥ svāhā || kurukullāyāḥ ||
+</p>
+
+<p xml:id="HT1.2.20">
+	āḥphuḥkāraṃ | <add rend="upper margin"><!-- It is not clear where this connects -->caturdasyāṃ</add> anantapratikṛtiṃ kṛtvā pañcāmṛtena snāpayet | kṛṣṇapuṣpeṇābhyarccayet | nāgadamarakarase<lb n="2"/><gap quantity="aprox. 11" unit="akṣara" reason="damage" maybehas="na lepayet | hastimadena śi"/>ro lepayet | śarāvadvaye saṃpuṭīkṛtya sthāpayet | kṛṣṇagāvīṣīreṇa pūrayet | kṛṣṇakumārīkarttitasūtreṇa veṣṭayet | vāyavyān diśi puṣkiriṇīṃ kṛtvā tam anantaṃ sthāpayet | tasyās ta<lb n="3"/><gap quantity="aprox. 8" unit="akṣara" reason="damage" maybehas="ṭe maṇḍalaṃ vartayet |"/> <unclear reason="top damaged">kṛṣṇa</unclear>rajaḥ śmaśānāṅgāreṇa śitarajo narā<cb/>sthicūrṇṇena <del rend="cancelled">na</del> pītarajo haritālakena | raktarajaḥ śmaśāneṣṭakena | haritarajo narāsthicūrṇṇacauryapatrābhyāṃ | nīlarajo na<lb n="4"/>rāsthicūrṇṇaśmaśānāṅgārābhyāṃ rajobhir ebhir mmaṇḍalaṃ varttayitvā śmaśā<cb/>nasūtreṇa saṃsūtrya trayahastan tanmadhye anantākrāntaṃ hevajraṃ likhet | aṣṭāsyaṃ catuḥcaraṇaṃ | bhujaṣoḍaśabhūṣitaṃ | caturvviṃśati<lb n="5"/><add position="lower margin"><!-- uncertain where to connect, but the '3' indicates that it should be third line from the bottom -->tā <metamark function="line number from bottom">3</metamark></add>netrāḍhyaṃ | paścād ācāryaḥ | ādhmātaḥ krūracetasā mantraṃ japet vija<cb/>ne deśe || oṁ ghuru 2 <g ref="#newa-old-gap-filler"/> <g ref="#newa-old-gap-filler"/> <g ref="#newa-old-gap-filler"/> ghuḍu 2 ghaḍa 2 <g ref="#newa-old-gap-filler"/> <g ref="#newa-old-gap-filler"/> <g ref="#newa-old-gap-filler"/> masa 2 ghaṭa 2 ghoṭaya 2 | anantakṣobhakarāya nāgādhipataye he he ru ru <lb n="6"/>ka saptapātālagatān nāgān ākarṣaya <add place="lower margin">2</add> varṣaya <add place="lower margin">2</add> garjaya <add place="lower margin">2</add> tarjaya <add place="lower margin">2</add> phuḥ 8 hūṁ 3 phaṭ svāhā || yadi na varṣati tadā etan mantraṃ viparitaṃ japet | varṣanti | yadi na varṣanti | tadā mūrdhā <g ref="#newa-old-gap-filler"/> sphuṭati || yathāryakasyeva mañjarī <lb n="7"/>| iti varṣāpaṇavidhiḥ || <metamark function="section-end" rend="circle"/> ||
+</p>
+
+<p xml:id="HT1.2.21">
+	meghānāṃ sphāṭanam vakṣye | śmaśānakarpaṭe upaviśya mantraṃ japan sphāṭayet | oṁ ārya<del rend="cancelled">3</del>śmaśānapriyāya hūṁ 3 phaṭ | meghasphāṭanavidhiḥ ||
+</p>
+
+<p xml:id="HT1.2.22">
+	parasainyavināśāya khaṭikāsā<pb n="3v"/>dhanam vakṣye | khaṭṭikāṃ piṣṭvā pañcāmṛtena kuṭṭhāracchinnayā sārddham vaṭikāṃ kārayet | mantraṃ | oṁ vajrakarttari hevajrāya hūṁ 3 phaṭ || siddhyarthaṃ koṭiñ japet | pūrvvasevā lakṣañ japet | tāṃ sādhya kamaṇḍalugrīvāṃ veṣṭa<lb n="2"/>yet | veṣṭayitvā bhañjayet | sarvve śatravaḥ śirohīnā bhavanti | vajrakarttarividhiḥ || <metamark function="section-end" rendition="puṣpikā"/> ||
+</p>
+
+<p xml:id="HT1.2.23">
+	devān sphāṭayitukāmena tilakaṃ sādhanīyaṃ | brahmabījaṃ puṣyasādhitaṃ kuṭṭhāracchinnāmiśritaṃ sūryagrāse akṣobhye<lb n="3"/>na pīṣayet piṣṭvā paraśuṃ saṃskaret | taṃ pādenākramya mantraṃ japet | <cb/>oṁ vajrakuṭhāra pāṭaya 2 <del rend="cancelled">phaṭ 3</del> hūṁ 3 phaṭ svāhā || koṭiṃ japya tilakaṃ vandayet | yam avalaga<del rend="cancelled">ya</del>ti sa sphuṭati | devātānāṃ sphā<lb n="4"/>ṭanavidhiḥ || <metamark function="section-end" rend="circle"/> ||
+</p>
+
+<p xml:id="HT1.2.24">
+	tāpajvaraṃ kartukāmena | arkadale viṣarāji<cb/>kācitrakarasena śatror nnāma likhet | tuṣāgnau nikṣipet mantram ayutaṃ japet | oṁ hevajra <del rend="cancelled">hūṁ</del> 3 jvala 2 śatrūṁ bhrūṁ hūṁ 3 pha<lb n="5"/><gap quantity="aprox. 4" unit="akṣaras" reason="damage" maybehas="ṭ svāhā ||"/>
+</p>
+
+<p xml:id="HT1.2.25">
+	<gap quantity="2" unit="akṣara" reason="lost to damage" maybehas="madya"/><unclear reason="bottom of akṣaras lost to damage">m udgiritu</unclear>kāmena sādhyasya nābhau maṁkāraṃ bhāvayet | <cb/>maṁkāraniṣpannaṃ madyodaraṃ vibhāvayet | vāntaṃ kurvvantaṃ dṛṣyate | madyam udgirati ||
+</p>
+
+<p xml:id="HT1.2.26">
+	pramadāṃ vaśīkarttukāmena | aśokāṣṭa<lb n="6"/><gap quantity="aprox. 9" unit="akṣara" reason="damage" maybehas="myām aśokatalaṃ gatvāra"/><unclear reason="partially damaged">kta</unclear>vastraṃ paridhāya madanaphalaṃ bhakṣayet | kāmācikārasena tilakam vandya mantraṃ japet oṁ amukī me hrīḥ vaśībhavatu svāhā | ayutenāgacchati ||
+</p>
+
+<p xml:id="HT1.2.27">
+	candrasūryau vaśīkarttukāmena <lb n="7"/><gap quantity="15" unit="akṣara" reason="damage" maybehas="śālipiṣṭakamayaṃ candrārkaṃ kṛtvā vajroda"/>ke nikṣipet | mantraṃ japet | oṁ candrārka mā cala 2 tiṣṭha 2 hevajrāya hūṁ 3 phaṭ svāhā || saptakoṭiñ japet | tiṣṭhataś candrasūryau rātriṃ divā aviśeṣo bhavati <add position="lower margin"><!-- No obvious place where this connects --> tatāyaṃ mantraḥ oṁ hevajra<unclear reason="uncertain akṣara">ma</unclear>ghamu<unclear reason="uncertain akṣara">ñji</unclear>rayamaṃ hūṁ 3 phaṭ svāhā</add><pb n="4r"/> | <gap quantity="aprox. 12" unit="akṣara" reason="damage" maybehas="iti candrasūryavidhāraṇavidhiḥ ||"/>
+</p>
+
+<p xml:id="HT1.2.28">
+	<unclear reason="half damaged on the right side"/>grā 2 ity anena mantreṇa vikālavelāyāṃ kumāryā arthasādhanārthañ cakṣuṣī aṣṭottaraśatenābhimantrya puṣpadhūpādīnāṃ pañcopacāreṇa saṃpūjya nimantrayet | <lb n="2"/><gap quantity="11" unit="akṣara" reason="damage" maybehas="caturdaśyām aṣṭamyāṃ vā prabhāta"/><unclear reason="partially damaged">kāle</unclear> kalaśādikaṃ saṃsthāpya tailam alaktarasañ cānenaiva mantreṇāṣṭottaraśatavāram abhimantrayet | paścād abhimantritālaktarasena mantriṇo vṛddhāṅgusṭhaṃ mrakṣayitvā tailenāpi <lb n="3"/><gap quantity="aprox. 4" unit="akṣara" maybehad="snāpya kumā"/><unclear reason="tops damaged">ryān da</unclear>rśayet vada kena mama dravyam apahṛtam iti <cb/> || tatra sā kathay<del rend="rubbed out">e</del>ati amukeneti | vajrajyotiṣaḥ || <space/> ||
+</p>
+
+<p xml:id="HT1.2.29">
+	veḍuyā 2 ity ukte hastī prapalāyate |
+</p>
+
+<p xml:id="HT1.2.30">
+	mammā 2 ity ukte vyā<lb n="4"/><unclear reason="top damaged">graḥ pra</unclear>palāyate ||
+</p>
+
+<p xml:id="HT1.2.31">
+	teliyā 2 ity ukte gaṇḍā prapalāyate ||
+</p>
+
+<p xml:id="HT1.2.32">
+	oṁ <cb/>ili mili phuḥ phuḥ ity ukte sarppaḥ prapalāyate ||
+</p>
+
+<p xml:id="HT1.2.33">
+	dhanapālavaineyahastena hastaṃ darśayet | śvā prapalāyate ||
+</p>
+
+<lg xml:id="HT1.2.34">
+	<l>vajrā <g ref="#newa-old-gap-filler"/> gau<lb n="5"/>rī ca vārī ca vajraḍākinī <g ref="#newa-old-gap-filler"/> nairātmikā <add position="above line">|</add></l>
+	<l>bhūcarī khecarī yogāt <cb/> | stambhanādīn kared vratī</l>
+</lg>
+
+<p xml:id="HT1.2.col">
+	mantrapaṭalo dvitīyaḥ || <space/> ||
+</p>
+</div> <!--End of paṭala 1.2-->
+
+<!--End paṭala 1.3-->
+
+<!--End of paṭala 1.4-->
+
+<!-- end paṭala 1.5 -->
+
+
+<!--End of paṭala 1.6-->
+
+
+<!--End of paṭala 1.7-->
+
+
+<!--End of paṭala 1.8-->
+
+<!--End of paṭala 1.9-->
+
+<!--End of paṭala 1.10-->
+
+<!--End of paṭala 1.11-->
+</div> <!--End of kalpa 1-->
+
+<!--End of kalpa 2-->
+        </body>
+    </text>
+</TEI>

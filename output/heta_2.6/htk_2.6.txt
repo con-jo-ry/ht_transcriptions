@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+				<title>Kaisar Library 126 (NGMPP C 14/4)</title>
+         </titleStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>National Archives Kathmandu</orgName>
+                  </repository>
+						<idno type="siglum">K</idno>
+						<idno>K 126</idno>
+						<idno>NGMPP C 14/4</idno>
+               </msIdentifier>
+               <msContents class="#STM">
+						<summary>A paper manuscript in Nepālākṣara, kept at the Kaiser Library.</summary>
+						<msItem defective="false"><title xml:lang="sa">Hevajratantra</title><textLang mainLang="sa-newa">Sanskrit in Nepālākṣara.</textLang><rubric xml:lang="sa"/><incipit xml:lang="sa"/><explicit xml:lang="sa"/><finalRubric xml:lang="sa"/><colophon xml:lang="sa"/></msItem></msContents>
+               <physDesc>
+                  <objectDesc form="pathi">
+                     <supportDesc material="palm leaf">
+                        <extent>
+                           <measure unit="folio" quantity="52"/>
+                        </extent>
+                     <foliation type="original"/></supportDesc>
+                     <layoutDesc>
+                        
+                     <layout writtenLines="5">6 lines, string hole creating columns for two line.</layout></layoutDesc>
+                  </objectDesc>
+						<handDesc><handNote scope="sole" script="newa" medium="ink"/></handDesc>
+                  <additions/>
+                  <bindingDesc>
+                     <binding><p>String</p></binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+               </history>
+               <additional>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>    
+			<p>IAST transliteration.</p>
+		</encodingDesc>
+      
+   <revisionDesc>
+         
+		<change when="2022-10">First version.</change>
+	</revisionDesc>
+</teiHeader>
+    <text xml:lang="sa-Latn">
+        <body>
+
+<!--End of kalpa 1-->
+
+
+<div n="2" type="kalpa">
+<!--End of paṭala 2.1-->
+
+<!--End of paṭala 2.2-->
+
+<!--End of paṭala 2.3-->
+
+
+<!--End of paṭala 2.4-->
+
+<!--End of paṭala 2.5-->
+
+<div n="6" type="paṭala">
+<lg xml:id="HT2.6.1">
+	<l>devī gāḍham āliṃgya kṣiptvā bolaṃ kakkollare |</l>
+	<l>gāḍhaṃ kucagrahaṃ kṛtvā saṃ<lb n="6"/>cūṣya naranāsikāṃ ||</l>
+</lg>
+
+<lg xml:id="HT2.6.2">
+	<l>daṃsanenoṣṭham āpīḍya va<unclear reason="uncertain akṣara">gbhau</unclear> kṛtvā nakṣaṃ kṛtaṃ |</l>
+	<l>saṃpuṭaṃ saukhyam āsādya pañcamudrāṃ prakāśayet ||</l>
+</lg>
+
+<lg xml:id="HT2.6.3">
+	<l>gurvācāryyeṣṭade<pb n="45r"/>vasya namanārthaṃ cakrikā dhṛtā |</l>
+	<l>durbhāṣasyāśravaṇāya guro vajradharasya ca ||</l>
+</lg>
+
+<lg xml:id="HT2.6.4">
+	<l>śravaṇayoḥ kuṇḍalaṃ dhāryya mantra japtaṃ ca kaṇṭhikā |</l>
+	<l>ru<lb n="2"/>cakaḥ prāṇivadhaṃ tyaktaṃ sudrā bhaṃjituñ ca mekha<cb/>laṃ |</l>
+	<l>paṃcabuddhasya mudreṇa śarīraṃ mudritaṃ sadā ||</l>
+</lg>
+
+<lg xml:id="HT2.6.5">
+	<l>prahasanaṃ ca tataḥ <lb n="3"/>kṛtvā dantraiḥ sapī<space quantity="1" unit="akṣara"/> cādharaṃ |</l>
+	<l>pṛcchati tatra sā <cb/>devī hevajraṃ sahajarūpiṇaṃ ||</l>
+</lg>
+
+<lg xml:id="HT2.6.6">
+	<l><space quantity="1" unit="akṣara"/>tareṇa vi<space quantity="1" unit="akṣara"/>nena kayā kriyayā ta<lb n="4"/>thā prabho |</l>
+	<l>hevajrasya paṭaṃ kāryyaṃ kathayasva ma<cb/>hāsukha ||</l>
+</lg>
+
+<lg xml:id="HT2.6.7">
+	<l>bhagavān āha ||</l>
+	<l>samayīcittakareṇeha sādhakenāpi <lb n="5"/>samayitā |</l>
+	<l>likhitavyaṃ paṭaṃ ghoriṃ narakasthaiḥ <cb/>paṃcavarṇṇakaiḥ ||</l>
+	<l>srāvakeśasya kūrcyā ca likhanīyaṃ paṭa guruṃ ||</l>
+</lg>
+
+<lg xml:id="HT2.6.8">
+	<l>sū<lb n="6"/>trañ ca yayā kāryyaṃ karttavyañ ca paṭaṃ yayā |</l>
+	<l>tayāpi samayinyā vai samayādhiṣṭhānayogataḥ ||</l>
+</lg>
+
+<lg xml:id="HT2.6.9">
+	<l>māsi māsi caturdasyāṃ kṛṣṇāyāṃ vijane <pb n="45v"/>gṛhe |</l>
+	<l>madhyāhne krūracittena kiñcit sadanapātataḥ ||</l>
+</lg>
+
+<lg xml:id="HT2.6.10">
+	<l>aṃgeṃ niraṃśukaṃ dhyātvā nagnībhūya tathā punaḥ |</l>
+	<l>ucchiṣṭenāpavitreṇa bhakṣayat samayan ta<lb n="2"/>taḥ ||</l>
+</lg>
+
+<lg xml:id="HT2.6.11">
+	<l>nijamudrāṃ sthāpya vāmena cāruvaktrāṃ kṛpāvatīm |</l>
+	<l><cb/>rūpayauvanasaubhāgyāṃ supuṣpāṃ sādhakapriyāṃ || <space quantity="2" unit="akṣara"/> ||</l>
+</lg>
+
+<p xml:id="HT2.6.col">
+	hevajre ḍāki<lb n="3"/>nījālasamvare paṭa<del rend="cancelled">la</del>vidhānapaṭalaḥ ṣaṣṭhamaḥ <cb/>|| <metamark rend="circle" function="chapter ending"/> ||
+</p>
+
+</div> <!--End of paṭala 2.6-->
+
+<!--End of paṭala 2.7-->
+
+<!--End of paṭala 2.8-->
+
+<!--End of paṭala 2.9-->
+
+
+<!--End of paṭala 2.10-->
+
+
+<!--End of paṭala 2.11-->
+
+
+<!--End of paṭala 2.12-->
+
+
+
+
+</div> <!--End of kalpa 2-->
+        </body>
+    </text>
+</TEI>

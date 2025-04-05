@@ -1,0 +1,316 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+				<title>NAK 7/11 (NGMPP A 993/7)</title>
+         </titleStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>National Archives Kathmandu</orgName>
+                  </repository>
+						<idno type="siglum">N<sub>a</sub></idno>
+						<idno>NAK 7/11</idno>
+						<idno>NGMPP A 933/7</idno>
+               </msIdentifier>
+               <msContents class="#STM">
+						<summary>A palm-leaf manuscript in Nepālākṣara, kept at the National Archives Kathmandu.</summary>
+						<msItem defective="false"><title xml:lang="sa">Hevajratantra</title><textLang mainLang="sa-newa">Sanskrit in Nepālākṣara.</textLang><rubric xml:lang="sa"/><incipit xml:lang="sa"/><explicit xml:lang="sa"/><finalRubric xml:lang="sa"/><colophon xml:lang="sa"/></msItem></msContents>
+               <physDesc>
+                  <objectDesc form="pathi">
+                     <supportDesc material="palm leaf">
+                        <extent>
+                           <measure unit="folio" quantity="45"/>
+                        </extent>
+                     <foliation type="original"/></supportDesc>
+                     <layoutDesc>
+                        
+                     <layout writtenLines="5">5 lines, two columns.</layout></layoutDesc>
+                  </objectDesc>
+						<handDesc><handNote scope="sole" script="newa" medium="ink"/></handDesc>
+                  <additions/>
+                  <bindingDesc>
+                     <binding><p>String</p></binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+               </history>
+               <additional>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>    
+			<p>IAST transliteration.</p>
+		</encodingDesc>
+      
+   <revisionDesc>
+         
+		<change when="2022-10">First version.</change>
+	</revisionDesc>
+</teiHeader>
+    <text xml:lang="sa-Latn">
+        <body>
+
+<div n="1" type="kalpa">
+<!--End of paṭala 1.1-->
+
+
+<!--End of paṭala 1.2-->
+
+<!--End paṭala 1.3-->
+
+<!--End of paṭala 1.4-->
+
+<!--End of paṭala 1.5-->
+
+
+<!--End of paṭala 1.6-->
+
+
+<!--End of paṭala 1.7-->
+
+
+<!--End of paṭala 1.8-->
+
+<!--End of paṭala 1.9-->
+
+<div n="10" type="paṭala">
+<lg xml:id="HT1.10.1">
+	<l>athātaḥ saṃpravakṣyāmi maṇḍalasya ya<pb n="17v"/>thākramaṃ ||</l>
+	<l>śiṣyam abhiṣicyate yena vidhiṃ cāpi pravakṣyate |</l>
+</lg>
+
+<lg xml:id="HT1.10.2">
+	<l>vasudhāṃ śodhayed yogī prathamaṃ devatātmakaṃ ||</l>
+	<l>hūṃvajrīkṛtya yatnena paścān maṇḍala<cb/>m ālikhet |</l>
+</lg>
+
+<lg xml:id="HT1.10.3">
+	<l>udyāne vijane deśe bodhisatvagṛheṣu ca ||</l>
+	<l>maṇḍalāgāramadhye ca varttayen maṇḍalam varaṃ |</l>
+</lg>
+
+<lg xml:id="HT1.10.4">
+	<l>di<lb n="3"/>vyena rajalekhena athavā madhya<metamark rend="+" function="addition mark"/><add position="upper margin">me</add>na tu |</l>
+	<l>pañcaratnamayaiś cūrṇṇai<cb/>r athavā taṇḍulādibhiḥ |</l>
+</lg>
+
+<lg xml:id="HT1.10.5">
+	<l>trihasta maṇḍalaṃ kāryaṃ trayāṃguṣṭhādhikañ ca tu ||</l>
+	<l>vidyā tatra praveṣṭavyāḥ divyāḥ pañcakulo<lb n="4"/>dbhavāḥ ||</l>
+</lg>
+
+<lg xml:id="HT1.10.6">
+	<l>athavā yāṃ tāṃ yathālabdhāṃ ṣoḍaśābdāṃ tathaiva ca |</l>
+	<l><cb/>tāvat sevyate mudrā yāvac chukravatī bhavet |</l>
+</lg>
+
+<lg xml:id="HT1.10.7">
+	<l>mudrāyās tu mukhaṃ badvā upāyasya mukhan tathā |</l>
+	<l>sevayās tatra ya<lb n="5"/>d udbhūtaṃ śiṣyavaktre nipātayet |</l>
+</lg>
+
+<lg xml:id="HT1.10.8">
+	<l>kāritavyaṃ ca tatraiva sa<cb/>marasaṃ śiṣyagocaraṃ |</l>
+	<l>svasaṃvedyād bhavej jñānaṃ svaparasaṃvivarjitaṃ |</l>
+</lg>
+
+<lg xml:id="HT1.10.9">
+	<l>khasamaṃ virajaṃ śūnyaṃ bhāvābhāvā<pb n="18r"/>tmakaṃ paraṃ |</l>
+	<l>prajñopāyavyatimisraṃ rāgārāgavimisri<cb/>taṃ |</l>
+</lg>
+
+<lg xml:id="HT1.10.10">
+	<l>sa eva prāṇināṃ prāṇaḥ sa eva paramākṣaraḥ |</l>
+	<l>sarvavyāpī sa evāsau sarvadehe vyavasthitaḥ |</l>
+</lg>
+
+<lg xml:id="HT1.10.11">
+	<l>sa e<lb n="2"/>vāsau jaganmayaḥ ||</l>
+	<l>bhāvābhāvau tadudbhūtau anyāni yāni tā<cb/>ni ca |</l>
+</lg>
+
+<lg xml:id="HT1.10.12">
+	<l>sarvaṃ vijñānarūpaṃ ca puruṣaṃ purāṇam īsvaraṃ |</l>
+	<l>ātmā jīvaṃ ca satvaṃ ca kālaḥ pudgala eva ca |</l>
+	<l>sarvabhāvasva<lb n="3"/>bhāvo sau māyārūpī ca saṃsthitaḥ |</l>
+</lg>
+
+<lg xml:id="HT1.10.13">
+	<l>prathamānandamātraṃ <cb/>tu paramānanda dvisaṃkhyataḥ |</l>
+	<l>dvitīyaṃ viramākhyaṃ tu caturthaṃ sahajaṃ sṛtaṃ ||</l>
+</lg>
+
+<lg xml:id="HT1.10.14">
+	<l>evaṃ srutvā tu vai sarve vajragarbhā<lb n-="4"/>dayo budhaḥ |</l>
+	<l>paramavismayam āpannā mūrcchitāḥ patitā<cb/>canauḥ |</l>
+</lg>
+
+<lg xml:id="HT1.10.15">
+	<l>prathamānandaṃ jagadrūpaṃ paramānandañ jagat tathā |</l>
+	<l>viramānandaṃ jagac caiva na vidyet sahajaṃ triṣu ||</l>
+</lg>
+
+<lg xml:id="HT1.10.16">
+	<l>bhagavā<lb n="5"/>n āha || hevajraḥ sarvabuddhaikavigrahaḥ |</l>
+	<l>saṃśayāpanayaṃ di<cb/>vyaṃ vajragarbhasya bodhaye ||</l>
+</lg>
+
+<lg xml:id="HT1.10.17">
+	<l>na rāgo na virāgasya madhyamā nopalabhyate |</l>
+	<l>trayāṇāṃ varjanād eva sahajaḥ <pb n="18v"/>saṃbodhir ucyate ||</l>
+</lg>
+
+<lg xml:id="HT1.10.18">
+	<l>athavā sarvātmakaḥ saiva athavā sarvai vi<cb/>varjitaḥ |</l>
+	<l>viramādau lakṣayet tac ca ānandatrayavarjitaṃ ||</l>
+</lg>
+
+<lg xml:id="HT1.10.19">
+	<l>prathamaṃ meghavad bhāti siddhe tu māyāvad bhavet |</l>
+	<l>sa<lb n="2"/>hasā svapnavad bhāti svapijāgradabhedataḥ |</l>
+</lg>
+
+<lg xml:id="HT1.10.20">
+	<l>abhedalakṣaṇāt <cb/>siddhau mudrāyogīti sidhyati ||</l>
+	<l>ity āha maṇḍalaṃ śāstā catuṣkoṇaṃ samujjvalaṃ |</l>
+</lg>
+
+<lg xml:id="HT1.10.21">
+	<l>caturdvāram mahādīptaṃ hārā<lb n="3"/>rddhahārabhūṣitaṃ ||</l>
+	<l>srakcitracāmarair yuktam aṣṭastambhopaso<cb/>bhitaṃ |</l>
+</lg>
+
+<lg xml:id="HT1.10.22">
+	<l>vajrasūtrasamāyuktaṃ nānāpuṣpopaśobhitaṃ ||</l>
+	<l>dhūpaṃ dīpaṃ tathā gandhaṃ aṣṭakalaśādibhir yutaṃ |</l>
+</lg>
+
+<lg xml:id="HT1.10.23">
+	<l>te ca pa<lb n="4"/>llavāgrāḥ syur vastrācchāditakandharāḥ ||</l>
+	<l>pañcaratnaparikṣiptaṃ <cb/>dadyād vijaya pūrvataḥ |</l>
+</lg>
+
+<lg xml:id="HT1.10.24">
+	<l>navena suniyuktena supramāṇena cāruṇā |</l>
+	<l>sūtreṇa sūtrayet prājñaḥ sveṣṭadevatarū<lb n="6"/>pataḥ |</l>
+</lg>
+
+<lg xml:id="HT1.10.25">
+	<l>cakreśasya japel lakṣaṃ māṇḍaleyasya tathāyutaṃ ||</l>
+	<l><cb/>pūrvoktenaiva mantreṇa sodhayed dharaṇīṃ budhaḥ ||</l>
+</lg>
+
+<lg xml:id="HT1.10.26">
+	<l>baliṃ ca dāpayet tatra prāg ārādi tu mantrataḥ |</l>
+	<l>rakṣañ cai<pb n="19r"/>va yathoddiṣṭāṃ yathā dhyāne tathātra ca |</l>
+</lg>
+
+<lg xml:id="HT1.10.27">
+	<l>prakāśitās tu ye sekā <cb/>vidhivad dadyāt svamaṇḍale |</l>
+	<l>pūjā cābhyarthanā caiva yathākhyātā tathātra ca |</l>
+</lg>
+
+<lg xml:id="HT1.10.28">
+	<l>śuddhaṃ dvipuṭaṃ vilikhyāsu gauryādī<lb n="2"/>nāṃ likhet tataḥ ||</l>
+	<l>pūrveṇa likhet karttī dakṣiṇe paścime ta<cb/>thā |</l>
+</lg>
+
+<lg xml:id="HT1.10.29">
+	<l>uttare agnikoṇe ca naiṛtī vāyavye tathā ||</l>
+	<l>aiśāne ca yathākathitam asyordve ca tathā tathā |</l>
+</lg>
+
+<lg xml:id="HT1.10.30">
+	<l>vajrasatvakṛ<lb n="3"/>tāṭopaḥ kṛtam ālīḍha pādayoḥ ||</l>
+	<l>praviśen maṇḍalācā<cb/>ryor dvibhujahevajrayogataḥ |</l>
+</lg>
+
+<lg xml:id="HT1.10.31">
+	<l>snātaḥ śuciḥ sugandhāṃgo vicitrābharaṇabhūṣitaḥ ||</l>
+	<l>hūṁhūṁkārakṛtāṭopaḥ hīḥhīḥ<lb n="4"/>kārabhayānaka<unclear reason="could be ṃ">ḥ</unclear> |</l>
+</lg>
+
+<lg xml:id="HT1.10.32">
+	<l>paścāt tatvaṃ samākhyāti viśuddh<del rend="cancelled">i</del>aṃ jñānarū<cb/>piṇaṃ |</l>
+	<l>saṃsāravyavadānena nāsti bhedo manāg api ||</l>
+</lg>
+
+<lg xml:id="HT1.10.33">
+	<l>paramaratau na ca bhāva na bhāvaka |</l>
+	<l>na ca vigraha na ca grāhya <lb n="5"/>na grāhaka |</l>
+	<l>māṃsa na sroṇita viṣṭha na mūtraṃ</l>
+	<l>na ca ghṛṇa moha <cb/>na saucapavitraṃ |</l>
+</lg>
+
+<lg xml:id="HT1.10.34">
+	<l>rāga na dveṣa na moha na īrṣyān</l>
+	<l>na ca paiśūnyaṃ na māna na dṛśyaṃ ||</l>
+	<l>bhāva na bhāvaka śatru na mitraṃ</l>
+	<l><pb n="19v"/>nistaraṅga sahajākhya vicitraṃ ||</l>
+</lg>
+
+<lg xml:id="HT1.10.35">
+	<l>ity āha vajragarbhākhyaḥ ka<cb/>smād bhūtātmakaṃ bhavet ||</l>
+	<l>dehaṃ svabhāvataḥ śuddham ādāv evāsvabhāvakaṃ |</l>
+</lg>
+
+<lg xml:id="HT1.10.36">
+	<l>tatrāha bhagavāṃ vajrī ḍākinīnāṃ su<lb n="2"/>khaṃdadaḥ |</l>
+	<l>niraṅgasvarūpātmā sarvadehe vyavasthitaḥ ||</l>
+</lg>
+
+<p xml:id="HT1.10.37">
+	he <cb/>bhagavan kasmān mahābhautikaḥ skandhaḥ ||
+</p>
+
+<lg xml:id="HT1.10.38">
+	<l>bhagavān āha ||</l>
+	<l/>
+	<l>sparśāt kāṭhinyadharmeṇa pṛthivī tatra jāyate |</l>
+</lg>
+
+<lg xml:id="HT1.10.39">
+	<l>bodhi<lb n="3"/>cittadravākārād abdhātoś ca saṃbhavaḥ ||</l>
+	<l>tajo jāyate gharṣa<cb/>ṇād gamanād vāyuḥ prakīrttitaḥ |</l>
+</lg>
+
+<lg xml:id="HT1.10.40">
+	<l>saukhyam ākāśadhātuś ca pañcabhiḥ pariveṣṭitaḥ ||</l>
+	<l>tasmāt saukhyaṃ na tatvā<lb n="4"/>khyam mahābhūtaṃ yataḥ sukhaṃ |</l>
+</lg>
+
+<lg xml:id="HT1.10.41">
+	<l>sahajābhyāṃ yad utpannaṃ saha<cb/>jaṃ tat prakīrttitaṃ ||</l>
+	<l>svabhāva sahajam ity uktaṃ sarvākāraikasamvaraṃ |</l>
+</lg>
+
+<lg xml:id="HT1.10.42">
+	<l>kṛpopāyo bhaved yogī mudrā hetuviyo<lb n="5"/>gataḥ ||</l>
+	<l>śūnyatākaruṇābhinnaṃ bodhicittam iti smṛtaṃ |</l>
+</lg>
+
+<lg xml:id="HT1.10.43">
+	<l>na mantrajāpo na tapo na homaḥ</l>
+	<l>na māṇḍaleyan na ca maṇdalaṃ ca |</l>
+	<l>sa mantrajāpaḥ sa tapaḥ sa homaḥ |</l>
+	<l>tan māṇḍaleyaṃ <pb n="20r"/><gap reason="damage" maybehad="taṃ"/> maṇḍala ca |</l>
+	<l>samāsataś cittasamājarūpī ||</l>
+</lg>
+
+<p xml:id="HT1.10.col">
+	<metamark rend="figure eight" function="chapter ending"/> || abhiṣe<cb/>kapaṭalo nāma daśamaḥ || <metamark rend="figure eight" function="chapter ending"/> ||
+</p>
+</div> <!--End of paṭala 1.10-->
+
+<!--End of paṭala 1.11-->
+</div> <!--End of kalpa 1-->
+
+<!--End of kalpa 2-->
+
+        </body>
+    </text>
+</TEI>

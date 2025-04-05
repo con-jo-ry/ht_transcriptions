@@ -1,0 +1,204 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>National Archives Kathmandu, 5/93 (NGMPP A 48-8)</title>
+         </titleStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>National Archives Kathmandu</orgName>
+                  </repository>
+						<idno type="siglum">N<sub>b</sub></idno>
+						<idno>NAK 5/98</idno>
+						<idno>NGMPP A 4808</idno>
+               </msIdentifier>
+               <msContents class="#STM">
+						<summary>A palm-leaf manuscript in Proto Bengali, kept at the National Archives Kathmandu.</summary>
+						<msItem defective="false"><title xml:lang="sa">Hevajratantra</title><textLang mainLang="sa-beng">Sanskrit in Proto Bengali.</textLang><rubric xml:lang="sa"/><incipit xml:lang="sa"/><explicit xml:lang="sa"/><finalRubric xml:lang="sa"/><colophon xml:lang="sa"/></msItem></msContents>
+               <physDesc>
+                  <objectDesc form="pathi">
+                     <supportDesc material="palm leaf">
+                        <extent>
+                           <measure unit="folio" quantity="28"/>
+                        </extent>
+                     <foliation type="original"/></supportDesc>
+                     <layoutDesc>
+                        
+                     <layout writtenLines="5">5 lines, two columns.</layout></layoutDesc>
+                  </objectDesc>
+						<handDesc><handNote scope="sole" script="beng" medium="ink"/></handDesc>
+                  <additions/>
+                  <bindingDesc>
+                     <binding><p>String</p></binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+               </history>
+               <additional>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>    
+			<p>IAST transliteration.</p>
+		</encodingDesc>
+      
+   <revisionDesc> 
+		<change when="2022-10">First version.</change>
+	</revisionDesc>
+</teiHeader>
+    <text xml:lang="sa-Latn">
+        <body>
+
+<div n="1" type="kalpa">
+<!--End of paṭala 1.1-->
+
+
+<!--End of paṭala 1.2-->
+
+<!--End paṭala 1.3-->
+
+<!--End of paṭala 1.4-->
+
+<div n="5" type="paṭala">
+<p xml:id="HT1.5.1">
+	atha tatvapaṭalaṃ vyākhyāsyāmaḥ |
+
+	<lg>
+		<l>svarūpeṇa nāsti rūpan na draṣṭā na ca śabdo nāpi śrotā ca |</l>
+		<l>na gandho nāpi ghrātā <lb n="7"/>ca na raso nāpi rāsakaḥ |</l>
+		<l>na sparśo nāpi spraṣṭā ca na cittaṃ nāpi caittikaṃ |</l>
+	</lg>
+</p>
+
+<lg xml:id="HT1.5.2">
+	<l>jananīṃ bhaginīñ caiva pūjayed yogavit sadā |</l>
+	<l>naṭīṃ rajakīṃ tathā vajrīṃ caṇḍālīṃ brāhmaṇīn tathā ||</l>
+	<l>prajñopāyavidhānena pūjayet tatva<pb n="5v"/>vatsalaḥ ||</l>
+</lg>
+
+<lg xml:id="HT1.5.3">
+	<l>sevitavyāḥ prayatnena yathā bhedo na jāyate |</l>
+	<l>agupte kriyate duḥkhaṃ vyāḍacaurāgnibhūcaraiḥ |</l>
+</lg>
+
+<lg xml:id="HT1.5.4">
+	<l>mudrā pañcakulānīti kathyate mokṣahetunā</l>
+	<l>vajreṇa mudryate 'neneti mudrā tenābhidhīyate ||</l>
+</lg>
+
+<lg xml:id="HT1.5.5">
+	<l><lb n="2"/>vajraṃ padman tathā karmma tathāgata ratnam eva ca |</l>
+	<l>kulāni pañcavidhāny āhur uttamāni mahākṛpa |</l>
+</lg>
+
+<lg xml:id="HT1.5.6">
+	<l>vajraṃ ḍombī bhaven mudrā padmaṃ narttī tathaiva ca |</l>
+	<l>karmma rajakī samākhyātā | brāhmaṇī ca tathāgatā |</l>
+</lg>
+
+<lg xml:id="HT1.5.7">
+	<l>ratna caṇḍālinī jñe<lb n="3"/>yā pañcamudrā viniścitāḥ ||</l>
+	<l>tathāgatānāṃ kulañ caiva saṃkṣepe<cb/>ṇābhidhīyate |</l>
+</lg>
+
+<lg xml:id="HT1.5.8">
+	<l>tathatāyāṃ gataḥ śrīmān ā<add rend="over writing">gataś ca</add> tathaiva ca |</l>
+	<l>anayā prajñayā yuktyā tathāgato 'bhidhīyate ||</l>
+</lg>
+
+<lg xml:id="HT1.5.9">
+	<l>kulāni <lb n="4"/>ṣaḍvidhāny āhuḥ saṃkṣeṇa tu pañcadhā |</l>
+	<l>paścāt trividhaṃ yānti kāyavā<cb/>kcittabhedanaiḥ ||</l>
+</lg>
+
+<lg xml:id="HT1.5.10">
+	<l>kulānāṃ pañcabhūtānāṃ pañcaskandhasvarūpiṇāṃ |</l>
+	<l>kulyate gaṇyate 'neneti kulam ity abhidhīyate ||</l>
+</lg>
+
+<lg xml:id="HT1.5.11">
+	<l>nāsti <lb n="5"/><gap quantity="3" unit="akṣara" maybehad="bhāvako" reason="damage"/> na bhāvyo sti mantran nāsti na devatā |</l>
+	<l>tiṣṭhettau mantradevau <cb/>ca niṣprapañcasvabhāv<del rend="rubbed out">ā</del>ataḥ ||</l>
+</lg>
+
+<lg xml:id="HT1.5.12">
+	<l>vairocanākṣobhyāmoghāś ca ratnārolikasātvikaḥ |</l>
+	<l>brahmā viṣṇuḥ śivaḥ sarvvo vibuddhas ta<lb n="6"/><gap reason="damage" maybehad="tvam ucyate |"/></l>
+</lg>
+
+<lg xml:id="HT1.5.13">
+	<l><gap reason="damage" maybehad="brahmā"/>nivṛttito buddhaḥ vi<add>śanād vi</add>ṣṇur ucyate |</l>
+	<l>śivaḥ sadā sukalyāṇāt<del rend="cancelled">ḥ</del> sarvvaḥ sarvvātmani sthitaḥ ||</l>
+</lg>
+
+<lg xml:id="HT1.5.14">
+	<l>satsukhatvena tatvañ ca vibuddho bodhanād rateḥ |</l>
+	<l>dehe sambhavatīty asmād devateti ni<lb n="7"/><gap reason="damage" maybehad="gadyate |"/></l>
+</lg>
+
+<lg xml:id="HT1.5.15">
+	<l><gap reason="damage" maybehad="bhago 'syāstīti buddhasya"/> <unclear reason="bottom damaged">bhagav</unclear>ānn iti kathyate |</l>
+	<l>bhagāniti ṣaḍvidhāny āhuḥ aiśvaryādiguṇākhilāḥ ||</l>
+	<l>athavā kleśādimārāṇām bhañjanād bhagavān iti kathyate <add position="below line">|</add></l>
+</lg>
+
+<lg xml:id="HT1.5.16">
+	<l>jananī bhaṇyate prajñā ja<pb n="6r"/><gap reason="damage" maybehad="nayati yasmāj jagajjanam |"/></l>
+	<l><gap reason="damage" maybehad="bhaginīti ta"/><unclear reason="top damaged">th</unclear>ā prajñā vibhāgan darśayed yataḥ |</l>
+</lg>
+
+<lg xml:id="HT1.5.17">
+	<l>rajakī ca duhitā ca narttakīti ca kathyate |</l>
+	<l>rañjanāt sarvvasatvānāṃ rajakīti tathā smṛtā ||</l>
+</lg>
+
+<lg xml:id="HT1.5.18">
+	<l>guṇasya duhanāt prajñā duhitā ca nigadya<gap reason="damage" maybehad="te |"/></l>
+	<l><gap reason="damage" maybehad="nartakī bhaṇyate prajñā"/> <unclear reason="top damaged">cañca</unclear>latvān mahākṛpa ||</l>
+	<l>sparśā bhagavatī yasmād ḍombī tasmāt prakalp<add>y</add>ate |</l>
+</lg>
+
+<lg xml:id="HT1.5.19">
+	<l>jalpanaṃ japam ākhyātam ālikālyoḥ prajalpanāt |</l>
+	<l>maṇḍalaṃ pādalekhaḥ syāt | malanān maṇḍala<lb n="3"/><gap reason="damage" maybehad="m ucyate |"/></l>
+</lg>
+
+<lg xml:id="HT1.5.20">
+	<l><gap reason="damage" maybehad="karasphoṭo"/> bhaven mudrā aṅgulyāmoṭanaṃ tathā ||</l>
+	<l>tad dh<add>y</add>eya<cb/>ñ cintitaṃ yac ca dh<add>y</add>eyaṃ yasmād vicintanaṃ |</l>
+</lg>
+
+<lg xml:id="HT1.5.21">
+	<l>pitari prāptaṃ yat saukhyaṃ tat sukhaṃ bhujyate svayaṃ |</l>
+	<l>maraṇaṃ yena sukheneha tat sukhaṃ dhyānam u<lb n="4"/>cyate ||</l>
+</lg>
+
+<p xml:id="HT1.5.col">
+	tatvapaṭalaḥ pañcamaḥ || <space quantity="2" unit="akṣara"/> ||
+</p>
+</div> <!-- end paṭala 1.5 -->
+
+
+<!--End of paṭala 1.6-->
+
+
+<!--End of paṭala 1.7-->
+
+
+<!--End of paṭala 1.8-->
+
+<!--End of paṭala 1.9-->
+
+<!--End of paṭala 1.10-->
+
+<!--End of paṭala 1.11-->
+</div> <!--End of kalpa 1-->
+
+<!--End of kalpa 2-->
+        </body>
+    </text>
+</TEI>

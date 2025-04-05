@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+	<titleStmt>
+		<title>Cambridge University Library, MS Add.1697.2</title>
+		</titleStmt>
+		<sourceDesc>
+			<msDesc>
+				<msIdentifier>
+					<repository>
+						<orgName>Cambridge University Library</orgName>
+					</repository>
+					<idno type="siglum">C</idno>
+					<idno>MS Add.1697.2</idno>
+				</msIdentifier>
+				<msContents class="#STM">
+					<summary>A palm-leaf manuscript in Bengali, kept at the Cambridge University Library.</summary>
+				<msItem defective="false"><title xml:lang="sa">Hevajratantra</title><textLang mainLang="sa-Newa">Sanskrit in Bengali.</textLang><rubric xml:lang="sa"/><incipit xml:lang="sa"/><explicit xml:lang="sa"/><finalRubric xml:lang="sa"/><colophon xml:lang="sa"/></msItem></msContents>
+				<physDesc>
+					<objectDesc form="pothi">
+						<supportDesc material="paper">
+							<extent>
+								<measure unit="folio" quantity="132"/>
+								<dimensions type="leaf" unit="mm">
+									<width quantity="280"/>
+									<height quantity="50"/>
+								</dimensions>
+							</extent>
+						<foliation type="original"/></supportDesc>
+						<layoutDesc>
+							
+						<layout writtenLines="5">6-8 lines per page. String single string hole that breaks two to three lines.</layout></layoutDesc>
+					</objectDesc>
+					<handDesc><handNote scope="sole" script="bengali" medium="ink"/></handDesc>
+					<additions/>
+                  <bindingDesc>
+                     <binding><p>String</p></binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <acquisition>Donated by Wright, Daniel</acquisition>
+               </history>
+               <additional>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>    
+			<p>IAST transliteration.</p>
+		</encodingDesc>
+      
+   <revisionDesc>       
+		<change when="2022-10">First version.</change>
+	</revisionDesc>
+</teiHeader>
+    <text xml:lang="sa-Latn">
+        <body>
+
+<div n="1" type="kalpa">
+<!--End of paṭala 1.1-->
+
+
+<!--End of paṭala 1.2-->
+
+<!--End paṭala 1.3-->
+
+<!--End of paṭala 1.4-->
+
+<!--End of paṭala 1.5-->
+
+
+<!--End of paṭala 1.6-->
+
+
+<!--End of paṭala 1.7-->
+
+
+<!--End of paṭala 1.8-->
+
+<!--End of paṭala 1.9-->
+
+<!--End of paṭala 1.10-->
+
+<div n="11" type="paṭala">
+<lg xml:id="HT1.11.1">
+	<l>samā krūrā lalāṭī ca pātanā kathi<del rend="cancelled">tha</del>tā sadā |</l>
+	<l><lb n="3"/>vaśyā vāmāśṛtā dṛṣṭiḥ puttalī dvau ca vāmataḥ |</l>
+</lg>
+
+<lg xml:id="HT1.11.2">
+	<l>ākṛṣṭi dakṣiṇe bhāge dvau ca urdve niyojayet |</l>
+	<l>madhyamā stambhanā dṛṣṭi dvau ca <add rend="over writing">nā</add>sā<add rend="over writing">jaḍā</add>ntare |</l>
+</lg>
+
+<lg xml:id="HT1.11.3">
+	<l>pātanā recakenaiva kumbhakena <add rend="over writing">va</add><lb n="4"/>sīkaret |</l>
+	<l>pūrake<del rend="cancelled" quantity="1" unit="akṣara"/>na tu cākṛṣṭiḥ stambhanā sāntikena tu |<cb/></l>
+</lg>
+
+<lg xml:id="HT1.11.4">
+	<l>pātanā snigdhavṛkṣeṣu | stambhanā sacale tṛṇe | vaśyā puṣpe prakīrttitāḥ |</l>
+	<l>ākṛṣṭi vajravṛkṣeṣu</l>
+</lg>
+
+<lg xml:id="HT1.11.5">
+	<l><lb n="5"/>ṣaṇmāsābhyāsayogena si<add rend="over writing">dhya</add>te nātra saṃśayaḥ |</l>
+	<l>bhrāntir atra na <cb/>karttavyā | acintā bu<add rend="over writing">ddhaṛ</add><del rend="cancelled">ti</del>ddhayaḥ |</l>
+</lg>
+
+<lg xml:id="HT1.11.6">
+	<l>sādhayitvā caturddṛṣṭiṃ satvān avatārayed budhaḥ |</l>
+	<l>māraṇaṃ nā<lb n="6"/>tra kāryaṃ syāt samayabheda paraṃ bhavet |</l>
+</lg>
+
+<lg xml:id="HT1.11.7">
+	<l>sarvvākāryan tu karttavyaṃ | hitvā satvasya vañcanaṃ |</l>
+	<l>satvāpakāramātreṇa mudrāsiddhir nna labhyate |</l>
+</lg>
+
+<lg xml:id="HT1.11.8">
+	<l>samaya<del rend="cancelled">e</del>ṃ ca bhakṣayet tatra</l>
+	<l>nādiṃ <lb n="7"/>gādiṃ tathā <add rend="over writing">hā</add>diṃ | antaśvam ādiśvañ ca vā |</l>
+</lg>
+
+<lg xml:id="HT1.11.9">
+	<l>pañcāmṛtaṃ tathā bhakṣaṃ | hevajre siddhihetunā |</l>
+	<l>saptāvarttaṃ tato lakṣeta hevajroktais tu lakṣaṇaiḥ</l>
+</lg>
+
+<lg xml:id="HT1.11.10">
+	<l>saptāvarttair bha<pb n="15v"/>vet siddhiḥ | viramānandadūṣakī |</l>
+	<l>susvaraṃ cakṣuṣmāṇaṃ | gandhakāyaṃ mahāvapuḥ |</l>
+</lg>
+
+<lg xml:id="HT1.11.11">
+	<l>saptacchāyā bhavet tasya dṛṣṭvā yogī hi lakṣayet |</l>
+	<l>tasya prāsitamātreṇa khecaro bhavati tatkṣaṇāt |</l>
+</lg>
+
+<lg xml:id="HT1.11.12">
+	<l>kurukullāsādhanaṃ <lb n="2"/>vakṣe sarvvasatvava<add rend="over writing">śā</add><del rend="crossed out">sāna</del>ya tu |</l>
+	<l>saṃkṣiptaṃ pūrvvam uddiṣṭaṃ vistare<add position="below line">ṇa</add> kalpadvādaśaiḥ</l>
+</lg>
+
+<lg xml:id="HT1.11.13">
+	<l>hrīḥkārasambhavā devī raktavarṇṇā caturbhujā |</l>
+	<l>iṣukārmmukahastā tu utpalāṅkuśadhāriṇī |</l>
+</lg>
+
+<lg xml:id="HT1.11.14">
+	<l>asyā bhāvanamātreṇa <lb n="3"/>trailokyaṃ vasam ānayet |</l>
+	<l>lakṣam ekena rājānaṃ prajālokāyutena tu |</l>
+</lg>
+
+<lg xml:id="HT1.11.15">
+	<l>paśu<cb/>pakṣyādayaḥ koṭyā saptalakṣeṇa cāsurān |</l>
+	<l>lakṣadvayena devāṃś ca | śatenaikena mantriṇaḥ |</l>
+</lg>
+
+<p xml:id="HT1.11.col">
+	vajragarbhābhisambo<lb n="4"/>dhir nnāma kalparājaḥ samāptaḥ || <metamark rend="circle" function="kalpa end"/> ||
+</p>
+</div> <!--End of paṭala 1.11-->
+</div> <!--End of kalpa 1-->
+
+<!--End of kalpa 2-->
+        </body>
+    </text>
+</TEI>

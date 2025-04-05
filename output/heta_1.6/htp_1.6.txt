@@ -1,0 +1,211 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+				<title>Palm-leaf MS of unknown provenance</title>
+         </titleStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName/>
+                  </repository>
+						<idno type="siglum">P</idno>
+               </msIdentifier>
+               <msContents class="#STM">
+						<summary>A palm-leaf manuscript in Nepālākṣara of unknown provenance</summary>
+						<msItem defective="false"><title xml:lang="sa">Hevajratantra</title><textLang mainLang="sa-newa">Sanskrit in Nepālākṣara.</textLang><rubric xml:lang="sa"/><incipit xml:lang="sa"/><explicit xml:lang="sa"/><finalRubric xml:lang="sa"/><colophon xml:lang="sa"/></msItem></msContents>
+               <physDesc>
+                  <objectDesc form="pathi">
+                     <supportDesc material="palm leaf">
+                        <extent>
+                           <measure unit="folio" quantity="45"/>
+                        </extent>
+                     <foliation type="original"/></supportDesc>
+                     <layoutDesc>
+                        
+                     <layout writtenLines="7">7 lines, two columns.</layout></layoutDesc>
+                  </objectDesc>
+						<handDesc><handNote scope="sole" script="newa" medium="ink"/></handDesc>
+                  <additions/>
+                  <bindingDesc>
+                     <binding><p>String</p></binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+               </history>
+               <additional>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>    
+			<p>IAST transliteration.</p>
+		</encodingDesc>
+      
+   <revisionDesc>
+         
+		<change when="2022-10">First version.</change>
+	</revisionDesc>
+</teiHeader>
+    <text xml:lang="sa-Latn">
+        <body>
+
+<div type="kalpa" n="1">
+<!--End of paṭala 1.1-->
+
+
+<!--End of paṭala 1.2-->
+
+<!--End of paṭala 1.3-->
+
+<!--End of paṭala 1.4-->
+
+<!--End of paṭala 1.5-->
+
+
+<div n="6" type="paṭala">
+<lg xml:id="HT1.6.1">
+</lg>
+
+<lg xml:id="HT1.6.2">
+</lg>
+
+<lg xml:id="HT1.6.3">
+</lg>
+
+<lg xml:id="HT1.6.4">
+</lg>
+
+<lg xml:id="HT1.6.5">
+</lg>
+
+<lg xml:id="HT1.6.6">
+</lg>
+
+<lg xml:id="HT1.6.7">
+	<l><pb n="9v"/>ryā karttur yadīṣyate |</l>
+	<l>siddhiṃ gantuṃ yadīcchāsti caryayā <cb/>tv anayā caret |</l>
+</lg>
+
+<lg xml:id="HT1.6.8">
+	<l>cāruvaktrāṃ visālākṣīṃ rūpayauvanamaṇḍitām | svābhi<lb n="2"/>ṣiktāṃ kṛpāvatīm |</l>
+	<l>vajrakanyām imāṃ gṛhya caryā<cb/>ṅ karttun tu budhyate |</l>
+</lg>
+
+<p xml:id="HT1.6.9">
+	vajrakulābhāvāt sveṣṭadevatākulena kri<gap reason="image unreadable" maybehas="yate | atha"/><lb n="3"/>vā ānyakulodbhavāmā bodhibījanikṣepeṇa saṃ<cb/>skṛtām gṛhya |
+</p>
+
+<lg xml:id="HT1.6.10">
+	<l>yadi gīta gīyate ānandāt tarhi vajrānvitaṃ paraṃ |</l>
+	<l>yady āna<lb n="4"/>nde samutpanne <gap reason="image unreadable" maybehas="nṛtyate mokṣahetunā |"/></l>
+	<l>tarhi vajrapadai<cb/>r nnāṭṭaṃ kurute yogī samāhitaḥ |</l>
+</lg>
+
+<lg xml:id="HT1.6.11">
+	<l>akṣobhya cakrirūpeṇāmitābhaḥ ku<lb n="5"/>ṇḍalātmakaḥ |</l>
+	<l>ratneśaḥ kaṇṭhamālāyāṃ haste vairoca<cb/>naḥ smṛtaḥ |</l>
+</lg>
+
+<lg xml:id="HT1.6.12">
+	<l>mekhalāyāṃ sthito 'moghaḥ prajñā khaṭvāṅgarūpiṇī |</l>
+	<l>ḍamaru<lb n="6"/>kopāya<gap reason="image unreadable" maybehas="rūpeṇa yogī"/> dveṣaviśuddhitaḥ |</l>
+</lg>
+
+<lg xml:id="HT1.6.13">
+	<l>mantra<cb/>viśuddhyā sthitā gītā narttanā bhāvanā kṛtā |</l>
+	<l>tasmād gītan nāṭyañ ca ku<lb n="7"/>rute <gap reason="image unreadable" maybehas="yogī sadā sadā"/></l>
+</lg>
+
+<lg xml:id="HT1.6.14">
+	<l>bhakṣitavyan tu bhaiṣajyaṃ pāta<cb/>vyaṃ vāri nityatām |</l>
+	<l>jarāmṛtyur nna bādhyeta rakṣābhūtaḥ sadā bhavet ||</l>
+</lg>
+
+<lg xml:id="HT1.6.15">
+	<l><pb n="10r"/>caurya<gap reason="image unreadable" maybehad="keśakṛtā"/> mukuṭī tatra hūṁbhava yojyate |</l>
+	<l>paṃca<cb/>buddhakapālāni dharttavyaṃ yogacaryayā |</l>
+</lg>
+
+<lg xml:id="HT1.6.16">
+	<l>pañcāṃgulakapālakhaṇḍaṃ kṛtvā mu<lb n="2"/>kuṭyāṃ dhriyate sadā |</l>
+	<l>kacaḍorī dviveḍhā ca prajñopā<cb/>yasvabhāvataḥ |</l>
+	<l>bhasma keśāpavitrañ ca yogī bibhartti caryayā |</l>
+</lg>
+
+<lg xml:id="HT1.6.17">
+	<l>jāpaṃ ḍama<lb n="3"/>rukāśabdaṃ prajñā khaṭvāṅgabhāvanā |</l>
+	<l>jāpyaṃ bhāvyaṃ bhaved e<cb/>tad vajrakāpālacaryayā |</l>
+</lg>
+
+<lg xml:id="HT1.6.18">
+	<l>lobhaṃ mohaṃ bhayaṃ krodhaṃ vrīḍāṃ kāryañ ca varjjayet |</l>
+	<l><lb n="4"/>nidrām <gap reason="image unreadable" maybehad="ātmānam utsṛjya"/> caryā kriyate na saṃsayaḥ |</l>
+</lg>
+
+<lg xml:id="HT1.6.19">
+	<l>śa<cb/>rīraṃ dānaṃ datvā paścāc caryāṃ samārabhet |</l>
+	<l>bhāgābhāgavicāreṇa tasmād dānaṃ <lb n="5"/>na dīyate |</l>
+</lg>
+
+<lg xml:id="HT1.6.20">
+	<l>bhakṣyabhojyan tathā pānaṃ yathāprāptan tu bhakṣya<cb/>yet |</l>
+	<l>graham atra na karttavyam iṣṭāmiṣṭamvikalpataḥ |</l>
+</lg>
+
+<lg xml:id="HT1.6.21">
+	<l>bhakṣābhakṣavicāra<lb n="6"/><unclear>ñ ca</unclear> peyāpeya<unclear>n tathaiv</unclear>a ca |</l>
+	<l>gamyāgamyaṃ tathā mantrī vi<cb/>kalpaṃ naiva kārayet |</l>
+</lg>
+
+<lg xml:id="HT1.6.22">
+	<l>siddhālabdho pi yaḥ śiṣyaḥ samyakjñānāvabhāsa<lb n="7"/>kaḥ |</l>
+	<l>abhivandayati guru siddhaḥ | avīcyās tyājya<cb/>hetunā |</l>
+</lg>
+
+<lg xml:id="HT1.6.23">
+	<l>śikṣādīkṣāvinirmuktaḥ lajjākāryan tathaiva ca |</l>
+	<l>sarvabhāvasvabhā<pb n="10r"/>vena vicared yogī mahākṛpa |</l>
+</lg>
+
+<lg xml:id="HT1.6.24">
+	<l>homayāgatapo'<cb/>tītaḥ mantradhyānavivarjjitaḥ |</l>
+	<l>samayasamvaravinirmmuktaḥ caryāṃ kurute <lb n="2"/>sayogavān ||</l>
+</lg>
+
+<lg xml:id="HT1.6.25">
+	<l>śakratulyo pi yo daityaḥ purato <cb/>bhavati niścitaḥ |</l>
+	<l>bhayan tatra na kurvīta siṃharūpeṇa paryaṭet |</l>
+</lg>
+
+<lg xml:id="HT1.6.26">
+	<l>karuṇā <lb n="3"/>pīyate nityaṃ sarvasatvārthahetunā |</l>
+	<l>yogapānarato <cb/>yogī nānyapānena majjanam ||</l>
+</lg>
+
+
+<p xml:id="HT1.6.col">
+	caryāpaṭalaḥ ṣaṣṭḥaḥ || <space quantity="6" unit="akṣara"/> ||
+</p>
+</div> <!--End of paṭala 1.6-->
+
+
+<!--End of paṭala 1.7-->
+
+
+<!--End of paṭala 1.8-->
+
+<!--End of paṭala 1.9-->
+
+<!--End of paṭala 1.10-->
+
+<!--End of paṭala 1.11-->
+</div> <!--End of kalpa 1-->
+
+
+<!--End of kalpa 2-->
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,949 @@
+@font-face {
+    font-family: 'Brill';
+    src: local('Brill'),
+          url('fonts/Brill-Roman.woff');
+}
+
+@font-face {
+    font-family: 'PedanticDevanagari';
+    src: local('PedanticDevanagariLight'),
+         url('fonts/PedanticDevanagariLight.woff');
+    unicode-range: ~"U+200D, U+0900-097F, U+A8E0-A8FB, U+1CD0-1CF6, U+2E24";
+}
+
+@font-face {
+    font-family: 'PedanticDevanagari';
+    src: local('PedanticDevanagariBold'),
+         url('fonts/PedanticDevanagariBold.woff');
+    unicode-range: ~"U+200D, U+0900-097F, U+A8E0-A8FB, U+1CD0-1CF6, U+2E24";
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'PedanticMalayalam';
+    src: url('fonts/PedanticMalayalam.woff');
+    unicode-range: ~"U+200D, U+0D00-0D7F, U+25CC";
+}
+
+@font-face {
+    font-family: 'PedanticMalayalam';
+    src: url('fonts/PedanticMalayalamBold.woff');
+    unicode-range: ~"U+200D, U+0D00-0D7F, U+25CC";
+    font-weight: bold;
+}
+/*
+@font-face {
+    font-family: 'Rachana';
+            src: local('Rachana Bold'),
+                 url('fonts/Rachana-Bold.ttf');
+            unicode-range: U+0D00-U+0D7F;
+            font-weight: bold;
+}
+*/
+@font-face {
+    font-family: 'PedanticTelugu';
+    src: url('fonts/PedanticTelugu.woff');
+    unicode-range: ~"U+200D, U+0C00-0C7F";
+}
+
+@font-face {
+    font-family: 'PedanticTelugu';
+    src: url('fonts/PedanticTeluguBold.woff');
+    unicode-range: ~"U+200D, U+0C00-0C7F";
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'Tantular Bali';
+    src: url('fonts/TantularBali.ttf');
+    unicode-range: ~"U+200D, U+1B00-1B7F";
+}
+
+@font-face {
+    font-family: 'Noto Sans Newa';
+    src: url('fonts/NotoSansNewa-Regular-custom.otf');
+    unicode-range: ~"U+200D, U+11400-1147F";
+}
+
+@font-face {
+    font-family: 'Satisar Sharada';
+    src: url('fonts/Sharada.ttf');
+    unicode-range: ~"U+200D, U+11180-111DF";
+}
+
+@font-face {
+    font-family: 'Bangla';
+    src: url('fonts/Bangla-custom.woff');
+    unicode-range: ~"U+200D, U+0980-09FF";
+}
+
+.aalt {
+    font-feature-settings: "aalt" 1;
+}
+
+.cv00 {
+    font-feature-settings: "cv00" 1;
+}
+
+.cv01 {
+    font-feature-settings: "cv01" 1;
+}
+
+.cv02 {
+    font-feature-settings: "cv02" 1;
+}
+
+.trad {
+    font-feature-settings: "trad" 1;
+}
+
+/*
+@font-face {
+    font-family: Roboto;
+    src: url(fonts/Roboto-Light.ttf);
+}
+
+@font-face {
+    font-family: MurtySanskrit;
+    src: url(fonts/Murty-Sanskrit.otf);
+}
+*/
+/*@font-face {
+    font-family: NagariShree;
+    src: url(fonts/NagariShree.ttf);
+}
+
+@font-face {
+    font-family: Surekh;
+    src: url(fonts/Surekh.ttf);
+}
+
+@font-face {
+    font-family: IndUni;
+    src: url(fonts/IndUni-H-Regular.otf);
+}
+*/
+
+.lazyhide {
+    display: none;
+}
+
+body {line-height: 1;}
+
+div.para {width:100%;
+          text-align: justify;
+          padding: 1% 0 2% 0;
+}
+
+div.milestone {width: 100%;
+              margin-bottom: 10px;  
+}
+
+span.milestone {
+    padding-right: 1em;
+}
+
+div.devanagari, div.newa {font-size: 1.1em !important;
+              line-height: 150%;
+}
+
+span.devanagari, span.newa {font-size: 1em !important;
+}
+
+p.devanagari, p.newa {font-size: 1.2em !important;
+}
+
+div.malayalam {font-size: 1.2em !important;
+}
+span.malayalam {font-size: 1.1em !important;
+}
+p.malayalam {font-size: 1.3em !important;
+}
+
+div.telugu {font-size: 1.2em !important;
+          line-height: 150%;
+          word-spacing: 103%;
+}
+span.telugu {font-size: 1.1em !important;
+             line-height: 120%;
+}
+p.telugu {font-size: 1.3em !important;
+}
+
+div.bengali {
+    font-size: 1.3em !important;
+    line-height: 150%;
+}
+span.bengali {
+    font-size: 1.2em !important;
+    line-height: 120%;
+}
+
+p.bengali {
+    font-size: 1.3em !important;
+}
+
+.balinese {font-size: 1.1em !important;
+           line-height: 200%;
+}
+
+span.spacer {display: none;
+             white-space: pre-wrap; /* when the highlight function splits a spacer node, sometimes the whitespace gets collapsed */
+}
+
+:lang(sa) {
+    font-family: Brill, PedanticDevanagari, PedanticMalayalam, PedanticTelugu, Bangla, 'Noto Sans Newa', 'Satisar Sharada', 'Tantular Bali', serif;
+}
+
+p:lang(sa) {
+    font-size: 1.1em;    
+}
+
+div.maintext {
+            /*width:63%; */
+            /*font-family: Brill, MurtySanskrit, sans-serif; */
+            border: 0;
+            padding: 0 4% 0 0;
+            vertical-align:top;
+            font-size: 1.1em;
+            line-height:135%;
+            top: 2em;
+            position: -webkit-sticky;
+            position: sticky;
+            /*flex: 0 1 800px; */
+            max-width: 800px;
+}
+
+.maintext.stream1 {
+    padding-left: 0.5rem;
+}
+.stream1:before {
+    content: '';
+    display: block;
+    position: absolute;
+    left: 0;
+    width: 0.2rem;
+    height: 100%;
+    background: lightgray;
+}
+
+.maintext.stream2 {
+    padding-left: 1rem;
+}
+.stream2:before {
+    content: '';
+    display: block;
+    position: absolute;
+    left: 0;
+    width: 0.7rem;
+    height: 100%;
+    background: linear-gradient(to left, lightgray 0, lightgray 20%, white 20%, white 80%, lightgray 80%, lightgray 100%);
+}
+
+.maintext.stream3 {
+    padding-left: 1.2rem;
+}
+.stream3:before {
+    content: '';
+    display: block;
+    position: absolute;
+    left: 0;
+    width: 1rem;
+    height: 100%;
+    background: linear-gradient(to left, lightgray 0, lightgray 10%, white 10%, white 45%, lightgray 45%, lightgray 55%, white 55%, white 90%, lightgray 90%, lightgray 100%);
+}
+
+div.apparatus {
+             border: 0;
+             width: 30%;
+             flex: 0 0.5 auto;
+             line-height: 1.1rem;
+             padding: 0;
+             font-family: Brill, PedanticDevanagari, PedanticMalayalam, PedanticTelugu, Bangla, 'Noto Sans Newa', 'Satisar Sharada', 'Tantular Bali', sans-serif;
+             text-align: left;
+             vertical-align:top;
+             font-size: 1em;
+             white-space: normal;
+             top: 2em;
+             position: -webkit-sticky;
+             position: sticky;
+}
+
+span.embedded.lemma {
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    text-decoration-color: rgb(166,162,190);
+    /*cursor: default;*/
+}
+
+.varcontainer span.lemma::after {
+    content: ']';
+}
+
+span.lemma:hover {
+    background-color: rgba(255,250,0,0.5);
+}
+
+span.embedded.rdg {
+    /*margin-left: 0.5em;*/
+    display: none;
+}
+
+.varcontainer span.rdg {
+    margin-left: 0.5em;
+}
+
+.rdg .embedded.msid {
+    margin-left: 0.2em;
+}
+
+span.embedded.varcontainer {
+    font-size: 0.8em;
+    padding-right: 0.2em;
+    background: rgb(166,162,190);
+}
+
+div.variorum {
+    width: 100%;
+}
+
+.verse, .mangala { 
+    width: 100%;
+    padding: 1em 0 0.5em 0;
+}
+
+.verse > .maintext {
+    font-size: 1.3em;
+}
+
+.mangala > .maintext {
+     font-size: 1.2em;
+}
+
+.verse .devanagari, .verse .newa {
+    line-height: 1.4em;
+}
+
+.verse .malayalam {
+    line-height: 1.3em;
+}
+
+div.quotedverse {
+    padding: 2% 0 2% 2%;
+    vertical-align:top;
+    /*background-color: inherit; */
+}
+
+/*.apparatus2-item*/ span.quote::before {
+    content: '“';
+}
+
+/*.apparatus2-item*/ span.quote::after {
+    content: '”';
+}
+
+.apparatus2-item span.quote span.verse-in-quote {
+    display: block;
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
+}
+.apparatus2-item span.quote span.verse-in-quote span.verseline {
+    display: block;
+    margin-left: 1em;
+}
+
+div.verseline {
+}
+
+div.versebottompadding {padding-bottom: 1em;
+                       border:0;
+}
+
+.msid, .msid:link, .msid:visited {
+    font-variant: small-caps;
+    color: #000000;
+    font-family: sans-serif;
+    font-size: 0.7rem;
+    white-space: nowrap;
+}
+
+.msid.exclude {
+    text-decoration: line-through;
+    text-decoration-color: red;
+}
+
+.msgroupname {
+    font-weight: bold;
+}
+
+.msdetail {
+    display: none;
+    margin-left: 0.2em;
+    white-space: break-spaces;
+}
+
+/*
+a.msid:link, a.msid:visited {font-variant: small-caps;
+          color: #000000;
+          font-family: sans-serif;
+          font-size: 0.7em;
+}
+*/
+
+a.mshover:link, a.mshover:visited {text-decoration: underline;
+              text-decoration-style: dotted;
+              -webkit-text-decoration-style: dotted;
+              text-decoration-color: #990000;
+}
+a.mshover:hover {text-decoration-style: solid;
+                -webkit-text-decoration-style: solid;
+}
+
+span.varreading {background-color: #F0F0FF;
+}
+
+div.section {width:100%;
+               border:0;
+           /*    clear: both;
+               margin-left: 0.5em;
+               margin-right: auto; */
+}
+
+span.unclear {font-style: italic;
+}
+
+span.lb {color:#FF9900;
+        letter-spacing:-0.15em;
+        font-size:130%;
+        line-height:0.76;
+        font-family: serif;
+        font-weight:normal;
+        vertical-align: -0.1em;
+        cursor: default;
+        white-space: nowrap;
+}
+
+.devanagari span.lb, .newa span.lb {
+        font-size: 100%;
+}
+.malayalam span.lb {
+        font-size: 100%;
+}
+
+.pb {color:#FF9900;
+        letter-spacing:-0.3em;
+        font-size:130%;
+        line-height:0.76;
+        font-weight:normal;
+        font-family: sans-serif;
+        text-decoration: none;
+        vertical-align:bottom;
+        white-space: nowrap;
+}
+.devanagari .pb, .newa .pb {
+                     font-size: 100%;
+                     vertical-align: text-bottom;
+}
+
+.malayalam .pb {
+                     font-size: 100%;
+                     vertical-align: text-bottom;
+}
+
+span.pb {
+         cursor: default;
+}
+
+a.pb:link, a.pb:visited {
+      color: #FF9900;
+      text-decoration: none;
+
+}
+
+a.pb:hover {
+      color: #2B73B7;
+      text-decoration: none !important;
+}
+
+.cb {color:#FF9900;
+        letter-spacing:-0.1em;
+        font-size:85%;
+        line-height:1;
+        font-weight:normal;
+        font-family: sans-serif;
+        text-decoration: none;
+        vertical-align:bottom;
+        white-space: nowrap;
+        cursor: default;
+}
+
+span.gap, span.damage {background-color: rgba(132,132,10,0.3);
+          font-size: 85%;
+          color: rgb(84,84,84);
+         /*color: #CCCCB2; */
+}
+
+span.space {background-color: rgba(132,132,10,0.3);
+            font-size: 85%;
+/*            word-break: break-all; */
+            color: rgb(84,84,84);
+           /* color: #FFFFCC; */
+}
+
+span.editor {font-size: 0.8rem;
+             font-variant: small-caps;
+}
+/*
+.devanagari span.editor {font-size: 70%;
+}
+.malayalam span.editor {font-size: 70%;
+}
+*/
+span.note {font-size:80%;
+          margin-left: 0.5em;
+}
+
+span.label::before {
+    content: '[';
+}
+span.label::after {
+    content: ']';
+}
+span.label {
+    margin-right: 0.2em;
+}
+
+span.inline {margin-left: 0.5em;
+}
+
+span.super {vertical-align: super;
+            margin-left: 0.2em;
+            margin-right: 0.2em;
+            line-height: normal;
+}
+
+span.sub {vertical-align: -20%;
+          margin-left: 0.2em;
+          margin-right: 0.2em;
+          line-height: normal;
+}
+
+span.varcontainer {padding-right: 1em;
+                  /*white-space: nowrap;*/
+                  word-wrap: normal;
+}
+
+span.varbracket {color: #9933FF;
+                 font-size: 1.5em;
+                 font-family: monospace;
+                 line-height: 100%;
+/*                 font-weight: bold; */
+}
+
+.bracketopen::before {
+    content: '❲';
+    color: #9933FF;
+    font-size: 1.5em;
+    font-family: monospace;
+    line-height: 100%;
+    padding-right: 0.5em;
+}
+.bracketclose::after {
+    content: '❳';
+    color: #9933FF;
+    font-size: 1.5em;
+    font-family: monospace;
+    line-height: 100%;
+    padding-left: 0.5em;
+}
+
+span.variant {white-space: normal;
+}
+
+
+span.variant:hover {background-color: rgba(255,250,0,0.5);
+}
+
+span.permahighlight {background-color: rgba(255,250,0,0.5);
+}
+
+span.highlight {background-color: rgba(255,250,0,0.5);
+}
+
+.lowlight { /* background-color: rgb(179,209,255); */
+               background-color: rgba(255,250,0,0.5);
+}
+.anchor.lowlight {
+                    background-color: transparent;
+                    color: #FF9900;
+}
+span.reading {display: none;
+}
+
+span.sidebar-siglum {font-variant: small-caps;
+}
+
+ins.add {
+        /*border: 1px dashed grey; */
+        text-decoration: none;
+        color: #CC0000;
+}
+
+ins.corr {
+         /* border:1px dashed #0099FF; */
+         text-decoration: none;
+         color: #0000CC;
+}
+
+del {color: grey;
+     text-decoration-color: #CC0000;
+}
+
+del.orig {color: grey;
+    text-decoration-color: #0000CC;
+}
+
+del.orig-underline {color: grey;
+    text-decoration-color: #0000CC;
+    text-decoration: underline;
+}
+
+span.sic {
+    /* background-color: yellow; */
+    display: inline;
+    position: relative;
+    background-image: url(squiggle.png);
+    background-position: bottom 0.1em right 0;
+    background-repeat: repeat-x;
+}
+
+span.choice span.seg:first-child::before {
+    content: '<';
+    color: #0000CC;
+}
+
+span.choice span.seg:not(:first-child)::before {
+    content: '/<';
+    color: #0000CC;
+}
+
+span.choice span.seg::after {
+    content: '>';
+    color: #0000CC;
+}
+
+span.surplus {
+    display: inline;
+    position: relative;
+    background-image: url(squiggle-blue.png);
+    background-position: bottom 0.1em right 0;
+    background-repeat: repeat-x;
+}
+
+span.hi {font-weight: bold;
+}
+
+span.foreign {
+    font-style: italic;
+}
+
+span.glyph {
+    display: inline;
+    position: relative;
+    background-image: url(squiggle-blue.png);
+    background-position: bottom 0.1em right 0;
+    background-repeat: repeat-x;
+}
+span.glyph[data-before]::before {
+    content: attr(data-before);
+}
+
+span.pointer {
+    opacity: 0.6;
+}
+
+span.supplied {
+    background-color: rgba(132,132,10,0.2);
+/*   background-color: #E4E7EC; */
+}
+
+span.retrace {
+    font-weight: bold;
+}
+
+span.metamark, span.num {
+     color: #0000CC;
+}
+
+span.pc {
+    display: none;
+}
+
+.variant span.pc {
+    display: inline;
+}
+
+.variant span.pc::before {
+    content: '°';
+}
+
+span.locus {
+    font-size: 70%;
+    color: #A85110;
+}
+a.locus:link, a.locus:visited {
+    font-size: 70%;
+    color: #A85110;
+}
+a.locus:hover {
+    color: #0C5083;
+}
+
+span.anchor {
+    color: #0C5083;
+}
+span.anchor:hover {
+    color: #FF9900;
+    cursor: pointer;
+}
+span.anchor.invisible {
+    display: none;
+}
+
+span.expan {
+    text-decoration: none;
+    color: #0000CC;
+}
+
+span.ex::before {
+    content: "[";
+    color: #0000CC;
+    font-size: 0.8em;
+}
+span.ex::after {
+    content: "]";
+    color: #0000CC;
+    font-size: 0.8em;
+}
+
+span.abbr {
+    display: inline;
+    position: relative;
+    background-image: url(squiggle.png);
+    background-position: bottom 0.1em right 0;
+    background-repeat: repeat-x;
+}
+
+div.dokuwiki div.editbutton_plugin_upama {
+    padding: 1.5em 0 1.5em 0;
+    height: 1.5em;
+    display: inline-block;
+}
+
+div.dokuwiki div.editbutton_plugin_upama form div button {
+    color: #2b73b7;
+    background: #fff;
+    font-size: 0.8em;
+}
+
+div.dokuwiki div.editbutton_plugin_upama form div button:hover {
+    background: #ddd;
+}
+
+#__upama_script_selector, #__upama_export {
+    text-align: right;
+    padding: 0.2em;
+    margin: 0;
+    background-color: #fff;
+    color: #2b73b7;
+    border: none;    
+    border-radius: 5px;
+}
+
+#__upama_listWit {
+    display: none;
+}
+
+.thisWitness {
+    font-weight: bold;
+}
+#__upama_positive_apparatus {
+    display: block;
+    position: fixed;
+    background: rgba(17, 17, 17, 0.8);
+    border-radius: 4px;
+    color: #fff;
+    font-style: normal;
+    font-family: sans-serif;
+    text-decoration: none;
+    font-size: 0.7rem;
+    letter-spacing: normal;
+    line-height: normal;
+    vertical-align: center;
+    padding: .5em 1em;
+    margin-bottom: 11px;
+    max-width: 200px;
+    z-index: 3;
+}
+
+#__upama_positive_apparatus del {
+    text-decoration-color: rgb(230,152,174);
+}
+
+#__upama_tooltip {
+    display: block;
+    position: fixed;
+    background: rgba(17, 17, 17, 0.8);
+    border-radius: 4px;
+    color: #fff;
+    font-style: normal;
+    font-family: sans-serif;
+    text-decoration: none;
+    font-size: 0.7rem;
+    letter-spacing: normal;
+    line-height: normal;
+    vertical-align: center;
+    padding: .5em 1em;
+    margin-bottom: 11px;
+    max-width: 200px;
+    z-index: 3;
+}
+
+#__upama_tooltip hr {
+    border: 0;
+    margin-bottom: 3px;
+    margin-top: 3px;
+/*    border-bottom: 1px dashed rgba(200,200,200,1); */
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(255,255,255,0),rgba(255,255,255,0.75),rgba(255,255,255,0));
+
+}
+
+#__upama_blackout {
+    z-index: 10;
+    position: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    left: 0;
+    top: 0;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(50,50,50,0.5);
+}
+
+#__upama_blackout .popup {
+    max-width: 50%;
+    background: white;
+    padding: 10px;
+    font-size: 0.7em;
+}
+
+#__upama_blackout .popup div {
+    padding-bottom: 0.5em;
+}
+
+.nowrap {
+    white-space: nowrap;
+    word-wrap: break-word;
+}
+
+span.varcontainer.wrap {
+    white-space: normal;
+    word-wrap: break-word;
+}
+
+#__upama_ver {
+    display: none;
+}
+
+#__upama_stemma {
+    display: none;
+}
+
+#__upama_stemma_icon {
+    width: 1.2em;
+    height: 1.2em;
+    vertical-align: sub;
+    cursor: pointer;
+}
+
+#__upama_stemma_icon path, #__upama_stemma_icon polygon, #__upama_stemma_icon rect {
+    fill: #b8cbff;
+}
+
+#__upama_stemma_icon circle {
+    stroke: #b8cbff;
+    stroke-width: 1;
+}
+
+#__upama_matrix_icon {
+    width: 1.2em;
+    height: 1.2em;
+    vertical-align: sub;
+    cursor: pointer;
+    margin-left: 0.5em;
+}
+
+#__upama_matrix_icon path {
+    fill: #b8cbff;
+    opacity: 0.8;
+}
+
+#__upama_summary {
+/*    max-width: 700px; */
+    max-width: 100% !important;
+    hyphens: auto;
+}
+
+#__upama_summary :lang(sa) {
+    font-family: inherit;
+}
+
+#__upama_read_more {
+    width: 100%;
+    cursor: pointer;
+    background-color: #EEE;
+    text-align: center;   
+}
+
+#__upama_read_more:hover {
+    background-color: #CCC;
+}
+
+.__upama_msItem {
+    display: none;
+    width: 100%;
+}
+
+.__upama_msItem :lang(sa) {
+    font-family: inherit;
+}
+
+#__upama_physDesc {
+    display: none;
+    width: 100%;
+}
+
+#__upama_physDesc ul {
+    padding-left: 0;
+    margin-bottom: 0;
+}
+
+#__upama_physDesc :lang(sa) {
+    font-family: inherit;
+}
+
+#__upama_history {
+    display: none;
+    width: 100%;
+}
+
+#__upama_history :lang(sa) {
+    font-family: inherit;
+}
+
+.__upama_shadow {
+    box-shadow: 5px 5px 7px 0px rgba(71, 88, 135, 0.80), 15px 20px 22px -7px rgba(148, 149, 150, 0.50);
+
+}
