@@ -22,5 +22,8 @@ sed -n "/\"HT$1\"/, /<\/\(lg\|p\)>/{ /HT$1/! { /<\/\(lg\|p\)>/! p } }" htnb.txt
 echo $'\n'HTP $1
 sed -n "/\"HT$1\"/, /<\/\(lg\|p\)>/{ /HT$1/! { /<\/\(lg\|p\)>/! p } }" htp.txt
 
+echo $'\n'HTB $1
+sed -n "/\"HT$1\"/, /<\/\(lg\|p\)>/{ /HT$1/! { /<\/\(lg\|p\)>/! p } }" htb.txt
+
 echo $'\n'HTK $1
 sed -n "/\"HT$1\"/, /<\/\(lg\|p\)>/{ /HT$1/! { /<\/\(lg\|p\)>/! p } }" htk.txt

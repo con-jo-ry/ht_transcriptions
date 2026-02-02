@@ -239,7 +239,7 @@
 </p>
 
 <p xml:id="HT1.2.4">
-	sarve mantrapadā oṃkārādisvāhāntahūṁphaṭkāravidarbhitāḥ || 4 ||
+	sarve mantrapadā oṁkārādisvāhāntahūṁphaṭkāravidarbhitāḥ || 4 ||
 </p>
 
 <p xml:id="HT1.2.5">
@@ -259,7 +259,7 @@
 </p>
 
 <p xml:id="HT1.2.9">
-	ṣaḍbhujasya—oṃ kiṭikiṭivajra hūṁ hūṁ hūṁ phaṭ svāhā || 9 ||
+	ṣaḍbhujasya—oṁ kiṭikiṭivajra hūṁ hūṁ hūṁ phaṭ svāhā || 9 ||
 </p>
 
 <p xml:id="HT1.2.10">
@@ -311,7 +311,7 @@
 </p>
 
 <p xml:id="HT1.2.22">
-	parasainyavināśāya khaṭikāsādhanaṃ vakṣye | khaṭikāṃ piṣṭvā pañcāmṛtena kuṭhāracchinnayā sārdhaṃ vaṭikāṃ kārayet | mantraṃ oṃ vajrakartari hevajrāya hūṁ hūṁ hūṁ phaṭ siddhyarthaṃ koṭiṃ japet | pūrvasevā lakṣaṃ japet | tāṃ sādhya kamaṇḍalugrīvāṃ veṣṭayet | veṣṭayitvā bhañjayet | sarve śatravaḥ śirohīnā bhavanti | vajrakartarividhiḥ || 22 ||
+	parasainyavināśāya khaṭikāsādhanaṃ vakṣye | khaṭikāṃ piṣṭvā pañcāmṛtena kuṭhāracchinnayā sārdhaṃ vaṭikāṃ kārayet | mantraṃ oṁ vajrakartari hevajrāya hūṁ hūṁ hūṁ phaṭ siddhyarthaṃ koṭiṃ japet | pūrvasevā lakṣaṃ japet | tāṃ sādhya kamaṇḍalugrīvāṃ veṣṭayet | veṣṭayitvā bhañjayet | sarve śatravaḥ śirohīnā bhavanti | vajrakartarividhiḥ || 22 ||
 </p>
 
 <p xml:id="HT1.2.23">
@@ -335,7 +335,7 @@
 </p>
 
 <p xml:id="HT1.2.28">
-	oṃ nagrā nagrā | ity anena mantreṇa vikālavelāyāṃ kumāryā arthasādhanārthaṃ cakṣuṣy aṣṭottaraśatenābhimantrya puṣpādinā pañcopacāreṇa saṃpūjya nimantrayet | caturdaśyām aṣṭamyāṃ vā prabhātakāle kalaśādikaṃ saṃsthāpya tailam alaktakarasaṃ cānenaiva mantreṇāṣṭottaraśatavāram abhimantrayet | paścād abhimantritālaktakarasena mantriṇo vṛddhāṅgusṭhaṃ mrakṣayitvā tailenāpi snāpya kumāryāṃ darśayet—vada kena mama dravyam apahṛtam iti | tatra sā kathayati—amukeneti | vajrajyotiṣaḥ || 28 ||
+	oṁ nagrā nagrā | ity anena mantreṇa vikālavelāyāṃ kumāryā arthasādhanārthaṃ cakṣuṣy aṣṭottaraśatenābhimantrya puṣpādinā pañcopacāreṇa saṃpūjya nimantrayet | caturdaśyām aṣṭamyāṃ vā prabhātakāle kalaśādikaṃ saṃsthāpya tailam alaktakarasaṃ cānenaiva mantreṇāṣṭottaraśatavāram abhimantrayet | paścād abhimantritālaktakarasena mantriṇo vṛddhāṅgusṭhaṃ mrakṣayitvā tailenāpi snāpya kumāryāṃ darśayet—vada kena mama dravyam apahṛtam iti | tatra sā kathayati—amukeneti | vajrajyotiṣaḥ || 28 ||
 </p>
 
 <p xml:id="HT1.2.29">
@@ -456,7 +456,7 @@
 </lg>
 
 <p xml:id="HT1.3.17">
-	caturbhujaś caturmāranirjitaviśuddhitaḥ pūrvoktarūpavarṇahūṁbhavaḥ prathamavāmabhuje narakapālaṃ devāsurānāṃ raktena pūritaṃ prathamadakṣiṇabhuje vajraṃ śeṣadvibhujābhyāṃ prajñāliṅgitam | vajravārāhī prajñā bhagavadrūpiṇī || 17 ||
+	caturbhujaś caturmāranirjitaviśuddhitaḥ pūrvoktarūpavarṇahūṁbhavaḥ prathamavāmabhuje narakapālaṃ raktena pūritaṃ prathamadakṣiṇabhuje vajraṃ śeṣadvibhujābhyāṃ prajñāliṅgitam | vajravārāhī prajñā bhagavadrūpiṇī || 17 ||
 </p>
 
 <p xml:id="HT1.3.18">
@@ -487,6 +487,8 @@
 	abhiṣekapaṭalaś caturthaḥ |
 </p>
 </div> <!--End of paṭala 1.4-->
+
+
 
 <div n="5" type="paṭala">
 <p xml:id="HT1.5.1">
@@ -1463,7 +1465,7 @@
 </lg>
 
 <lg xml:id="HT1.10.28">
-	<l>śuddhaṃ dvipuṭam vilikhyāśu gauryādīnāṃ likhet tataḥ |</l>
+	<l>śuddhaṃ dvipuṭaṃ vilikhyāśu gauryādīnāṃ likhet tataḥ |</l>
 	<l>pūrveṇa likhet kartiṃ dakṣiṇe paścime tathā || 28 ||</l>
 </lg>
 
@@ -3690,7 +3692,7 @@
 </p>
 
 <p xml:id="HT2.9.37">
-	vairocanādi tadanu akāro mukham | ūṣmāṇāṃ tritīyakam | antasthānāṃ caturthakaṃ upari vahnibhūṣitam | dharmāṇāṃ tadanu vajrādeyam dyanutpannatvāt oṃ āḥ hūṃ phaṭ svāhā | sarvabhautikabalimantraḥ || 37 ||
+	vairocanādi tadanu akāro mukham | ūṣmāṇāṃ tritīyakam | antasthānāṃ caturthakaṃ upari vahnibhūṣitam | dharmāṇāṃ tadanu vajrādeyam dyanutpannatvāt oṁ āḥ hūṃ phaṭ svāhā | sarvabhautikabalimantraḥ || 37 ||
 </p>
 
 <p xml:id="HT2.9.col">
@@ -3848,7 +3850,7 @@
 <lg xml:id="HT2.12.6">
 	<l>oṁ vajra mahādveṣa caturānandadāyaka |</l>
 	<l>khagamukhaikaraso nātha hūṃ hūṃ hūṃ kāryaṃ kuruṣva me |</l>
-	<l>śirasi oṃkāraṃ hṛdi hūṃkāraṃ kiñjalke āḥkāram || 6 ||</l>
+	<l>śirasi oṁkāraṃ hṛdi hūṃkāraṃ kiñjalke āḥkāram || 6 ||</l>
 </lg>
 
 <p xml:id="HT2.12.col">

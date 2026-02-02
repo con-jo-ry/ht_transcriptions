@@ -124,7 +124,7 @@ def process_apparatus(html_content):
     soup = BeautifulSoup(html_content, 'html.parser')
     
     # Define sigla and their order
-    SIGLA_ORDER = ['C', 'Na', 'Nb', 'P', 'K', 'EdS', 'EdT']
+    SIGLA_ORDER = ['C', 'Na', 'Nb', 'P', 'B', 'K', 'EdS', 'EdT']
     ALL_SIGLA = set(SIGLA_ORDER)
     
     def sort_sigla(sigla):
@@ -271,6 +271,7 @@ def process_all_files(target_id):
         'htna.txt',
         'htnb.txt',
         'htp.txt',
+        'htb.txt',
         'htk.txt',
         'htes.txt',
         'htet.txt'
