@@ -34,7 +34,7 @@ def remove_empty_divs(root):
             parent.remove(elem)
 
 def process_tei_file(input_file, target_id):
-    """Process TEI XML file to extract specific xml:id and its context"""
+    """Process TEI XML file and remove standOff apparatus sections"""
     try:
         output_file = f"temp.{input_file}"
         
@@ -42,6 +42,15 @@ def process_tei_file(input_file, target_id):
         root = tree.getroot()
         new_root = deepcopy(root)
         
+        # --- ADD THIS SECTION TO REMOVE STANDOFF ELEMENTS ---
+        # This removes the new apparatus blocks that Upama doesn't understand
+        standoff_ns = '{http://www.tei-c.org/ns/1.0}standOff'
+        for standoff in new_root.findall(f'.//{standoff_ns}'):
+            parent = get_parent(new_root, standoff)
+            if parent is not None:
+                parent.remove(standoff)
+        # ----------------------------------------------------
+
         elements_to_remove = []
         for elem in new_root.iter():
             xml_id = elem.get('{http://www.w3.org/XML/1998/namespace}id')
@@ -57,14 +66,7 @@ def process_tei_file(input_file, target_id):
         
         tree = ET.ElementTree(new_root)
         tree.write(output_file, encoding='utf-8', xml_declaration=True)
-        # print(f"Successfully processed {input_file} for ID: {target_id}")
         
-    except ET.ParseError as e:
-        print(f"Error parsing XML file {input_file}: {e}", file=sys.stderr)
-        raise
-    except FileNotFoundError:
-        print(f"Input file {input_file} not found", file=sys.stderr)
-        raise
     except Exception as e:
         print(f"An error occurred processing {input_file}: {e}", file=sys.stderr)
         raise
@@ -266,15 +268,15 @@ def run_collation():
 def process_all_files(target_id):
     """Process all specified input files and run collation"""
     input_files = [
-        'htec.txt',
-        'htc.txt',
-        'htna.txt',
-        'htnb.txt',
-        'htp.txt',
-        'htb.txt',
-        'htk.txt',
-        'htes.txt',
-        'htet.txt'
+        'htec.xml',
+        'htc.xml',
+        'htna.xml',
+        'htnb.xml',
+        'htp.xml',
+        'htb.xml',
+        'htk.xml',
+        'htes.xml',
+        'htet.xml'
     ]
     
     success_count = 0
