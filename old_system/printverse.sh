@@ -1,5 +1,5 @@
 #!/bin/bash
-python collate.py HT$1
+python collate_v2.py HT$1
 
 echo $'\n'HTES $1
 sed -n "/\"HT$1\"/, /<\/\(lg\|p\)>/{ /HT$1/! { /<\/\(lg\|p\)>/! p } }" htes.xml

@@ -1,32 +1,34 @@
 
+Found 'HT1.1.col' in 7 witnesses: C, Na, Nb, B, K, EdS, EdT
 
 Main text:
-evaṃ mayā śrutam | ekasmin samaye bhagavān sarvatathāgatakāyavākcittavajrayoṣidbhageṣu vijahāra || 1 ||
+vajrakulapaṭalaḥ prathamaḥ ||
 
 Apparatus criticus:
-sarvatathāgatakāyavākcittavajrayoṣidbhageṣu] C Na Nb P B K; °ttahṛdayavajrayoṣidbhageṣu EdS EdT
+vajrakulapaṭalaḥ]  ADD iti vajrakulapaṭalaḥ EdT; sarvatathāgatakāyavākcittaheva° EdS EdT; vajrāku° K; °ṭalaṃ C
+prathamaḥ ||] Σ samāptaṃ |||| C
 
-HTES 1.1.1
-	evaṃ mayā śrutam ekasmin samaye bhagavān sarvatathāgatakāyavākcittahṛdayavajrayoṣidbhageṣu vijahāra | (1)
+HTES 1.1.col
+	sarvatathāgatakāyavākcittahevajrakulapaṭalaḥ prathamaḥ |
 
-HTET 1.1.1
-	evaṃ mayā śrutam | ekasmin samaye bhagavān sarvatathāgatakāyavākcittahṛdayavajrayoṣidbhageṣu vijahāra || 1 ||
+HTET 1.1.col
+	iti sarvatathāgatakāyavākcittahevajrakulapaṭalaḥ prathamaḥ |
 
-HTC 1.1.1
+HTC 1.1.col
+	vajrakulapaṭalaṃ samāptaṃ || <metamark rend="circle" function="chapter ending"/> ||
 
-HTNA 1.1.1
+HTNA 1.1.col
+	<metamark function="chapter ending" rend="circle"/> || vajrakulapaṭalaḥ prathamaḥ || <unclear reason="partially damaged"><metamark function="section ending" rend="puṣpikā"/></unclear>
 
-HTNAB 1.1.1
-sed: can't read htnab.xml: No such file or directory
+HTNAB 1.1.col
 
-HTNB 1.1.1
-	evam mayā śrutam ekasmin samaye bhagavān sarvvatathāgatakāyavākcittavajrayoṣidbhageṣu vijahāra |
+HTNB 1.1.col
+	vajrakulapaṭalaḥ pratha<cb/>maḥ || <metamark function="section ending" rend="circle"/> ||
 
-HTP 1.1.1
-	evam mayā srutam ekasmin sa<cb/>maye bhagavān sarvatathāgatakāyavākcittavajrayoṣidbhageṣu vijahāra |
+HTP 1.1.col
 
-HTB 1.1.1
-evam mayā śrutam ekasmin samaye bhagavān sarvatathāgatakāyavākcittavajrayoṣidbhageṣu vijahāra ||
+HTB 1.1.col
+<space quantity="3" unit="akṣara"/> || vajrakulapaṭalaḥ prathamaḥ || <space quantity="3" unit="akṣara"/> ||
 
-HTK 1.1.1
-	evaṃ mayā śrutam ekasmin samaye bhagavān sarvvatathāgatakāyavākcittavajra<lb n="2"/>yoṣidbhageṣu vijahāra ||
+HTK 1.1.col
+	<l>vajrākulapaṭalaḥ prathamaḥ || <metamark function="chapter ending" rend="3 akṣara size space"/> ||</l>
